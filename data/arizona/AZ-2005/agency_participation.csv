@@ -1,0 +1,113 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2005,Arizona,AZ,880,AZ0100600,Ajo,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2005,Arizona,AZ,801,AZ0010000,Apache,61404,8B,"Non-MSA counties from 25,000 thru 99,999",0,3,0,0,0,0,0
+2005,Arizona,AZ,895,AZ0111300,Apache Junction,34596,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2005,Arizona,AZ,924,AZCCHPX00,Arizona Department of Public Safety,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,856,AZ0074400,Arizona State Capitol,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,858,AZ0078800,Arizona State University: East,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2005,Arizona,AZ,860,AZ0079700,Arizona State University: Main Campus,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,857,AZ0075700,Arizona State University: West,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2005,Arizona,AZ,919,AZ0149700,Arizona Western College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2005,Arizona,AZ,837,AZ0070100,Avondale,61194,3,"Cities from 50,000 thru 99,000",0,0,0,0,0,0,0
+2005,Arizona,AZ,807,AZ0020100,Benson,5076,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,808,AZ0020300,Bisbee,6250,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,838,AZ0070300,Buckeye,9586,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,865,AZ0080500,Bullhead City,38846,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,910,AZ0131300,Camp Verde,10374,5,"Cities from 10,000 thru 24,999",0,11,0,0,0,0,0
+2005,Arizona,AZ,888,AZ0110100,Casa Grande,32253,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,898,AZ0119700,Central Arizona College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,839,AZ0070500,Chandler,231613,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,909,AZ0131200,Chino Valley,9472,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,903,AZ0130100,Clarkdale,3826,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,834,AZ0060100,Clifton,2339,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,806,AZ0020000,Cochise,49979,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,814,AZ0030000,Coconino,53461,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,866,AZ0080600,Colorado City,4291,6,"Cities from 2,500 thru 9,999",0,7,0,0,0,0,0
+2005,Arizona,AZ,889,AZ0110300,Coolidge,8518,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,904,AZ0130300,Cottonwood,10779,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,809,AZ0020500,Douglas,17274,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,835,AZ0060300,Duncan,735,7,"Cities under 2,500",0,0,0,0,1,1,0
+2005,Arizona,AZ,802,AZ0010100,Eagar,4200,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,832,AZ0059700,Eastern Arizona College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2005,Arizona,AZ,840,AZ0070700,El Mirage,21626,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,890,AZ0110500,Eloy,11059,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,815,AZ0030100,Flagstaff,58979,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,891,AZ0110700,Florence,17783,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,816,AZ0030300,Fredonia,1082,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,821,AZ0040000,Gila,27508,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,841,AZ0070900,Gila Bend,2118,7,"Cities under 2,500",0,0,0,0,1,0,0
+2005,Arizona,AZ,842,AZ0071100,Gilbert,162257,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,843,AZ0071300,Glendale,243608,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,822,AZ0040100,Globe,7449,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,844,AZ0071500,Goodyear,38772,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,828,AZ0050000,Graham,18616,8C,"Non-MSA counties from 10,000 thru 24,999",0,2,0,0,0,0,0
+2005,Arizona,AZ,833,AZ0060000,Greenlee,5417,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,855,AZ0073900,Guadalupe,5433,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,0,0
+2005,Arizona,AZ,823,AZ0040300,Hayden,1335,7,"Cities under 2,500",0,0,0,0,0,0,0
+2005,Arizona,AZ,869,AZ0090100,Holbrook,5275,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,810,AZ0020700,Huachuca City,1944,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,905,AZ0130500,Jerome,352,7,"Cities under 2,500",0,0,0,0,0,0,0
+2005,Arizona,AZ,892,AZ0110900,Kearny,2677,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,862,AZ0080100,Kingman,24997,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,864,AZ0080400,Lake Havasu City,55014,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,920,AZ0150000,La Paz,13831,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,893,AZ0111100,Mammoth,2100,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,882,AZ0100900,Marana,23885,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,836,AZ0070000,Maricopa,307383,9A,"MSA counties 100,000 or over",0,0,0,0,0,0,0
+2005,Arizona,AZ,845,AZ0071700,Mesa,452340,1C,"Cities from 250,000 thru 499,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,824,AZ0040500,Miami,1914,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,861,AZ0080000,Mohave,62958,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,868,AZ0090000,Navajo,71838,8B,"Non-MSA counties from 25,000 thru 99,999",0,11,0,0,0,0,0
+2005,Arizona,AZ,900,AZ0120100,Nogales,21321,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,820,AZ0039700,Northern Arizona University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,881,AZ0100700,Oro Valley,38934,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,818,AZ0030800,Page,7050,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,846,AZ0071900,Paradise Valley,14818,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,921,AZ0150100,Parker,3275,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,901,AZ0120300,Patagonia,858,7,"Cities under 2,500",0,0,0,0,0,0,0
+2005,Arizona,AZ,825,AZ0040600,Payson,14966,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,847,AZ0072100,Peoria,136995,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,848,AZ0072300,Phoenix,1466296,1A,"Cities 1,000,000 or over",1,12,0,0,0,1,0
+2005,Arizona,AZ,876,AZ0100000,Pima,334919,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2005,Arizona,AZ,829,AZ0050100,Pima,2035,7,"Cities under 2,500",0,0,0,0,0,0,0
+2005,Arizona,AZ,886,AZ0109800,Pima Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,887,AZ0110000,Pinal,109601,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2005,Arizona,AZ,874,AZ0091300,Pinetop-Lakeside,4170,6,"Cities from 2,500 thru 9,999",0,9,0,0,0,0,0
+2005,Arizona,AZ,906,AZ0130700,Prescott,40255,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,908,AZ0131100,Prescott Valley,31260,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,923,AZ0150300,Quartzsite,3469,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,830,AZ0050300,Safford,9249,6,"Cities from 2,500 thru 9,999",0,6,0,0,0,0,0
+2005,Arizona,AZ,879,AZ0100400,Sahuarita,4987,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,827,AZ0048900,San Carlos Apache,9708,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2005,Arizona,AZ,916,AZ0140800,San Luis,21238,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2005,Arizona,AZ,899,AZ0120000,Santa Cruz,19993,8C,"Non-MSA counties from 10,000 thru 24,999",0,2,0,0,0,0,0
+2005,Arizona,AZ,849,AZ0072500,Scottsdale,229339,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,819,AZ0031000,Sedona,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2005,Arizona,AZ,911,AZ0131400,Sedona,11444,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,870,AZ0090300,Show Low,9775,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,811,AZ0020900,Sierra Vista,42209,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,871,AZ0090500,Snowflake-Taylor,8782,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,913,AZ0140300,Somerton,9350,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,877,AZ0100100,South Tucson,5753,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,804,AZ0010500,Springerville,2012,7,"Cities under 2,500",1,12,0,8,0,1,0
+2005,Arizona,AZ,803,AZ0010300,St. Johns,3632,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,894,AZ0111200,Superior,3359,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2005,Arizona,AZ,850,AZ0072700,Surprise,62751,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,872,AZ0090700,Taylor,3781,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2005,Arizona,AZ,851,AZ0072900,Tempe,166144,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,831,AZ0050500,Thatcher,4216,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,852,AZ0073100,Tolleson,6150,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,812,AZ0021100,Tombstone,1613,7,"Cities under 2,500",0,7,0,0,0,0,0
+2005,Arizona,AZ,878,AZ0100300,Tucson,529447,1B,"Cities from 500,000 thru 999,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,885,AZ0109700,University of Arizona,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,917,AZ0140900,Wellton,1927,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,853,AZ0073300,Wickenburg,5739,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,813,AZ0021300,Willcox,3888,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,817,AZ0030700,Williams,3070,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,826,AZ0040700,Winkelman,458,7,"Cities under 2,500",0,0,0,0,1,0,0
+2005,Arizona,AZ,873,AZ0090900,Winslow,10238,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,902,AZ0130000,Yavapai,82413,9B,"MSA counties from 25,000 thru 99,999",1,12,0,9,0,1,0
+2005,Arizona,AZ,907,AZ0130800,Yavapai College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2005,Arizona,AZ,854,AZ0073500,Youngtown,3462,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2005,Arizona,AZ,914,AZ0140500,Yuma,86157,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2005,Arizona,AZ,912,AZ0140000,Yuma,63403,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0

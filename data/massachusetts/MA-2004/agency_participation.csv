@@ -1,0 +1,444 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2004,Massachusetts,MA,7741,MA0120100,Abington,16010,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7630,MA0090100,Acton,20747,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7462,MA0030100,Acushnet,10566,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7434,MA0020100,Adams,8564,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7567,MA0070100,Agawam,28453,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7498,MA0050100,Amesbury,16674,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7599,MA0080100,Amherst,34476,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7499,MA0050200,Andover,31849,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7490,MA0040300,Aquinnah,355,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7631,MA0090200,Arlington,41793,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7800,MA0140100,Ashburnham,5827,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7632,MA0090300,Ashby,2913,6,"Cities from 2,500 thru 9,999",0,7,0,7,0,0,0
+2004,Massachusetts,MA,7540,MA0060100,Ashfield,1811,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7633,MA0090400,Ashland,15433,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7865,MA014709E,Assumption College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7801,MA0140200,Athol,11559,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7463,MA0030200,Attleboro,43388,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7802,MA0140300,Auburn,16381,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7707,MA0110100,Avon,4411,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7634,MA0090500,Ayer,7239,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7414,MA0010000,Barnstable,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7415,MA0010100,Barnstable,48777,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7431,MA001MD00,Barnstable Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7803,MA0140400,Barre,5339,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7781,MA0130900,Bay Transportation Authority: Suffolk County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7435,MA0020300,Becket,1751,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7635,MA0090600,Bedford,12550,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7600,MA0080200,Belchertown,13769,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7708,MA0110200,Bellingham,15664,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7636,MA0090700,Belmont,23796,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7694,MA009CL00,Bentley College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7464,MA0030300,Berkley,6257,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7433,MA0020000,Berkshire,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7458,MA002MD00,Berkshire Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7804,MA0140500,Berlin,2656,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7541,MA0060200,Bernardston,2193,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7500,MA0050300,Beverly,40149,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7637,MA0090800,Billerica,39489,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7805,MA0140600,Blackstone,9038,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7568,MA0070200,Blandford,1239,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7806,MA0140700,Bolton,4333,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7775,MA0130100,Boston,580087,1B,"Cities from 500,000 thru 999,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7693,MA009BC00,Boston College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7795,MA013BU00,Boston University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7416,MA0010200,Bourne,19472,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7638,MA0090900,Boxborough,4999,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7501,MA0050400,Boxford,8192,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7807,MA0140800,Boylston,4151,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7709,MA0110300,Braintree,33639,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7700,MA009WU00,Brandeis University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7417,MA0010300,Brewster,10374,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7742,MA0120200,Bridgewater,25076,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7569,MA0070300,Brimfield,3543,6,"Cities from 2,500 thru 9,999",0,9,0,9,0,0,0
+2004,Massachusetts,MA,7461,MA0030000,Bristol,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7483,MA0032500,Bristol Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7485,MA003MD00,Bristol Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7743,MA0120300,Brockton,94838,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7808,MA0140900,Brookfield,3125,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7710,MA0110400,Brookline,56493,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7542,MA0060300,Buckland,1989,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7639,MA0091000,Burlington,22789,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7640,MA0091100,Cambridge,101320,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7711,MA0110500,Canton,21360,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7776,MA0130200,Capitol Police,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2004,Massachusetts,MA,7641,MA0091200,Carlisle,4849,6,"Cities from 2,500 thru 9,999",0,9,0,9,0,0,0
+2004,Massachusetts,MA,7744,MA0120400,Carver,11506,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7543,MA0060400,Charlemont,1381,7,"Cities under 2,500",0,10,0,10,0,0,0
+2004,Massachusetts,MA,7809,MA0141000,Charlton,12127,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7418,MA0010400,Chatham,6831,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7642,MA0091300,Chelmsford,33868,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7777,MA0130300,Chelsea,34016,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7436,MA0020400,Cheshire,3378,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7570,MA0070400,Chester,1321,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7571,MA0070500,Chicopee,54847,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7437,MA0020500,Clarksburg,1677,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7874,MA014UN00,Clark University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7810,MA0141100,Clinton,13738,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7712,MA0110600,Cohasset,7273,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7643,MA0091400,Concord,16892,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7544,MA0060600,Conway,1876,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7602,MA0080400,Cummington,995,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7438,MA0020600,Dalton,6765,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7502,MA0050500,Danvers,25521,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7465,MA0030400,Dartmouth,31076,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7736,MA0113100,Dean College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7713,MA0110700,Dedham,23183,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7545,MA0060700,Deerfield,4767,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7419,MA0010500,Dennis,16183,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7466,MA0030500,Dighton,6539,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2004,Massachusetts,MA,7811,MA0141200,Douglas,7633,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7714,MA0110800,Dover,5664,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7644,MA0091500,Dracut,28728,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7812,MA0141300,Dudley,10692,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7487,MA0040000,Dukes,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7495,MA004MD00,Dukes Metropolitan Distrist Commission,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7645,MA0091600,Dunstable,3045,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7745,MA0120500,Duxbury,14621,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7746,MA0120600,East Bridgewater,13616,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7813,MA0141400,East Brookfield,2121,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7420,MA0010600,Eastham,5617,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7603,MA0080500,Easthampton,16297,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7572,MA0070600,East Longmeadow,14665,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7467,MA0030600,Easton,22909,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7489,MA0040200,Edgartown,3914,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7439,MA0020700,Egremont,1337,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7787,MA0133600,Emerson College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7546,MA0060800,Erving,1508,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7503,MA0050600,Essex,3334,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7497,MA0050000,Essex,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7533,MA0053500,Essex Metropolitan Distrist Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7646,MA0091700,Everett,37441,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7468,MA0030700,Fairhaven,16330,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7469,MA0030800,Fall River,92516,3,"Cities from 50,000 thru 99,000",1,12,0,7,0,1,0
+2004,Massachusetts,MA,7421,MA0010700,Falmouth,33734,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7814,MA0141500,Fitchburg,39843,4,"Cities from 25,000 thru 49,999",0,8,0,8,0,0,0
+2004,Massachusetts,MA,7872,MA014SC00,Fitchburg State College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7715,MA0110900,Foxborough,16339,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7647,MA0091800,Framingham,66069,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7697,MA009SC00,Framingham State College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7716,MA0111000,Franklin,30096,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7539,MA0060000,Franklin,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7564,MA006MD00,Franklin Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7470,MA0030900,Freetown,8839,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7815,MA0141600,Gardner,20994,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7504,MA0050700,Georgetown,7806,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7547,MA0060900,Gill,1369,7,"Cities under 2,500",0,10,0,10,0,0,0
+2004,Massachusetts,MA,7505,MA0050800,Gloucester,30649,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7604,MA0080600,Goshen,963,7,"Cities under 2,500",0,3,0,3,0,0,0
+2004,Massachusetts,MA,7816,MA0141700,Grafton,15939,5,"Cities from 10,000 thru 24,999",0,11,0,11,0,0,0
+2004,Massachusetts,MA,7605,MA0080700,Granby,6344,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7573,MA0070700,Granville,1593,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7440,MA0020900,Great Barrington,7425,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7548,MA0061000,Greenfield,18067,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7648,MA0091900,Groton,10183,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7506,MA0050900,Groveland,6325,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7606,MA0080800,Hadley,4893,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7747,MA0120700,Halifax,7770,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7508,MA0051000,Hamilton,8408,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7574,MA0070800,Hampden,5295,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7566,MA0070000,Hampden,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7595,MA007MD00,Hampden Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7598,MA0080000,Hampshire,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7617,MA0082100,Hampshire Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7748,MA0120800,Hanover,13647,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7749,MA0120900,Hanson,9825,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7817,MA0141800,Hardwick,2661,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7818,MA0141900,Harvard,6092,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7699,MA009629E,Harvard University ,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7422,MA0010800,Harwich,12825,5,"Cities from 10,000 thru 24,999",0,6,0,6,0,0,0
+2004,Massachusetts,MA,7607,MA0080900,Hatfield,3345,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7509,MA0051100,Haverhill,60167,3,"Cities from 50,000 thru 99,000",1,12,0,6,0,1,0
+2004,Massachusetts,MA,7549,MA0061200,Heath,806,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7750,MA0121000,Hingham,20266,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7441,MA0021100,Hinsdale,1836,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7717,MA0111100,Holbrook,10842,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7819,MA0142000,Holden,16394,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7575,MA0070900,Holland,2461,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7649,MA0092000,Holliston,13941,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7576,MA0071000,Holyoke,39910,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7590,MA0072600,Holyoke Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7820,MA0142100,Hopedale,6169,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7650,MA0092100,Hopkinton,13981,5,"Cities from 10,000 thru 24,999",0,11,0,11,0,0,0
+2004,Massachusetts,MA,7821,MA0142200,Hubbardston,4205,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7651,MA0092200,Hudson,18300,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7751,MA0121100,Hull,11272,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7608,MA0081000,Huntington,2216,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7510,MA0051200,Ipswich,13306,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7752,MA0121200,Kingston,12188,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7753,MA0121300,Lakeville,10441,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7822,MA0142300,Lancaster,6601,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7442,MA0021200,Lanesboro,2973,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7691,MA009679E,Lasell College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7511,MA0051300,Lawrence,72301,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7443,MA0021300,Lee,5885,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7823,MA0142400,Leicester,10822,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7444,MA0021400,Lenox,5171,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7824,MA0142500,Leominster,41890,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7550,MA0061300,Leverett,1747,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7652,MA0092300,Lexington,30550,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7551,MA0061400,Leyden,794,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7653,MA0092400,Lincoln,8045,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7654,MA0092500,Littleton,8581,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7577,MA0071100,Longmeadow,15635,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7655,MA0092600,Lowell,104081,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7578,MA0071200,Ludlow,21785,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7825,MA0142600,Lunenburg,9883,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7512,MA0051400,Lynn,89340,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7513,MA0051500,Lynnfield,11656,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7656,MA0092700,Malden,55669,3,"Cities from 50,000 thru 99,000",1,12,0,8,0,1,0
+2004,Massachusetts,MA,7514,MA0051600,Manchester-by-the-Sea,5349,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7471,MA0031000,Mansfield,22950,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7515,MA0051700,Marblehead,20397,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7754,MA0121400,Marion,5268,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7657,MA0092800,Marlborough,37880,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7755,MA0121500,Marshfield,24710,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7423,MA0010900,Mashpee,14163,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7782,MA0131500,Massachusetts Attorney General,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2004,Massachusetts,MA,7430,MA001BA00,Massachusetts Bay Transportation Authority: Barnstable County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7457,MA002BA00,Massachusetts Bay Transportation Authority: Berkshire County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7484,MA003BA00,Massachusetts Bay Transportation Authority: Bristol County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7494,MA004BA00,Massachusetts Bay Transportation Authority: Dukes County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7537,MA005BA00,Massachusetts Bay Transportation Authority: Essex County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7563,MA006BA00,Massachusetts Bay Transportation Authority: Franklin County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7592,MA007BA00,Massachusetts Bay Transportation Authority: Hampden County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7627,MA008BA00,Massachusetts Bay Transportation Authority: Hampshire County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7692,MA009BA00,Massachusetts Bay Transportation Authority: Middlesex County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7703,MA010BA00,Massachusetts Bay Transportation Authority: Nantucket County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7737,MA011BA00,Massachusetts Bay Transportation Authority: Norfolk County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7771,MA012BA00,Massachusetts Bay Transportation Authority: Plymouth County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7869,MA014BA00,Massachusetts Bay Transportation Authority: Worcester County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7788,MA013029E,Massachusetts College of Art,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7460,MA002SC00,Massachusetts College of Liberal Arts,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7695,MA009639E,Massachusetts Institute of Technology,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7769,MA012310X,Massasoit Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7756,MA0121600,Mattapoisett,6463,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7658,MA0092900,Maynard,10347,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7718,MA0111200,Medfield,12381,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7659,MA0093000,Medford,54590,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7719,MA0111300,Medway,12866,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7660,MA0093100,Melrose,26714,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7826,MA0142700,Mendon,5676,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7516,MA0051800,Merrimac,6303,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7517,MA0051900,Methuen,44732,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7757,MA0121700,Middleboro,20854,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7629,MA0090000,Middlesex ,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7684,MA0095500,Middlesex Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7518,MA0052000,Middleton,8960,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7827,MA0142800,Milford,27394,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7828,MA0142900,Millbury,13269,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7720,MA0111400,Millis,8002,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7829,MA0143000,Millville,2910,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7721,MA0111500,Milton,25774,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7552,MA0061500,Monroe,97,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7579,MA0071300,Monson,8602,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7553,MA0061600,Montague,8430,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7445,MA0021500,Monterey,942,7,"Cities under 2,500",0,9,0,9,0,0,0
+2004,Massachusetts,MA,7619,MA008049E,Mount Holyoke College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7519,MA0052100,Nahant,3619,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7701,MA0100000,Nantucket,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7702,MA0100100,Nantucket,10696,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7704,MA010MD00,Nantucket Metropolitan District Commission,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2004,Massachusetts,MA,7661,MA0093200,Natick,32236,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7722,MA0111600,Needham,29060,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7472,MA0031100,New Bedford,93863,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7830,MA0143100,New Braintree,1037,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7520,MA0052200,Newbury,6843,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7521,MA0052300,Newburyport,17453,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7554,MA0061700,New Salem,968,7,"Cities under 2,500",0,10,0,10,0,0,0
+2004,Massachusetts,MA,7662,MA0093300,Newton,84101,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7723,MA0111700,Norfolk,10423,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7706,MA0110000,Norfolk,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7735,MA0112900,Norfolk Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7446,MA0021900,North Adams,14296,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7609,MA0081200,Northampton,29210,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7522,MA0052400,North Andover,27852,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7473,MA0031200,North Attleboro,28028,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7832,MA0143300,Northborough,14253,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7833,MA0143400,Northbridge,13669,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7831,MA0143200,North Brookfield,4806,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7797,MA013NU00,Northeastern University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7555,MA0061800,Northfield,3099,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7663,MA0093400,North Reading,13988,5,"Cities from 10,000 thru 24,999",0,8,0,8,0,0,0
+2004,Massachusetts,MA,7507,MA0050E00,North Shore Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7474,MA0031300,Norton,18963,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7758,MA0121800,Norwell,10262,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7724,MA0111800,Norwood,28654,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7491,MA0040500,Oak Bluffs,3814,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7834,MA0143500,Oakham,1823,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7556,MA0061900,Orange,7544,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7424,MA0011000,Orleans,6474,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7447,MA0022000,Otis,1360,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7835,MA0143600,Oxford,13724,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7580,MA0071500,Palmer,12799,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7836,MA0143700,Paxton,4520,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7523,MA0052500,Peabody,49628,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7610,MA0081300,Pelham,1437,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7759,MA0121900,Pembroke,17629,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7664,MA0093500,Pepperell,11405,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7448,MA0022100,Peru,819,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7837,MA0143800,Petersham,1242,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7838,MA0143900,Phillipston,1681,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7449,MA0022200,Pittsfield,44661,4,"Cities from 25,000 thru 49,999",0,6,0,0,0,0,0
+2004,Massachusetts,MA,7725,MA0111900,Plainville,7957,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7740,MA0120000,Plymouth,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7760,MA0122000,Plymouth,53967,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7772,MA012MD00,Plymouth Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7761,MA0122100,Plympton,2717,6,"Cities from 2,500 thru 9,999",0,7,0,7,0,0,0
+2004,Massachusetts,MA,7839,MA0144000,Princeton,3485,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7425,MA0011100,Provincetown,3463,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2004,Massachusetts,MA,7726,MA0112000,Quincy,88824,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7868,MA0149E00,Quinsigamond Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7727,MA0112100,Randolph,30843,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7475,MA0031400,Raynham,12536,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7665,MA0093600,Reading,23523,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7432,MA001MV00,Registry of Motor Vehicles: Barnstable County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7459,MA002MV00,Registry of Motor Vehicles: Berkshire County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7486,MA003MV00,Registry of Motor Vehicles: Bristol County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7496,MA004MV00,Registry of Motor Vehicles: Dukes County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7538,MA005MV00,Registry of Motor Vehicles: Essex County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7565,MA006MV00,Registry of Motor Vehicles: Franklin County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7596,MA007MV00,Registry of Motor Vehicles: Hampden County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7628,MA008MV00,Registry of Motor Vehicles: Hampshire County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7696,MA009MV00,Registry of Motor Vehicles: Middlesex County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7705,MA010MV00,Registry of Motor Vehicles: Nantucket County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2004,Massachusetts,MA,7739,MA011MV00,Registry of Motor Vehicles: Norfolk County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7773,MA012MV00,Registry of Motor Vehicles: Plymouth County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7796,MA013MV00,Registry of Motor Vehicles: Suffolk County,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2004,Massachusetts,MA,7871,MA014MV00,Registry of Motor Vehicles: Worcester County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7476,MA0031500,Rehoboth,10937,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7778,MA0130400,Revere,46878,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7450,MA0022300,Richmond,1618,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7762,MA0122200,Rochester,5055,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7763,MA0122300,Rockland,17921,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7524,MA0052600,Rockport,7789,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7557,MA0062000,Rowe,348,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7525,MA0052700,Rowley,5595,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7840,MA0144100,Royalston,1318,7,"Cities under 2,500",0,8,0,8,0,0,0
+2004,Massachusetts,MA,7581,MA0071600,Russell,1694,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7841,MA0144200,Rutland,7017,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7526,MA0052800,Salem,41956,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7534,MA0053600,Salem State University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7527,MA0052900,Salisbury,7983,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7426,MA0011200,Sandwich,20905,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7528,MA0053000,Saugus,26421,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7451,MA0022500,Savoy,719,7,"Cities under 2,500",0,1,0,0,0,0,0
+2004,Massachusetts,MA,7764,MA0122400,Scituate,18126,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7477,MA0031600,Seekonk,13730,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7728,MA0112200,Sharon,17410,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7452,MA0022600,Sheffield,3348,6,"Cities from 2,500 thru 9,999",0,0,0,1,0,0,0
+2004,Massachusetts,MA,7558,MA0062100,Shelburne,2058,7,"Cities under 2,500",0,11,0,11,0,0,0
+2004,Massachusetts,MA,7666,MA0093700,Sherborn,4252,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7667,MA0093800,Shirley,7584,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7842,MA0144300,Shrewsbury,33004,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7559,MA0062200,Shutesbury,1830,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7478,MA0031700,Somerset,18682,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7668,MA0093900,Somerville,76095,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7612,MA0081600,Southampton,5721,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7843,MA0144400,Southborough,9402,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7844,MA0144500,Southbridge,17372,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7611,MA0081500,South Hadley,17368,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7582,MA0071700,Southwick,9281,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7845,MA0144600,Spencer,11956,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7583,MA0071800,Springfield,151757,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7594,MA007359E,Springfield College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7593,MA007999E,Springfield Technical Community College,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Massachusetts,MA,7890,MAMSP0000,State Police,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7876,MA301SP00,State Police: Barnstable County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7877,MA302SP00,State Police: Berkshire County,11745,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7878,MA303SP00,State Police: Bristol County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7879,MA304SP00,State Police: Dukes County,997,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7880,MA305SP00,State Police: Essex County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7881,MA306SP00,State Police: Franklin County,7830,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7882,MA307SP00,State Police: Hampden County,2044,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7883,MA308SP00,State Police: Hampshire County,4631,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7884,MA309SP00,State Police: Middlesex County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7885,MA310SP00,State Police: Nantucket County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7886,MA311SP00,State Police: Norfolk County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7887,MA312SP00,State Police: Plymouth County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7888,MA313SP00,State Police: Suffolk County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7889,MA314SP00,State Police: Worcester County,1819,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7846,MA0144700,Sterling,7673,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7453,MA0022700,Stockbridge,2240,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7669,MA0094000,Stoneham,21963,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7729,MA0112300,Stoughton,27023,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7670,MA0094100,Stow,6120,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7847,MA0144800,Sturbridge,8456,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7671,MA0094200,Sudbury,17201,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7774,MA0130000,Suffolk,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7780,MA0130600,Suffolk Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2004,Massachusetts,MA,7560,MA0062300,Sunderland,3792,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7848,MA0144900,Sutton,8842,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7529,MA0053100,Swampscott,14414,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7479,MA0031800,Swansea,16249,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7480,MA0031900,Taunton,56632,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7849,MA0145000,Templeton,7235,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7672,MA0094300,Tewksbury,29211,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7492,MA0040600,Tisbury,3853,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7584,MA0071900,Tolland,431,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7530,MA0053200,Topsfield,6235,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7673,MA0094400,Townsend,9339,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7427,MA0011300,Truro,2163,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7698,MA009TU00,Tufts University: Medford,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7789,MA013390X,Tufts University: Suffolk,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7862,MA014649E,Tufts University: Worcester,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7674,MA0094500,Tyngsboro,11287,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7618,MA0082200,University of Massachusetts: Amherst,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7482,MA0032100,University of Massachusetts: Dartmouth,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7784,MA0132000,"University of Massachusetts: Harbor Campus, Boston",0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7873,MA014UM00,"University of Massachusetts: Medical Center, Worcester",0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7850,MA0145100,Upton,6101,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7851,MA0145200,Uxbridge,12004,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7675,MA0094600,Wakefield,24716,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7585,MA0072000,Wales,1781,7,"Cities under 2,500",0,7,0,7,0,0,0
+2004,Massachusetts,MA,7730,MA0112400,Walpole,22462,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7676,MA0094700,Waltham,58739,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7613,MA0081700,Ware,9928,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7765,MA0122500,Wareham,21035,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7852,MA0145300,Warren,4915,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7561,MA0062400,Warwick,751,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7454,MA0022900,Washington,541,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7677,MA0094800,Watertown,32828,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7678,MA0094900,Wayland,13155,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7853,MA0145400,Webster,16847,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7731,MA0112500,Wellesley,26508,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7738,MA011CL00,Wellesley College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7428,MA0011400,Wellfleet,2834,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7531,MA0053300,Wenham,4448,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7798,MA013WI00,Wentworth Institute of Technology,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7856,MA0145700,Westborough,18762,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7854,MA0145500,West Boylston,7629,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7766,MA0122600,West Bridgewater,6843,6,"Cities from 2,500 thru 9,999",0,6,0,0,0,0,0
+2004,Massachusetts,MA,7855,MA0145600,West Brookfield,3890,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,21943,MA0079ETZ,Western New England University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7587,MA0072200,Westfield,40453,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7597,MA007SC00,Westfield State College,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Massachusetts,MA,7589,MA0072400,Westfield State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7679,MA0095000,Westford,21277,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7614,MA0081800,Westhampton,1547,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7857,MA0145800,Westminster,7242,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7532,MA0053400,West Newbury,4254,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7680,MA0095100,Weston,11614,5,"Cities from 10,000 thru 24,999",0,9,0,9,0,0,0
+2004,Massachusetts,MA,7481,MA0032000,Westport,14580,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7586,MA0072100,West Springfield,27879,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7493,MA0040700,West Tisbury,2627,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7732,MA0112600,Westwood,14076,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7733,MA0112700,Weymouth,54384,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7562,MA0062600,Whately,1568,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7767,MA0122700,Whitman,14313,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7588,MA0072300,Wilbraham,13830,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7615,MA0081900,Williamsburg,2458,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7455,MA0023100,Williamstown,8305,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7681,MA0095200,Wilmington,21563,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Massachusetts,MA,7858,MA0145900,Winchendon,9961,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7682,MA0095300,Winchester,21126,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7779,MA0130500,Winthrop,17934,5,"Cities from 10,000 thru 24,999",0,4,0,4,0,0,0
+2004,Massachusetts,MA,7683,MA0095400,Woburn,37710,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7799,MA0140000,Worcester,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7859,MA0146000,Worcester,175244,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7870,MA014MD00,Worcester Metropolitan District Commission,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7875,MA014WS00,Worcester State College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Massachusetts,MA,7616,MA0082000,Worthington,1311,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Massachusetts,MA,7734,MA0112800,Wrentham,10999,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Massachusetts,MA,7429,MA0011500,Yarmouth,25126,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1

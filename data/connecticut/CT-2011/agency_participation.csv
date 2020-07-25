@@ -1,0 +1,123 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2011,Connecticut,CT,2120,CT0000200,Ansonia,19285,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2121,CT0000400,Avon,18131,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2122,CT0000500,Beacon Falls,6060,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2123,CT0000700,Berlin,19903,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2124,CT0000900,Bethel,18618,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2125,CT0001100,Bloomfield,20524,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2126,CT0001400,Branford,28078,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2127,CT0001500,Bridgeport,144496,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2128,CT0001700,Bristol,60589,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2129,CT0001800,Brookfield,16482,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2130,CT0002300,Canton,10311,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2223,CT0019000,Central Connecticut State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2011,Connecticut,CT,2131,CT0002500,Cheshire,29315,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2132,CT0002700,Clinton,13285,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2239,CTCSP0000,Connecticut State Police,539137,8A,"Non-MSA counties 100,000 or over",1,12,1,12,0,1,1
+2011,Connecticut,CT,2133,CT0003200,Coventry,12458,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2134,CT0003300,Cromwell,14031,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2135,CT0003400,Danbury,81043,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2155,CT0006900,Danielson,4058,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2136,CT0003500,Darien,20770,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2137,CT0003700,Derby,12926,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2224,CT0019100,Eastern Connecticut State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2011,Connecticut,CT,2138,CT0004200,East Hampton,12983,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2139,CT0004300,East Hartford,51347,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2140,CT0004400,East Haven,29311,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2141,CT0004500,East Lyme,19194,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2142,CT0004600,Easton,7504,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2143,CT0004700,East Windsor,11183,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2144,CT0004900,Enfield,44737,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2145,CT0005100,Fairfield,59514,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2228,CT001SP00,Fairfield,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2011,Connecticut,CT,2146,CT0005200,Farmington,25387,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2147,CT0005400,Glastonbury,34491,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2148,CT0005600,Granby,11303,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2149,CT0005700,Greenwich,61284,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2151,CT0005900,Groton,10408,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2238,CT00B5900,Groton Long Point,519,7,"Cities under 2,500",1,12,0,0,0,1,0
+2011,Connecticut,CT,2237,CT00A5900,Groton Town,29262,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2152,CT0006000,Guilford,22416,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2153,CT0006200,Hamden,61073,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2154,CT0006400,Hartford,125006,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2230,CT002SP00,Hartford,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2011,Connecticut,CT,2150,CT0005800,Jewett City,3493,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2156,CT0007000,Ledyard,15079,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2231,CT003SP00,Litchfield,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2011,Connecticut,CT,2157,CT0007600,Madison,18303,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2158,CT0007700,Manchester,58349,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2240,CTDI00200,Mashantucket Pequot Tribal,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2011,Connecticut,CT,2159,CT0008000,Meriden,60981,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2222,CT0018500,Metropolitan Transportation Authority,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2011,Connecticut,CT,2160,CT0008100,Middlebury,7589,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2232,CT004SP00,Middlesex,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2011,Connecticut,CT,2161,CT0008300,Middletown,47736,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2162,CT0008400,Milford,52857,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2241,CTDI00300,Mohegan Tribal,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2011,Connecticut,CT,2163,CT0008500,Monroe,19515,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2164,CT0008600,Montville,19607,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2165,CT0008800,Naugatuck,31921,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2166,CT0008900,New Britain,73341,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2167,CT0009000,New Canaan,19775,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2233,CT005SP00,New Haven,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2011,Connecticut,CT,2168,CT0009300,New Haven,130019,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2169,CT0009400,Newington,30619,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2234,CT006SP00,New London,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2011,Connecticut,CT,2170,CT0009500,New London,27671,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2171,CT0009600,New Milford,28194,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2172,CT0009700,Newtown,27611,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2173,CT0009900,North Branford,14434,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2174,CT0010100,North Haven,24138,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2175,CT0010300,Norwalk,85761,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2176,CT0010400,Norwich,40568,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2177,CT0010600,Old Saybrook,10261,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2178,CT0010700,Orange,13982,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2179,CT0010900,Plainfield,15433,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2180,CT0011000,Plainville,17749,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2181,CT0011100,Plymouth,12266,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2182,CT0011300,Portland,9526,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2183,CT0011500,Prospect,9422,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2184,CT0011600,Putnam,9602,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2185,CT0011700,Redding,9175,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2186,CT0011800,Ridgefield,24684,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2187,CT0011900,Rocky Hill,19745,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2188,CT0012400,Seymour,16571,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2189,CT0012600,Shelton,39632,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2190,CT0012800,Simsbury,23554,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2227,CT0019400,Southern Connecticut State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2011,Connecticut,CT,2191,CT0013100,Southington,43149,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2192,CT0013200,South Windsor,25757,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2011,Connecticut,CT,2193,CT0013300,Sprague,2990,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2194,CT0013400,Stafford,12109,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,1
+2011,Connecticut,CT,2195,CT0013500,Stamford,122870,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2229,CT0020000,State Capitol Police,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2011,Connecticut,CT,2196,CT0013700,Stonington,18579,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2197,CT0013800,Stratford,51479,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2198,CT0013900,Suffield,15764,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2199,CT0014000,Thomaston,7902,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2235,CT007SP00,Tolland,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2011,Connecticut,CT,2200,CT0014300,Torrington,36450,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2201,CT0014400,Trumbull,36085,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2221,CT001710X,University of Connecticut: Avery Point,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2011,Connecticut,CT,2225,CT0019200,University of Connecticut: Health Center,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2011,Connecticut,CT,2220,CT0017000,"University of Connecticut: Storrs, Avery Point, and Hartford",0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2011,Connecticut,CT,2202,CT0014600,Vernon,29233,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2203,CT0014800,Wallingford,45218,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2204,CT0015100,Waterbury,110570,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2205,CT0015200,Waterford,19553,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2206,CT0015300,Watertown,22556,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2226,CT0019300,Western Connecticut State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2011,Connecticut,CT,2207,CT0015500,West Hartford,63385,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2011,Connecticut,CT,2208,CT0015600,West Haven,55667,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2011,Connecticut,CT,2209,CT0015700,Weston,10198,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2210,CT0015800,Westport,26440,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2211,CT0015900,Wethersfield,26717,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2214,CT0016300,Willimantic,17770,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2212,CT0016100,Wilton,18095,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2213,CT0016200,Winchester,11263,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2236,CT008SP00,Windham,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2011,Connecticut,CT,2215,CT0016400,Windsor,29098,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2216,CT0016500,Windsor Locks,12521,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2217,CT0016600,Wolcott,16711,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2218,CT0016700,Woodbridge,9007,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2011,Connecticut,CT,2219,CT001690X,Yale University,0,7,"Cities under 2,500",1,12,0,0,0,1,0

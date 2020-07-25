@@ -1,0 +1,305 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2015,Colorado,CO,2016,CO0428000,22nd Judicial District Drug Task Force,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1826,CO0010000,Adams,100266,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2015,Colorado,CO,1838,CO0020200,Adams State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,23192,CO0622900,Aims Community College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2088,CO0610100,Akron,1693,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1836,CO0020000,Alamosa,6709,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2015,Colorado,CO,1837,CO0020100,Alamosa,9598,6,"Cities from 2,500 thru 9,999",0,5,0,5,0,0,0
+2015,Colorado,CO,25267,CO0418000,All Crimes Enforcement Team,0,7,"Cities under 2,500",1,12,0,11,0,1,0
+2015,Colorado,CO,2039,CO0470200,Alma,276,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1881,CO0110100,Antonito,773,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1839,CO0030000,Arapahoe,97185,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1848,CO0030900,Arapahoe Community College,0,7,"Cities under 2,500",0,10,0,10,0,0,0
+2015,Colorado,CO,1852,CO0040000,Archuleta,10585,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1959,CO0300100,Arvada,115379,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2044,CO0490100,Aspen,6841,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2102,CO0621200,Ault,1623,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1899,CO0160200,Auraria Higher Education Center,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1827,CO0010100,Aurora,360237,1C,"Cities from 250,000 thru 499,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1914,CO0190600,Avon,6465,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1855,CO0050000,Baca,1607,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1913,CO0190400,Basalt,3937,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2015,Colorado,CO,1981,CO0340400,Bayfield,2580,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1860,CO0060000,Bent,5452,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2015,Colorado,CO,1985,CO0350100,Berthoud,5989,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Colorado,CO,1942,CO0240200,Black Hawk,128,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2082,CO0590500,Blue River,890,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1862,CO0070000,Boulder,61685,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1863,CO0070100,Boulder,106823,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1845,CO0030600,Bow Mar,935,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2078,CO0590100,Breckenridge,4804,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1828,CO0010200,Brighton,37511,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1864,CO0070200,Broomfield,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2113,CO0640100,Broomfield,63935,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2024,CO0440100,Brush,5465,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2015,Colorado,CO,1872,CO0080100,Buena Vista,2764,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1972,CO0320100,Burlington,3960,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1928,CO0211000,Calhan,800,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1858,CO0050300,Campo,104,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1930,CO0220100,Canon City,16314,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1936,CO0230400,Carbondale,6621,6,"Cities from 2,500 thru 9,999",0,10,0,10,0,0,0
+2015,Colorado,CO,1905,CO0180100,Castle Rock,57699,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1896,CO0150400,Cedaredge,2172,7,"Cities under 2,500",0,1,0,1,0,0,0
+2015,Colorado,CO,1849,CO0031100,Centennial,108846,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2068,CO0550100,Center,2188,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1941,CO0240100,Central City,739,7,"Cities under 2,500",0,6,0,6,0,0,0
+2015,Colorado,CO,1871,CO0080000,Chaffee,10360,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1850,CO0031200,Chatfield State Park,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1851,CO0031300,Cherry Creek State Park,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Colorado,CO,1844,CO0030500,Cherry Hills Village,6530,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1874,CO0090000,Cheyenne,1887,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1875,CO0090100,Cheyenne Wells,864,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1876,CO0100000,Clear Creek,6495,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2006,CO0390900,Collbran,707,7,"Cities under 2,500",0,3,0,3,0,0,0
+2015,Colorado,CO,2114,COCBI0000,Colorado Bureau of Investigation,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1907,CO0180600,Colorado Division of Parks and Recreation Law Enforcement,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2052,CO0510200,Colorado Mental Health Institute,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1966,CO0300800,Colorado School of Mines,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1920,CO0210100,Colorado Springs,452410,1C,"Cities from 250,000 thru 499,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2116,COCSP1700,Colorado State Patrol Cortez,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Colorado,CO,2117,COCSPNO00,Colorado State Police Cattle-Theft,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Colorado,CO,1989,CO0350500,"Colorado State University, Fort Collins",0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2053,CO0510300,Colorado State University: Pueblo,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1847,CO0030800,Columbine Valley,1346,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1829,CO0010300,Commerce City,53261,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1880,CO0110000,Conejos,8292,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2013,CO0420100,Cortez,8631,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1886,CO0120000,Costilla,3592,8D,"Non-MSA counties under 10,000",0,4,0,4,0,0,0
+2015,Colorado,CO,2010,CO0410100,Craig,8698,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2008,CO0400100,Creede,281,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Colorado,CO,1952,CO0260300,Crested Butte,1556,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2085,CO0600200,Cripple Creek,1167,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1888,CO0130000,Crowley,5267,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1890,CO0140000,Custer,4399,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2098,CO0620800,Dacono,4640,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2004,CO0390400,De Beque,496,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,2059,CO0530200,Del Norte,1614,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1892,CO0150000,Delta,16576,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1893,CO0150100,Delta,8686,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2022,CO0438000,Delta Montrose Drug Task Force,0,7,"Cities under 2,500",0,11,1,12,0,0,1
+2015,Colorado,CO,1897,CO0160000,Denver,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Colorado,CO,2119,CODPD0000,Denver,682418,1B,"Cities from 500,000 thru 999,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1833,CO0010700,Derby,8330,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Colorado,CO,2079,CO0590200,Dillon,944,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2011,CO0410200,Dinosaur,306,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1901,CO0160500,Division of Wildlife,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Colorado,CO,1902,CO0170000,Dolores,1965,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2015,CO0420500,Dolores,951,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1904,CO0180000,Douglas,199939,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2015,Colorado,CO,1903,CO0170100,Dove Creek,695,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1978,CO0340100,Durango,18095,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1970,CO0310100,Eads,597,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Colorado,CO,1909,CO0190000,Eagle,25091,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1911,CO0190200,Eagle,6590,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2093,CO0620300,Eaton,4929,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1961,CO0300300,Edgewater,5321,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1915,CO0200000,Elbert,21785,9C,"MSA counties from 10,000 thru 24,999",0,11,0,11,0,0,0
+2015,Colorado,CO,1916,CO0200100,Elizabeth,1404,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1919,CO0210000,El Paso,179105,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2015,Colorado,CO,1879,CO0100300,Empire,283,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1840,CO0030100,Englewood,33037,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2097,CO0620700,Erie,21096,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1986,CO0350200,Estes Park,6239,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2094,CO0620400,Evans,20955,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2038,CO0470100,Fairplay,679,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,1834,CO0010800,Federal Heights,12351,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2108,CO0621800,Firestone,11880,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1974,CO0320300,Flagler,562,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1999,CO0380200,Fleming,397,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1931,CO0220200,Florence,3843,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1987,CO0350300,Fort Collins,159629,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1982,C0034019E,Fort Lewis College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2091,CO0620100,Fort Lupton,7874,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2025,CO0440200,Fort Morgan,11327,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1921,CO0210200,Fountain,28031,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2033,CO0450400,Fowler,1148,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1948,CO0250400,Fraser/Winter Park,2098,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2107,CO0621700,Frederick,11563,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1929,CO0220000,Fremont,26423,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2081,CO0590400,Frisco,2971,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2002,CO0390200,Fruita,12790,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,23154,CO0622700,Garden City,267,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1932,CO0230000,Garfield,23188,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1878,CO0100200,Georgetown,1039,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,2105,CO0621500,Gilcrest,1091,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1940,CO0240000,Gilpin,5108,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1843,CO0030400,Glendale,5338,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1933,CO0230100,Glenwood Springs,9914,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1960,CO0300200,Golden,20448,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1943,CO0240300,Golden Gate Rangers,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Colorado,CO,2049,CO0500400,Granada,483,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1945,CO0250100,Granby,1795,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1944,CO0250000,Grand,9253,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2001,CO0390100,Grand Junction,60508,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1946,CO0250200,Grand Lake,465,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2092,CO0620200,Greeley,99993,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1927,CO0210900,Green Mountain Falls,684,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,1846,CO0030700,Greenwood Village,15760,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1949,CO0260000,Gunnison,7515,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1950,CO0260100,Gunnison,5990,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,25314,CO0191000,Gypsum,6875,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2042,CO0480200,Haxtun,929,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2063,CO0540200,Hayden,1846,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,1953,CO0270000,Hinsdale,775,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2048,CO0500200,Holly,759,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2041,CO0480100,Holyoke,2249,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1895,CO0150300,Hotchkiss,899,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,23212,CO0622400,Hudson,2628,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1954,CO0280000,Huerfano,2825,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1996,CO0370200,Hugo,731,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1877,CO0100100,Idaho Springs,1708,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1980,CO0340300,Ignacio,725,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1957,CO0290000,Jackson,1404,8D,"Non-MSA counties under 10,000",0,10,0,10,0,0,0
+2015,Colorado,CO,2028,CO0440500,Jackson State Lake Recreation Area,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Colorado,CO,1958,CO0300000,Jefferson,197932,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2015,Colorado,CO,2100,CO0621000,Johnstown,14300,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2076,CO0580100,Julesburg,1209,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Colorado,CO,23103,CO0621900,Keenesburg,1206,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2099,CO0620900,Kersey,1587,7,"Cities under 2,500",0,5,0,5,0,0,0
+2015,Colorado,CO,1918,CO0200300,Kiowa,747,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1969,CO0310000,Kiowa,1409,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Colorado,CO,1971,CO0320000,Kit Carson,3437,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1947,CO0250300,Kremmling,1396,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,1865,CO0070300,Lafayette,27761,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1883,CO0110300,La Jara,815,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2030,CO0450100,La Junta,6926,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1975,CO0330000,Lake,4811,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1964,CO0300600,Lakeside,8,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1962,CO0300400,Lakewood,151311,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2047,CO0500100,Lamar,7524,6,"Cities from 2,500 thru 9,999",0,8,0,8,0,0,0
+2015,Colorado,CO,1977,CO0340000,La Plata,33474,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1984,CO0350000,Larimer,82866,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2095,CO0620500,La Salle,2068,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1861,CO0060100,Las Animas,2147,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Colorado,CO,1992,CO0360000,Las Animas,5787,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1956,CO0280200,La Veta,749,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,1976,CO0330100,Leadville,2597,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1995,CO0370100,Limon,1888,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1994,CO0370000,Lincoln,2921,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1841,CO0030200,Littleton,45363,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2109,CO0622000,Lochbuie,5435,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1997,CO0380000,Logan,7968,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2027,CO0440400,Log Lane Village,873,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,1908,CO0180700,Lone Tree,14184,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1866,CO0070400,Longmont,91222,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1868,CO0070600,Louisville,20556,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1988,CO0350400,Loveland,74139,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1869,CO0070700,Lyons,2127,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1884,CO0110400,Manassa,974,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2014,CO0420200,Mancos,1387,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1922,CO0210300,Manitou Springs,5387,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2032,CO0450300,Manzanola,423,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,23111,CO0622600,Mead,4282,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2055,CO0520100,Meeker,2423,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2000,CO0390000,Mesa,72100,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2005,CO0390800,Mesa State College,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2101,CO0621100,Milliken,6210,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2007,CO0400000,Mineral,700,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2015,Colorado,CO,1912,CO0190300,Minturn,1037,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2009,CO0410000,Moffat,4068,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2058,CO0530100,Monte Vista,4275,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2012,CO0420000,Montezuma,15908,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2017,CO0430000,Montrose,20125,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2018,CO0430100,Montrose,19028,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1926,CO0210700,Monument,6479,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2023,CO0440000,Morgan,9919,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1965,CO0300700,Morrison,433,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1967,CO0300900,Mountain View,526,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,23240,CO0570300,Mountain Village,1406,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,1951,CO0260200,Mount Crested Butte,812,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2021,CO0430500,Naturita,527,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1854,CO0040200,Navajo State Park,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Colorado,CO,1870,CO0070800,Nederland,1518,7,"Cities under 2,500",0,6,0,6,0,0,0
+2015,Colorado,CO,1938,CO0230600,New Castle,4638,6,"Cities from 2,500 thru 9,999",0,9,0,9,0,0,0
+2015,Colorado,CO,1832,CO0010600,Northglenn,39299,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2074,CO0570200,Norwood,564,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Colorado,CO,2019,CO0430300,Nucla,703,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2064,CO0540300,Oak Creek,895,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,2020,CO0430400,Olathe,1795,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,1889,CO0130100,Ordway,1052,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2029,CO0450000,Otero,6107,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2089,CO0610200,Otis,467,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2034,CO0460000,Ouray,2705,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2035,CO0460100,Ouray,1025,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1853,CO0040100,Pagosa Springs,1749,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2003,CO0390300,Palisade,2648,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1925,CO0210600,Palmer Lake,2615,6,"Cities from 2,500 thru 9,999",0,4,0,4,0,0,0
+2015,Colorado,CO,1894,CO0150200,Paonia,1402,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,1934,CO0230200,Parachute,1103,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2037,CO0470000,Park,15747,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1906,CO0180500,Parker,51017,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2040,CO0480000,Phillips,1177,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2104,CO0621400,Pierce,879,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1924,CO0210500,Pikes Peak Community College,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,2043,CO0490000,Pitkin,7085,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2103,CO0621300,Platteville,3729,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1857,CO0050200,Pritchett,135,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2046,CO0500000,Prowers,4424,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2051,CO0510100,Pueblo,108810,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2050,CO0510000,Pueblo,54253,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2056,CO0520200,Rangely,2439,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1968,CO0301000,Red Rocks Community College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2036,CO0460200,Ridgway,959,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,1935,CO0230300,Rifle,9532,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2054,CO0520000,Rio Blanco,1882,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2057,CO0530000,Rio Grande,5091,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2031,CO0450200,Rocky Ford,3850,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1882,CO0110200,Romeo,391,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2061,CO0540000,Routt,9009,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2069,CO0550200,Saguache,479,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2067,CO0550000,Saguache,4256,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1873,CO0080200,Salida,5450,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1885,CO0110500,Sanford,867,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2070,CO0560000,San Juan,726,8D,"Non-MSA counties under 10,000",0,8,0,8,0,0,0
+2015,Colorado,CO,1887,CO0120100,San Luis,621,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Colorado,CO,2072,CO0570000,San Miguel,4184,8D,"Non-MSA counties under 10,000",0,1,0,1,0,0,0
+2015,Colorado,CO,2075,CO0580000,Sedgwick,2352,8D,"Non-MSA counties under 10,000",0,10,0,10,0,0,0
+2015,Colorado,CO,23205,CO0622800,Severance,3611,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1842,CO0030300,Sheridan,6018,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1937,CO0230500,Silt,3030,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2080,CO0590300,Silverthorne,4370,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2071,CO0560100,Silverton,658,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Colorado,CO,1917,CO0200200,Simla,629,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,2045,CO0490200,Snowmass Village,2918,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1979,CO0340200,Southern Ute Tribal,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Colorado,CO,2060,CO0530300,South Fork,360,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,23131,CO0038100,South Metro Drug Task Force,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1983,CO0348000,Southwest Drug Task Force,0,7,"Cities under 2,500",1,12,0,11,0,1,0
+2015,Colorado,CO,1856,CO0050100,Springfield,1394,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2115,COCSP0000,State Patrol,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2066,CO0540500,Steamboat Lake State Park,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2062,CO0540100,Steamboat Springs,12315,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1998,CO0380100,Sterling,14574,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1973,CO0320200,Stratton,664,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,2077,CO0590000,Summit,15882,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2083,CO0600000,Teller,15073,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2073,CO0570100,Telluride,2405,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,1830,CO0010400,Thornton,133188,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1991,CO0351000,Timnath,2647,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1993,CO0360100,Trinidad,7995,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1939,CO0230800,Two Rivers Drug Enforcement Team,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1867,CO0070500,University of Colorado: Boulder,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1923,CO0210400,University of Colorado: Colorado Springs,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1835,CO0011100,University of Colorado: Denver,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,1900,CO0160400,University of Colorado: Health Sciences Center,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Colorado,CO,1898,CO0160100,University of Denver,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2106,CO0621600,University of Northern Colorado,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2118,CODI01100,Ute Mountain Tribal,0,7,"Cities under 2,500",0,11,0,0,0,0,0
+2015,Colorado,CO,1910,CO0190100,Vail,5337,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2086,CO0600300,Victor,400,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1955,CO0280100,Walsenburg,2861,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1859,CO0050700,Walsh,519,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2087,CO0610000,Washington,4792,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Colorado,CO,2090,CO0620000,Weld,47916,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Colorado,CO,1990,CO0350600,Wellington,7424,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Colorado,CO,1891,CO0140100,Westcliffe,573,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,1831,CO0010500,Westminster,113547,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Colorado,CO,1963,CO0300500,Wheat Ridge,31241,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2026,CO0440300,Wiggins,896,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Colorado,CO,2096,CO0620600,Windsor,21736,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2084,CO0600100,Woodland Park,7191,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2111,CO0630100,Wray,2412,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Colorado,CO,2065,CO0540400,Yampa,438,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Colorado,CO,2112,CO0630200,Yuma,3629,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Colorado,CO,2110,CO0630000,Yuma,4246,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0

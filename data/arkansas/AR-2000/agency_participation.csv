@@ -1,0 +1,234 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2000,Arkansas,AR,572,AR0170200,Alma,4160,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,543,AR0100100,Arkadelphia,10912,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,497,AR0010000,Arkansas,7452,8D,"Non-MSA counties under 10,000",0,9,0,0,0,0,0
+2000,Arkansas,AR,800,ARASP0000,Arkansas State Police,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2000,Arkansas,AR,567,AR0160500,Arkansas State University: Jonesboro,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,654,AR0410100,Ashdown,4781,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,501,AR0020000,Ashley,15073,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,0,0,0,0
+2000,Arkansas,AR,717,AR0580200,Atkins,2878,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,793,AR0740100,Augusta,2665,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2000,Arkansas,AR,782,AR0730200,Bald Knob,3210,6,"Cities from 2,500 thru 9,999",0,9,0,0,0,0,0
+2000,Arkansas,AR,751,AR0660300,Barling,4176,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,621,AR0320100,Batesville,9445,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2000,Arkansas,AR,505,AR0030000,Baxter,27374,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,566,AR0160400,Bay,1800,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,783,AR0730300,Beebe,4930,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,510,AR0040000,Benton,76980,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,743,AR0630100,Benton,21906,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,511,AR0040100,Bentonville,19730,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,535,AR0080100,Berryville,4433,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,675,AR0470100,Blytheville,18272,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,526,AR0050000,Boone,21796,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,657,AR0420100,Booneville,4117,6,"Cities from 2,500 thru 9,999",0,5,0,0,0,0,0
+2000,Arkansas,AR,788,AR0730800,Bradford,800,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,529,AR0060000,Bradley,5389,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,684,AR0480100,Brinkley,3940,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,744,AR0630200,Bryant,9764,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,670,AR0450200,Bull Shoals,2000,7,"Cities under 2,500",0,11,0,0,0,0,0
+2000,Arkansas,AR,661,AR0430200,Cabot,15261,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,532,AR0070000,Calhoun,5744,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,692,AR0520100,Camden,13154,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,662,AR0430300,Carlisle,2304,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,534,AR0080000,Carroll,15929,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,599,AR0240200,Charleston,2965,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2000,Arkansas,AR,759,AR0680400,Cherokee Village,4648,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2000,Arkansas,AR,538,AR0090000,Chicot,5183,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,685,AR0480200,Clarendon,1960,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,542,AR0100000,Clark,10358,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,638,AR0360100,Clarksville,7719,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,547,AR0110000,Clay,10036,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,550,AR0120000,Cleburne,17614,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,554,AR0130000,Cleveland,8571,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,556,AR0140000,Columbia,14745,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,559,AR0150000,Conway,13786,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,591,AR0230100,Conway,43167,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,548,AR0110100,Corning,3679,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,507,AR0030200,Cotter,921,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,562,AR0160000,Craighead,26633,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,570,AR0170000,Crawford,28474,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,574,AR0180000,Crittenden,11263,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,578,AR0190000,Cross,10911,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,502,AR0020100,Crossett,6097,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,581,AR0200000,Dallas,4411,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,797,AR0750200,Danville,2392,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,796,AR0750100,Dardanelle,4228,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,518,AR0040800,Decatur,1314,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,754,AR0670100,De Queen,5765,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,539,AR0090100,Dermott,3292,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2000,Arkansas,AR,724,AR0590200,Des Arc,1933,7,"Cities under 2,500",0,7,0,0,0,0,0
+2000,Arkansas,AR,583,AR0210000,Desha,5533,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,725,AR0590300,De Valls Bluff,783,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,498,AR0010100,De Witt,3552,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,587,AR0220000,Drew,9577,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,586,AR0210300,Dumas,5238,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,576,AR0180200,Earle,3036,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2000,Arkansas,AR,702,AR0540400,Elaine,865,7,"Cities under 2,500",0,0,0,0,1,0,0
+2000,Arkansas,AR,764,AR0700100,El Dorado,21530,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,660,AR0430100,England,2972,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2000,Arkansas,AR,540,AR0090200,Eudora,2819,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,536,AR0080200,Eureka Springs,2278,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,767,AR0710100,Fairfield Bay,2460,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,774,AR0720500,Farmington,3605,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2000,Arkansas,AR,590,AR0230000,Faulkner,38174,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,770,AR0720100,Fayetteville,58047,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,671,AR0450300,Flippin,1357,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,582,AR0200100,Fordyce,4799,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,740,AR0620100,Forrest City,14774,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,749,AR0660100,Fort Smith,80268,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,597,AR0240000,Franklin,14246,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,600,AR0250000,Fulton,10826,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,603,AR0260000,Garland,52318,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,508,AR0030300,Gassville,1706,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,515,AR0040500,Gentry,2165,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,500,AR0010300,Gillett,819,7,"Cities under 2,500",0,0,0,0,1,0,0
+2000,Arkansas,AR,650,AR0400100,Gould,1305,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,652,AR0400300,Grady,523,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,606,AR0270000,Grant,12592,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,517,AR0040700,Gravette,1810,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,592,AR0230200,Greenbrier,3042,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,608,AR0280000,Greene,15314,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,537,AR0080300,Green Forest,2717,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,776,AR0720700,Greenland,907,7,"Cities under 2,500",0,11,0,0,0,0,0
+2000,Arkansas,AR,750,AR0660200,Greenwood,7112,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,544,AR0100200,Gurdon,2276,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,503,AR0020200,Hamburg,3039,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,533,AR0070100,Hampton,1579,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,709,AR0560300,Harrisburg,2192,7,"Cities under 2,500",0,6,0,0,0,0,0
+2000,Arkansas,AR,527,AR0050100,Harrison,12152,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,723,AR0590100,Hazen,1637,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,551,AR0120100,Heber Springs,6432,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,699,AR0540100,Helena-West Helena,6323,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,611,AR0290000,Hempstead,12971,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,546,AR0100400,Henderson State University,0,7,"Cities under 2,500",0,10,0,0,0,0,0
+2000,Arkansas,AR,531,AR0060200,Hermitage,769,7,"Cities under 2,500",0,0,0,0,0,0,0
+2000,Arkansas,AR,789,AR0730900,Higginson,378,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,686,AR0480300,Holly Grove,722,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,612,AR0290100,Hope,10616,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,625,AR0330200,Horseshoe Bend,2278,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,613,AR0300000,Hot Spring,21332,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,604,AR0260100,Hot Springs,35750,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,616,AR0310000,Howard,9422,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,645,AR0380200,Hoxie,2817,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,667,AR0440100,Huntsville,1931,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,620,AR0320000,Independence,34233,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,624,AR0330000,Izard,10983,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,626,AR0340000,Jackson,8850,8D,"Non-MSA counties under 10,000",0,11,0,0,0,0,0
+2000,Arkansas,AR,727,AR0600100,Jacksonville,29916,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,631,AR0350000,Jefferson,29193,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,637,AR0360000,Johnson,15062,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,778,AR0720900,Johnson,2319,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,563,AR0160100,Jonesboro,55515,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,787,AR0730700,Judsonia,1982,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,784,AR0730400,Kensett,1791,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,640,AR0370000,Lafayette,8559,8D,"Non-MSA counties under 10,000",0,11,0,0,0,0,0
+2000,Arkansas,AR,541,AR0090300,Lake Village,2823,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,643,AR0380000,Lawrence,10032,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,677,AR0470300,Leachville,1981,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,647,AR0390000,Lee,7399,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,775,AR0720600,Lincoln,1752,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,649,AR0400000,Lincoln,12021,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,653,AR0410000,Little River,8847,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,728,AR0600200,Little Rock,183133,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,656,AR0420000,Logan,14662,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,0,0,0,0
+2000,Arkansas,AR,663,AR0430400,Lonoke,4287,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,659,AR0430000,Lonoke,25424,9B,"MSA counties from 25,000 thru 99,999",0,10,0,0,0,0,0
+2000,Arkansas,AR,516,AR0040600,Lowell,5013,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,666,AR0440000,Madison,14243,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,557,AR0140100,Magnolia,10858,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,614,AR0300100,Malvern,9021,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,648,AR0390100,Marianna,5181,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,668,AR0450000,Marion,12783,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,0,0,0,0
+2000,Arkansas,AR,577,AR0180400,Marion,8901,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,707,AR0560100,Marked Tree,2800,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,735,AR0601600,Maumelle,10557,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,593,AR0230300,Mayflower,1631,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,794,AR0740200,MccRory,1850,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,584,AR0210100,McGehee,4570,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,714,AR0570100,Mena,5637,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,672,AR0460000,Miller,13995,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,674,AR0470000,Mississippi,24832,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,683,AR0480000,Monroe,6314,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,687,AR0490000,Montgomery,9245,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,588,AR0220100,Monticello,9146,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,560,AR0150100,Morrilton,6550,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,506,AR0030100,Mountain Home,11012,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,762,AR0690100,Mountain View,2876,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,573,AR0170300,Mulberry,1627,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,617,AR0310100,Nashville,4878,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,688,AR0500000,Nevada,6269,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,627,AR0340100,Newport,7811,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,690,AR0510000,Newton,8608,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,729,AR0600300,North Little Rock,60433,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,522,AR0041400,Northwest Arkansas Community College,0,7,"Cities under 2,500",0,11,0,0,0,0,0
+2000,Arkansas,AR,676,AR0470200,Osceola,8875,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2000,Arkansas,AR,691,AR0520000,Ouachita,15636,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,598,AR0240100,Ozark,3525,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,785,AR0730500,Pangburn,654,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,609,AR0280100,Paragould,22017,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,658,AR0420200,Paris,3707,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,514,AR0040400,Pea Ridge,2346,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,696,AR0530000,Perry,10209,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,698,AR0540000,Phillips,11433,8C,"Non-MSA counties from 10,000 thru 24,999",0,2,0,0,0,0,0
+2000,Arkansas,AR,549,AR0110200,Piggott,3894,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,703,AR0550000,Pike,11303,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,632,AR0350100,Pine Bluff,55085,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,738,AR0610100,Pocahontas,6518,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,706,AR0560000,Poinsett,13733,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,713,AR0570000,Polk,14592,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,715,AR0580000,Pope,27909,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,722,AR0590000,Prairie,5969,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,772,AR0720300,Prairie Grove,2540,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,689,AR0500100,Prescott,3686,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,726,AR0600000,Pulaski,55924,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,737,AR0610000,Randolph,11677,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,512,AR0040200,Rogers,38829,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,786,AR0730600,Rose Bud,429,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,716,AR0580100,Russellville,23682,5,"Cities from 10,000 thru 24,999",1,12,0,10,0,1,0
+2000,Arkansas,AR,742,AR0630000,Saline,51859,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,745,AR0640000,Scott,7488,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,747,AR0650000,Searcy,8261,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,781,AR0730100,Searcy,18928,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,748,AR0660000,Sebastian,23515,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,753,AR0670000,Sevier,9992,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,755,AR0680000,Sharp,13275,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,607,AR0270100,Sheridan,3872,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,730,AR0600400,Sherwood,21511,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2000,Arkansas,AR,513,AR0040300,Siloam Springs,10843,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,765,AR0700200,Smackover,2005,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,558,AR0140500,Southern Arkansas University,0,7,"Cities under 2,500",0,10,0,0,0,0,0
+2000,Arkansas,AR,771,AR0720200,Springdale,45798,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,641,AR0370200,Stamps,2131,7,"Cities under 2,500",0,0,0,0,1,0,0
+2000,Arkansas,AR,651,AR0400200,Star City,2471,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,694,AR0520300,Stephens,1152,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,739,AR0620000,St. Francis,14555,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,761,AR0690000,Stone,8623,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,499,AR0010200,Stuttgart,9745,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,673,AR0460100,Texarkana,26448,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,708,AR0560200,Trumann,6889,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,628,AR0340200,Tuckerman,1757,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,763,AR0700000,Union,22094,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,773,AR0720400,University of Arkansas: Fayetteville,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,731,AR0600500,University of Arkansas: Little Rock,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,733,AR0600900,University of Arkansas: Medical Sciences,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,589,AR0220300,University of Arkansas: Monticello,0,7,"Cities under 2,500",0,10,0,0,0,0,0
+2000,Arkansas,AR,635,AR0350400,University of Arkansas: Pine Bluff,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,596,AR0230600,University of Central Arkansas,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2000,Arkansas,AR,766,AR0710000,Van Buren,16192,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,571,AR0170100,Van Buren,18986,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,594,AR0230400,Vilonia,2106,7,"Cities under 2,500",0,0,0,0,1,1,0
+2000,Arkansas,AR,746,AR0640100,Waldron,3508,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,644,AR0380100,Walnut Ridge,4925,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,665,AR0430600,Ward,2580,6,"Cities from 2,500 thru 9,999",0,6,0,0,0,0,0
+2000,Arkansas,AR,530,AR0060100,Warren,6442,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,769,AR0720000,Washington,45035,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,777,AR0720800,West Fork,2042,7,"Cities under 2,500",0,10,0,0,0,0,0
+2000,Arkansas,AR,700,AR0540200,West Helena,8689,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,575,AR0180100,West Memphis,27666,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,780,AR0730000,White,40097,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2000,Arkansas,AR,633,AR0350200,White Hall,4732,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2000,Arkansas,AR,504,AR0020300,Wilmot,786,7,"Cities under 2,500",0,0,0,0,1,0,0
+2000,Arkansas,AR,792,AR0740000,Woodruff,8741,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2000,Arkansas,AR,579,AR0190100,Wynne,8615,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2000,Arkansas,AR,795,AR0750000,Yell,14519,8C,"Non-MSA counties from 10,000 thru 24,999",0,9,0,0,0,0,0
+2000,Arkansas,AR,669,AR0450100,Yellville,1312,7,"Cities under 2,500",0,0,0,0,1,0,0

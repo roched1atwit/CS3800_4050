@@ -1,0 +1,798 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2003,Michigan,MI,8524,MI3120000,Adams Township,2027,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8668,MI4620200,Adrian,21422,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8642,MI4220300,Ahmeek,153,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8999,MI7920400,Akron,1077,7,"Cities under 2,500",0,3,0,3,0,0,0
+2003,Michigan,MI,8926,MI7355200,Albee-Maple Grove,2660,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8943,MI7392900,Albee Township,2352,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8789,MI6020600,Albert Township,2738,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,0,1
+2003,Michigan,MI,8378,MI1320700,Albion,9113,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8287,MI0110100,Alcona,11489,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8291,MI0210200,Alger,7332,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8946,MI7420900,Algonac,4649,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8294,MI0310300,Allegan,82514,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8295,MI0321000,Allegan,4921,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9045,MI8221200,Allen Park,29233,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8509,MI2921300,Alma,9323,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8649,MI4421400,Almont,2863,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8306,MI0410400,Alpena,20013,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8307,MI0421500,Alpena,11104,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8575,MI3621600,Alpha,191,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9030,MI8121800,Ann Arbor,115552,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8309,MI0510500,Antrim,18575,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9000,MI7922200,Arbela Township,3281,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8316,MI0610600,Arenac,17236,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8461,MI2521900,Argentine Township,6734,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8701,MI5022000,Armada,1637,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8462,MI2522100,Atlas Township,6066,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8334,MI0922300,Auburn,1991,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8859,MI6385100,Auburn Hills,20388,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8607,MI3922600,Augusta,886,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8535,MI3222800,Bad Axe,3371,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8985,MI7823000,Bancroft,607,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,9015,MI8023100,Bangor,1910,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8321,MI0723200,Baraga,1257,7,"Cities under 2,500",0,6,0,6,0,0,0
+2003,Michigan,MI,8320,MI0710700,Baraga,5426,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8324,MI0810800,Barry,39854,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8325,MI0823400,Barry Township,3550,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2003,Michigan,MI,8419,MI1923600,Bath Township,9070,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8379,MI1323700,Battle Creek,53808,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8380,MI1323800,Battle Creek Township,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8333,MI0910900,Bay,56801,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8335,MI0923900,Bay City,35949,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8494,MI2624200,Beaverton,1126,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8381,MI1324300,Bedford Township,9578,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8564,MI3424400,Belding,5818,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8310,MI0524500,Bellaire,1155,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9046,MI8224600,Belleville,3973,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8444,MI2324700,Bellevue,1365,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8865,MI6425000,Benona Township,1549,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8349,MI1124800,Benton Harbor,11084,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8350,MI1124900,Benton Township,16259,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8341,MI1011000,Benzie,15357,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8815,MI6325100,Berkley,15414,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8347,MI1111100,Berrien,42351,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8351,MI1125200,Berrien Springs-Oronoko Township,9707,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8498,MI2725300,Bessemer,2059,7,"Cities under 2,500",0,0,0,0,1,0,0
+2003,Michigan,MI,8342,MI1025400,Beulah,399,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8816,MI6325500,Beverly Hills,10341,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8747,MI5425600,Big Rapids,10853,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8921,MI7325800,Birch Run,1773,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8817,MI6325900,Birmingham,19337,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8463,MI2525700,Bishop International Airport,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8601,MI3889000,Blackman Township,24158,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8670,MI4626000,Blissfield,3261,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8818,MI6326100,Bloomfield Hills,3911,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8819,MI6326200,Bloomfield Township,42720,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9016,MI8026300,Bloomingdale,519,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8397,MI1526400,Boyne City,3379,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8398,MI1526500,Boyne Falls,361,7,"Cities under 2,500",0,0,0,0,1,0,0
+2003,Michigan,MI,8370,MI1211200,Branch,31480,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8842,MI6363800,Brandon Township,15148,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8510,MI2926600,Breckenridge,1332,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9017,MI8026700,Breedsville,230,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8937,MI7386300,Bridgeport Township,11609,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8352,MI1126800,Bridgman,2433,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8684,MI4726900,Brighton,7012,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8671,MI4627100,Britton,693,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8371,MI1227200,Bronson,2377,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8588,MI3827300,Brooklyn,1202,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8969,MI7627400,Brown City,1328,7,"Cities under 2,500",0,11,0,11,0,0,0
+2003,Michigan,MI,9089,MI8294700,Brownstown Township,25486,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8353,MI1127600,Buchanan,4619,6,"Cities from 2,500 thru 9,999",0,7,0,7,0,0,0
+2003,Michigan,MI,9093,MI8327700,Buckley,551,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8936,MI7385600,Buena Vista Township,10259,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8959,MI7527900,Burr Oak,779,7,"Cities under 2,500",0,10,0,10,0,0,0
+2003,Michigan,MI,8483,MI2583900,Burton,30474,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8986,MI7828000,Byron,584,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,9094,MI8328100,Cadillac,10063,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8987,MI7828300,Caledonia Township,4469,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8377,MI1311300,Calhoun,30943,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8525,MI3128400,Calumet,865,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8680,MI4693100,Cambridge Township,5543,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8521,MI3091000,Camden,552,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8820,MI6328500,Camp Dearborn,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8431,MI2095600,Camp Grayling,0,7,"Cities under 2,500",0,3,0,3,0,0,0
+2003,Michigan,MI,9087,MI8290800,Canton Township,81572,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8947,MI7428600,Capac,1925,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8427,MI1989100,Capitol Region Airport Authority,0,7,"Cities under 2,500",0,9,0,0,0,0,0
+2003,Michigan,MI,8766,MI5828700,Carleton,2577,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9001,MI7929000,Caro,4216,6,"Cities from 2,500 thru 9,999",0,5,0,5,0,0,0
+2003,Michigan,MI,8922,MI7328800,Carrollton Township,6505,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8776,MI5929100,Carson City,1191,7,"Cities under 2,500",1,12,0,0,0,1,0
+2003,Michigan,MI,8970,MI7629200,Carsonville,496,7,"Cities under 2,500",0,9,0,9,0,0,0
+2003,Michigan,MI,8536,MI3229300,Caseville,911,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8537,MI3229400,Caseville Township,1826,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8793,MI6129400,Casnovia,320,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8576,MI3629500,Caspian-Gaastra,2177,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8388,MI1411400,Cass,36668,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9002,MI7929600,Cass City,2620,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8389,MI1429700,Cassopolis,1708,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8627,MI4130000,Cedar Springs,3193,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8702,MI5030300,Center Line,8505,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8311,MI0530400,Central Lake,1014,7,"Cities under 2,500",0,5,0,5,0,0,0
+2003,Michigan,MI,8585,MI3787000,Central Michigan University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8960,MI7530500,Centreville,1570,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8620,MI3996300,Charleston Township,1842,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8396,MI1511500,Charlevoix,17796,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,11,0,0,0
+2003,Michigan,MI,8399,MI1530600,Charlevoix,2866,6,"Cities from 2,500 thru 9,999",0,5,0,5,0,0,0
+2003,Michigan,MI,8445,MI2330700,Charlotte,8843,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8403,MI1630900,Cheboygan,5292,6,"Cities from 2,500 thru 9,999",0,11,1,12,0,0,1
+2003,Michigan,MI,8402,MI1611600,Cheboygan,18404,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9031,MI8131000,Chelsea,4458,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8923,MI7331100,Chesaning,2510,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8938,MI7387200,Chesaning Township,2370,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8718,MI5090200,Chesterfield Township,40490,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8367,MI1187100,Chikaming Township,3680,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8955,MI7487400,China Township,3493,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8407,MI1711700,Chippewa,16524,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8727,MI5231200,Chocolay Township,6062,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8412,MI1811800,Clare,27425,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8413,MI1831300,Clare,3218,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8822,MI6331500,Clarkston,960,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8823,MI6331600,Clawson,12605,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8673,MI4631700,Clayton,321,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8954,MI7486700,Clay Township,9870,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8650,MI4431800,Clifford,325,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8608,MI3931900,Climax,776,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8418,MI1911900,Clinton,30023,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8674,MI4632000,Clinton,2329,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8717,MI5084900,Clinton Township,96271,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8465,MI2532100,Clio,2650,6,"Cities from 2,500 thru 9,999",0,10,0,10,0,0,0
+2003,Michigan,MI,8372,MI1232200,Coldwater,10728,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8756,MI5632300,Coleman,1292,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8354,MI1132400,Coloma City,1568,7,"Cities under 2,500",0,0,0,9,1,1,1
+2003,Michigan,MI,8366,MI1185300,Coloma Township,6824,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8961,MI7532500,Colon,1199,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8589,MI3832600,Columbia Township,7357,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8651,MI4432600,Columbiaville,809,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8590,MI3832700,Concord,2745,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8962,MI7532900,Constantine,2116,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8895,MI7033000,Coopersville,4097,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8723,MI5133300,Copemish Cleon,925,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8526,MI3133200,Copper City,202,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8988,MI7833500,Corunna,3392,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2003,Michigan,MI,9026,MI8087300,Covert Township,3165,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8429,MI2012000,Crawford,12801,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8971,MI7633600,Croswell,2450,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8577,MI3633800,Crystal Falls,1729,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8777,MI5933700,Crystal Township,2861,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8794,MI6134000,Dalton Township,7328,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8466,MI2534200,Davison,5498,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8487,MI2586000,Davison Township,18209,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9047,MI8234300,Dearborn,98121,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9048,MI8234400,Dearborn Heights,58218,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9018,MI8034500,Decatur,1822,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8972,MI7634600,Deckerville,936,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8559,MI3384800,Delhi Township,23650,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2003,Michigan,MI,8433,MI2112100,Delta,20310,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2003,Michigan,MI,8338,MI0988200,Delta College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9012,MI7992800,Denmark Township,1885,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8912,MI7235500,Denton Township,5800,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8408,MI1734800,Detour Village,424,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9049,MI8234900,Detroit,927766,1B,"Cities from 500,000 thru 999,999",1,12,0,0,0,1,0
+2003,Michigan,MI,8420,MI1935000,Dewitt,4588,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8426,MI1985700,Dewitt Township,12911,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9032,MI8135100,Dexter,2645,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8438,MI2212200,Dickinson,10924,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8446,MI2335200,Dimondale,1346,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8390,MI1435400,Dowagiac,6052,6,"Cities from 2,500 thru 9,999",0,4,0,4,0,0,0
+2003,Michigan,MI,8659,MI4494500,Dryden,820,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8652,MI4435600,Dryden Township,4703,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8767,MI5835700,Dundee,3567,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8989,MI7835800,Durand,3893,6,"Cities from 2,500 thru 9,999",0,10,0,10,0,0,0
+2003,Michigan,MI,9033,MI8136600,Eastern Michigan University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8628,MI4136100,East Grand Rapids,10708,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8400,MI1536200,East Jordan,2423,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8550,MI3336400,East Lansing,46408,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8703,MI5036000,Eastpointe,33966,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8443,MI2312300,Eaton,73097,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8447,MI2336700,Eaton Rapids,5345,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8355,MI1136800,Eau Claire,654,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9050,MI8237000,Ecorse,11281,5,"Cities from 10,000 thru 24,999",0,0,0,1,0,0,0
+2003,Michigan,MI,8795,MI6137300,Egelston Township,9786,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8343,MI1037400,Elberta,458,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8312,MI0537500,Elk Rapids,1726,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8538,MI3237600,Elkton,838,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8313,MI0537700,Ellsworth,475,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8421,MI1937800,Elsie,1030,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8455,MI2412400,Emmet,24123,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8382,MI1337900,Emmett Township,12051,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8662,MI4538000,Empire,381,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8768,MI5838100,Erie Township,4888,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8434,MI2138200,Escanaba,12852,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2003,Michigan,MI,8336,MI0938300,Essexville,3695,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8769,MI5838400,Estral Beach,493,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8883,MI6738500,Evart,1729,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9003,MI7938600,Fairgrove,623,7,"Cities under 2,500",0,0,0,0,1,0,0
+2003,Michigan,MI,8539,MI3238700,Fair Haven Township,1237,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8824,MI6338800,Farmington,10297,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8825,MI6338900,Farmington Hills,81666,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8414,MI1839000,Farwell,867,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8297,MI0339200,Fennville,1478,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8467,MI2539300,Fenton,11867,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8826,MI6339400,Ferndale,21922,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8748,MI5486400,Ferris State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8896,MI7039500,Ferrysburg,3039,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,9051,MI8239700,Flat Rock,8752,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8468,MI2539800,Flint,122121,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2003,Michigan,MI,8469,MI2539900,Flint Township,33586,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8470,MI2540000,Flushing,8264,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8471,MI2540100,Flushing Township,10486,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8733,MI5284100,Forsyth Township,4836,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8422,MI1940400,Fowler,1106,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8685,MI4740500,Fowlerville,3142,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8924,MI7340600,Frankenmuth,4828,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8344,MI1040700,Frankfort,1510,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8827,MI6340800,Franklin,2957,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8704,MI5040900,Fraser,15354,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8326,MI0841000,Freeport,443,7,"Cities under 2,500",0,9,0,9,0,0,0
+2003,Michigan,MI,8812,MI6284200,Fremont,4270,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8415,MI1841100,Frost Township,1180,7,"Cities under 2,500",0,5,0,5,0,0,0
+2003,Michigan,MI,8796,MI6141200,Fruitport,1102,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8578,MI3641400,Gaastra,328,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9004,MI7941500,Gagetown,385,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8472,MI2541600,Gaines,365,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8609,MI3941700,Galesburg,1995,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8356,MI1141800,Galien,581,7,"Cities under 2,500",0,1,0,1,0,0,0
+2003,Michigan,MI,8435,MI2141900,Garden,234,7,"Cities under 2,500",0,0,0,0,1,0,0
+2003,Michigan,MI,9052,MI8242000,Garden City,29968,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8891,MI6942100,Gaylord,3752,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8460,MI2512500,Genesee,60813,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8473,MI2542200,Genesee Township,24664,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8918,MI7294600,Gerrish Township,3128,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9053,MI8242300,Gibraltar,4362,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8436,MI2142400,Gladstone,5287,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8495,MI2642500,Gladwin,3039,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8493,MI2612600,Gladwin,23785,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9019,MI8042800,Gobles,811,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8497,MI2712700,Gogebic,9757,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2003,Michigan,MI,8474,MI2542900,Goodrich,1407,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8357,MI1143000,Grand Beach,225,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8475,MI2543100,Grand Blanc,8112,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8485,MI2585200,Grand Blanc Township,32794,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8897,MI7043200,Grand Haven,10962,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8448,MI2343500,Grand Ledge,7864,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8630,MI4143600,Grand Rapids,197173,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8629,MI4142900,Grand Rapids Community College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8505,MI2812800,Grand Traverse,67140,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8902,MI7088300,Grand Valley State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8631,MI4143700,Grandville,16647,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8809,MI6243800,Grant,889,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8591,MI3843900,Grass Lake,1097,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8508,MI2912900,Gratiot,24234,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8430,MI2044000,Grayling,1976,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8689,MI4766900,Green Oak,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8690,MI4786500,Green Oak Township,16395,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8780,MI5944200,Greenville,8166,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9054,MI8244500,Grosse Ile Township,10973,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9055,MI8244600,Grosse Pointe,5651,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9056,MI8244700,Grosse Pointe Farms,9710,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9057,MI8244800,Grosse Pointe Park,12388,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9058,MI8244900,Grosse Pointe Shores,2816,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9059,MI8245000,Grosse Pointe Woods,16985,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8686,MI4745100,Hamburg Township,21710,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8339,MI0991500,Hampton Township,9948,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9060,MI8245300,Hamtramck,22819,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8527,MI3145400,Hancock,4303,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8592,MI3845500,Hanover,428,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8602,MI3891100,Hanover Township,3398,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8540,MI3245600,Harbor Beach,1784,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8456,MI2445700,Harbor Springs,1573,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9061,MI8245800,Harper Woods,14175,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8416,MI1846000,Harrison,2117,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8288,MI0146100,Harrisville,498,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8866,MI6446200,Hart,1970,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9020,MI8046300,Hartford,2468,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8327,MI0846400,Hastings,7112,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8828,MI6346500,Hazel Park,18745,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8593,MI3846800,Henrietta Township,4635,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8867,MI6446900,Hesperia,970,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,9062,MI8247100,Highland Park,16329,5,"Cities from 10,000 thru 24,999",0,7,0,7,0,0,0
+2003,Michigan,MI,8790,MI6047200,Hillman,700,7,"Cities under 2,500",0,0,0,0,1,0,1
+2003,Michigan,MI,8514,MI3013000,Hillsdale,29133,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8515,MI3047300,Hillsdale,8083,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8874,MI6547200,Hill Township,1580,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8898,MI7047400,Holland,34790,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8829,MI6347500,Holly,6152,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8383,MI1347600,Homer,1837,7,"Cities under 2,500",0,7,0,7,0,0,0
+2003,Michigan,MI,8778,MI5937100,Home Township,2755,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2003,Michigan,MI,8345,MI1047700,Honor,303,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8903,MI7094900,Hope College,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8298,MI0347800,Hopkins,585,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8523,MI3113100,Houghton,20626,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8528,MI3148000,Houghton,7026,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8781,MI5948100,Howard City,1609,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8394,MI1485800,Howard Township,6316,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8687,MI4748200,Howell,9491,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8675,MI4648500,Hudson,2451,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8899,MI7048600,Hudsonville,7182,6,"Cities from 2,500 thru 9,999",0,2,0,2,0,0,0
+2003,Michigan,MI,8830,MI6348700,Huntington Woods,6084,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8534,MI3213200,Huron,23668,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9039,MI8186600,Huron-Clinton Metropolitan Authority: Hudson Mills Metropark,0,7,"Cities under 2,500",0,9,0,9,0,0,0
+2003,Michigan,MI,8832,MI6350400,Huron-Clinton Metropolitan Authority: Kensington Metropark,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9083,MI8284400,Huron-Clinton Metropolitan Authority: Lower Huron Metropark,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8720,MI5091800,Huron-Clinton Metropolitan Authority: Stony Creek Metropark,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9084,MI8286200,Huron Township,14359,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8653,MI4448800,Imlay City,3885,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8821,MI6331400,Independence Township,33394,4,"Cities from 25,000 thru 49,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8549,MI3313300,Ingham,61100,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2003,Michigan,MI,9063,MI8249000,Inkster,29983,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8563,MI3413400,Ionia,40173,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8565,MI3449100,Ionia,11061,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8569,MI3513500,Iosco,17033,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8956,MI7487500,Ira Township,7049,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8574,MI3613600,Iron,5598,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8439,MI2249200,Iron Mountain,8062,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8579,MI3649300,Iron River,3269,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8499,MI2749400,Ironwood,6039,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8582,MI3713700,Isabella,37130,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8728,MI5249500,Ishpeming,6575,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8736,MI5290500,Ishpeming Township,3552,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2003,Michigan,MI,8511,MI2949600,Ithaca,3102,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2003,Michigan,MI,8587,MI3813800,Jackson,26155,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8594,MI3849700,Jackson,35618,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8516,MI3049800,Jonesville,2339,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8606,MI3913900,Kalamazoo,89587,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8610,MI3949900,Kalamazoo,76081,3,"Cities from 50,000 thru 99,000",0,10,0,10,0,0,0
+2003,Michigan,MI,8619,MI3992400,Kalamazoo Airport,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2003,Michigan,MI,8611,MI3950000,Kalamazoo Township,21907,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8622,MI4014000,Kalkaska,14837,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8623,MI4050200,Kalkaska,2256,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8831,MI6350300,Keego Harbor,2759,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9027,MI8093700,Keeler Township,2573,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8626,MI4114100,Kent,208254,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2003,Michigan,MI,8639,MI4185000,Kentwood,46453,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8641,MI4214200,Keweenaw,2210,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8541,MI3250600,Kinde,524,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8440,MI2250700,Kingsford,5490,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9005,MI7950900,Kingston,444,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8409,MI1750800,Kinross Township,8182,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8990,MI7851000,Laingsburg,1211,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8644,MI4314300,Lake,11657,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8833,MI6351100,Lake Angelus,324,7,"Cities under 2,500",0,6,0,6,0,0,0
+2003,Michigan,MI,8762,MI5751300,Lake City,933,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8529,MI3151400,Lake Linden,1072,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8566,MI3451500,Lake Odessa,2278,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8834,MI6351600,Lake Orion,2722,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8782,MI5951700,Lakeview,1116,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8805,MI6185400,Lakewood Club,1132,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8322,MI0751800,L'Anse,2037,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8551,MI3351900,Lansing,118937,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2003,Michigan,MI,8560,MI3388600,Lansing Community College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8558,MI3384300,Lansing Township,8420,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8654,MI4452000,Lapeer,9423,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8648,MI4414400,Lapeer,59563,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8658,MI4487600,Lapeer Township,5161,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8835,MI6352100,Lathrup Village,4228,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8530,MI3152200,Laurium,2096,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9021,MI8052300,Lawrence,1050,7,"Cities under 2,500",0,0,0,2,1,1,1
+2003,Michigan,MI,9022,MI8052400,Lawton,1850,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8661,MI4514500,Leelanau,21044,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8667,MI4614600,Lenawee,35574,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8991,MI7852600,Lennon,513,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8836,MI6352500,Leonard-Addison Township,6589,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8595,MI3852700,Leoni Township,13590,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8884,MI6752700,Le Roy,265,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8552,MI3352800,Leslie,2042,7,"Cities under 2,500",1,12,0,0,0,1,0
+2003,Michigan,MI,8973,MI7653000,Lexington,1108,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8289,MI0153300,Lincoln,352,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9064,MI8253400,Lincoln Park,39776,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8362,MI1176600,Lincoln Township,14149,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8476,MI2553500,Linden,3061,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8517,MI3053600,Litchfield,1453,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8683,MI4714700,Livingston,105907,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2003,Michigan,MI,9065,MI8253800,Livonia,100636,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2003,Michigan,MI,8633,MI4153900,Lowell,4160,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8693,MI4814800,Luce,4382,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8742,MI5354000,Ludington,8459,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8770,MI5854100,Luna Pier,1485,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8646,MI4354300,Luther,338,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8914,MI7254200,Lyon Township,1487,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8696,MI4914900,Mackinac,8486,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8697,MI4954500,Mackinac Island,506,7,"Cities under 2,500",0,11,0,11,0,0,0
+2003,Michigan,MI,8404,MI1654600,Mackinaw City,856,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8700,MI5015000,Macomb,127029,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2003,Michigan,MI,8719,MI5091200,Macomb Community College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8837,MI6354700,Madison Heights,30788,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8681,MI4693500,Madison Township,8419,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8314,MI0554800,Mancelona,1409,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9034,MI8154900,Manchester,2219,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9035,MI8156500,Manchester Township,2117,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8722,MI5115100,Manistee,18758,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8724,MI5155000,Manistee,6398,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8982,MI7755100,Manistique,3508,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2003,Michigan,MI,9095,MI8356900,Manton,1216,7,"Cities under 2,500",0,11,0,11,0,0,0
+2003,Michigan,MI,8423,MI1955300,Maple Rapids,628,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8392,MI1455400,Marcellus,1131,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8500,MI2755500,Marenisco Township,1662,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8948,MI7455600,Marine City,4606,6,"Cities from 2,500 thru 9,999",0,6,0,0,0,0,0
+2003,Michigan,MI,8885,MI6755700,Marion,842,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8974,MI7655800,Marlette,2092,7,"Cities under 2,500",0,6,0,6,0,0,0
+2003,Michigan,MI,8729,MI5255900,Marquette,20607,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8726,MI5215200,Marquette,18391,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8739,MI5292100,Marquette County Airport,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8734,MI5286100,Marquette Township,3261,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8384,MI1356000,Marshall,7336,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8304,MI0393600,Martin,2198,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8299,MI0356100,Martin Township,429,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8949,MI7456200,Marysville,9860,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8553,MI3356300,Mason,7037,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8741,MI5315300,Mason,19227,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9023,MI8056400,Mattawan,2670,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9006,MI7956600,Mayville,1037,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8745,MI5415400,Mecosta,30734,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8975,MI7657100,Melvin,157,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9066,MI8257200,Melvindale,10687,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8950,MI7457300,Memphis,1144,7,"Cities under 2,500",0,6,0,6,0,0,0
+2003,Michigan,MI,8966,MI7591900,Mendon,919,7,"Cities under 2,500",0,3,0,3,0,0,0
+2003,Michigan,MI,8751,MI5557500,Menominee,8928,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8750,MI5515500,Menominee,16255,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8561,MI3392600,Meridian Township,39512,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8927,MI7357600,Merrill,783,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9096,MI8357400,Mesick,447,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8655,MI4457800,Metamora Township,4419,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8705,MI5057700,Metro Beach Metropark,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8358,MI1157900,Michiana,198,7,"Cities under 2,500",0,6,0,6,0,0,0
+2003,Michigan,MI,8547,MI3300100,Michigan State Police,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2003,Michigan,MI,8554,MI3358100,Michigan State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8532,MI3188500,Michigan Technological University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8328,MI0858200,Middleville,2784,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8755,MI5615600,Midland,41109,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8757,MI5658300,Midland,42204,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8759,MI5690900,Midland Township,2320,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9036,MI8158400,Milan,4939,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8838,MI6358500,Milford,15575,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8906,MI7158600,Millersburg,263,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9007,MI7958700,Millington,4422,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2003,Michigan,MI,8875,MI6558600,Mills Township,4020,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8976,MI7658800,Minden City,239,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8761,MI5715700,Missaukee,14994,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8765,MI5815800,Monroe,115256,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2003,Michigan,MI,8771,MI5859000,Monroe,22094,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8797,MI6159100,Montague,2367,7,"Cities under 2,500",0,6,0,6,0,0,0
+2003,Michigan,MI,8775,MI5915900,Montcalm,46248,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8788,MI6016000,Montmorency,10591,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,1,12,0,0,1
+2003,Michigan,MI,8477,MI2559300,Montrose,1582,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8489,MI2589900,Montrose Township,8013,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8676,MI4659400,Morenci,2369,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8992,MI7859600,Morrice,886,7,"Cities under 2,500",0,6,0,6,0,0,0
+2003,Michigan,MI,8491,MI2595000,Mott Community College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8706,MI5059700,Mount Clemens,17411,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8478,MI2559800,Mount Morris,3399,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8484,MI2584500,Mount Morris Township,24000,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8583,MI3759900,Mount Pleasant,26094,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8449,MI2360100,Mulliken,561,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8479,MI2560100,Mundy Township,12998,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8292,MI0260200,Munising,2493,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8792,MI6116100,Muskegon,66474,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8798,MI6160300,Muskegon,39547,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8806,MI6192300,Muskegon County Airport,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8799,MI6160400,Muskegon Heights,11892,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8800,MI6160500,Muskegon Township,18126,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8596,MI3860600,Napoleon Township,7096,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8329,MI0860700,Nashville,1690,7,"Cities under 2,500",0,11,0,11,0,0,0
+2003,Michigan,MI,8730,MI5260900,Negaunee,4508,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8738,MI5291400,Negaunee Township,2706,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8808,MI6216200,Newaygo,40504,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8810,MI6261600,Newaygo,1693,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8707,MI5061000,New Baltimore,9040,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8694,MI4861700,Newberry,2666,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2003,Michigan,MI,8359,MI1161100,New Buffalo,2170,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8868,MI6461200,New Era,469,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8708,MI5061300,New Haven,3491,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8993,MI7861400,New Lothrop,598,7,"Cities under 2,500",0,5,0,5,0,0,0
+2003,Michigan,MI,8360,MI1161900,Niles,12009,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8365,MI1184600,Niles Township,13449,5,"Cities from 10,000 thru 24,999",0,11,0,11,0,0,0
+2003,Michigan,MI,8656,MI4462100,North Branch,1020,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8731,MI5262300,Northern Michigan University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9042,MI8196400,Northfield Township,8589,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8801,MI6162200,North Muskegon,4041,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8664,MI4585500,Northport,654,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9067,MI8262400,Northville,6506,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9085,MI8286800,Northville Township,22898,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8802,MI6162500,Norton Shores,23152,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8603,MI3892200,Norvell Township,3020,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8441,MI2262600,Norway,2929,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8839,MI6362700,Novi,49258,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8814,MI6316300,Oakland,284838,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2003,Michigan,MI,8862,MI6392700,Oakland Community College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8861,MI6392000,Oakland County Safety Police,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8860,MI6388800,Oakland University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8928,MI7362900,Oakley,340,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8942,MI7391300,Oakley-Brady,2338,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8840,MI6362800,Oak Park,29513,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8864,MI6416400,Oceana,21344,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8873,MI6516500,Ogemaw,19181,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8450,MI2363000,Olivet,1700,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8907,MI7163200,Onaway,982,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8880,MI6663500,Ontonagon,1737,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8879,MI6616600,Ontonagon,7726,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8391,MI1437200,Ontwa Township-Edwardsburg,5869,6,"Cities from 2,500 thru 9,999",0,8,0,8,0,0,0
+2003,Michigan,MI,8841,MI6363600,Orchard Lake,2247,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8882,MI6716700,Osceola,18572,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8888,MI6816800,Oscoda,9477,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8571,MI3563900,Oscoda Township,7135,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8480,MI2564000,Otisville,878,7,"Cities under 2,500",0,11,0,11,0,0,0
+2003,Michigan,MI,8890,MI6916900,Otsego,20474,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8300,MI0364100,Otsego,3996,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8894,MI7017000,Ottawa,189842,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2003,Michigan,MI,8657,MI4464200,Otter Lake,434,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8424,MI1964300,Ovid,1475,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8542,MI3264400,Owendale,289,7,"Cities under 2,500",0,4,0,4,0,0,0
+2003,Michigan,MI,8994,MI7864500,Owosso,15524,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8843,MI6364600,Oxford,3591,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8612,MI3964700,Parchment,1901,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8597,MI3864900,Parma-Sandstone,6702,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9024,MI8065100,Paw Paw,3387,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8977,MI7665300,Peck,593,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8457,MI2465400,Pellston,787,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8385,MI1365500,Pennfield Township,8837,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8869,MI6465600,Pentwater,961,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8995,MI7866000,Perry,2046,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8772,MI5866100,Petersburg,1172,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8458,MI2466200,Petoskey,6187,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8784,MI5966500,Pierson,187,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8783,MI5966400,Pierson Township,2729,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8543,MI3266600,Pigeon,1173,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8688,MI4766700,Pinckney,2402,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8337,MI0966800,Pinconning,1371,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9041,MI8190600,Pittsfield Township,31970,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8301,MI0367000,Plainwell,4027,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8844,MI6367100,Pleasant Ridge,2563,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9068,MI8267200,Plymouth,9010,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9090,MI8296500,Plymouth Township,28617,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8845,MI6367300,Pontiac,66331,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8613,MI3967800,Portage,45330,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8544,MI3267400,Port Austin,717,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8951,MI7467600,Port Huron,32399,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8567,MI3467900,Portland,3796,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8978,MI7667700,Port Sanilac,648,7,"Cities under 2,500",0,8,0,8,0,0,0
+2003,Michigan,MI,8908,MI7168000,Posen,287,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8451,MI2368100,Potterville,2220,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8330,MI0868500,Prairieville Township,3283,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8905,MI7117100,Presque Isle,10110,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8373,MI1268800,Quincy,1664,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8677,MI4668900,Raisin Township,6783,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8518,MI3069200,Reading,1125,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9069,MI8269300,Redford Township,51405,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8886,MI6769400,Reed City,2426,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9008,MI7969500,Reese,1377,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8732,MI5269700,Republic Township,1115,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8488,MI2586900,"Richfield Township, Genesee County",8432,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8916,MI7290100,"Richfield Township, Roscommon County",4203,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8614,MI3969800,Richland,649,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8763,MI5756800,Richland Township,1487,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8925,MI7346600,"Richland Township, Saginaw County",4336,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8709,MI5069900,Richmond,5245,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8735,MI5288900,Richmond Township,984,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9070,MI8270000,River Rouge,9766,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2003,Michigan,MI,9071,MI8270100,Riverview,13240,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8846,MI6370200,Rochester,10802,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8634,MI4170400,Rockford,4787,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9072,MI8270500,Rockwood,3498,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8909,MI7170600,Rogers City,3270,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8678,MI4670700,Rollin Township,3183,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8710,MI5070800,Romeo,3776,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9073,MI8270900,Romulus,23665,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8803,MI6171000,Roosevelt Park,3841,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8911,MI7217200,Roscommon,12763,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8915,MI7271100,Roscommon,1120,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8917,MI7292500,Roscommon Township,4313,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8876,MI6571200,Rose City,721,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8711,MI5071300,Roseville,48478,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8617,MI3987800,Ross Township,4279,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8871,MI6489600,Rothbury,432,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8847,MI6371400,Royal Oak,59394,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8848,MI6371500,Royal Oak Township,5381,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8929,MI7371700,Saginaw,60273,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8920,MI7317300,Saginaw,41484,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8930,MI7371800,Saginaw Township,40127,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8931,MI7371900,Saginaw Valley State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9037,MI8172800,Saline,8548,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8635,MI4172900,Sand Lake,504,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8979,MI7673000,Sandusky,2716,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8758,MI5673100,Sanford,951,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8968,MI7617600,Sanilac,32305,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8302,MI0373300,Saugatuck,1050,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8296,MI0335300,Saugatuck-Douglas,2259,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8410,MI1773400,Sault Ste. Marie,14306,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8615,MI3973600,Schoolcraft,1568,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8981,MI7717700,Schoolcraft,5296,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8743,MI5373700,Scottville,1278,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8545,MI3273800,Sebewaing,1923,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8870,MI6473900,Shelby,1950,7,"Cities under 2,500",0,9,0,9,0,0,0
+2003,Michigan,MI,8713,MI5074000,Shelby Township,67097,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8584,MI3774100,Shepherd,1445,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8785,MI5974200,Sheridan,708,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8374,MI1274300,Sherwood Township,2288,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8984,MI7817800,Shiawassee,42332,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8519,MI3074500,Somerset Township,4397,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8850,MI6375100,Southfield,78088,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9074,MI8275200,Southgate,30488,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9025,MI8074700,South Haven,4996,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8849,MI6374800,South Lyon,10695,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8531,MI3174900,South Range,721,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8773,MI5875000,South Rockwood,1609,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8636,MI4175400,Sparta,4157,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8940,MI7388700,Spaulding Township,2368,7,"Cities under 2,500",0,3,0,3,0,0,0
+2003,Michigan,MI,8598,MI3875500,Spring Arbor Township,7855,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8386,MI1375700,Springfield,5245,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8900,MI7075600,Spring Lake-Ferrysburg,5493,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8599,MI3875800,Springport Township,2224,7,"Cities under 2,500",0,10,0,10,0,0,0
+2003,Michigan,MI,8580,MI3675900,Stambaugh,1216,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8318,MI0676000,Standish,2075,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8786,MI5976100,Stanton,1518,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8286,MI0100100,State Police: Alcona County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8290,MI0200200,State Police: Alger County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8293,MI0300300,State Police: Allegan County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8305,MI0400400,State Police: Alpena County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8308,MI0500500,State Police: Antrim County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8315,MI0600600,State Police: Arenac County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8319,MI0700700,State Police: Baraga County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8323,MI0800800,State Police: Barry County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8332,MI0900900,State Police: Bay County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8340,MI1001000,State Police: Benzie County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8346,MI1101100,State Police: Berrien County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8369,MI1201200,State Police: Branch County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8376,MI1301300,State Police: Calhoun County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8387,MI1401400,State Police: Cass County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8395,MI1501500,State Police: Charlevoix County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8401,MI1601600,State Police: Cheboygan County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8406,MI1701700,State Police: Chippewa County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8411,MI1801800,State Police: Clare County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8417,MI1901900,State Police: Clinton County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8428,MI2002000,State Police: Crawford County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8432,MI2102100,State Police: Delta County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8437,MI2202200,State Police: Dickinson County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8442,MI2302300,State Police: Eaton County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8454,MI2402400,State Police: Emmet County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8459,MI2502500,State Police: Genesee County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8492,MI2602600,State Police: Gladwin County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8496,MI2702700,State Police: Gogebic County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8504,MI2802800,State Police: Grand Traverse County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8507,MI2902900,State Police: Gratiot County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8513,MI3003000,State Police: Hillsdale County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8522,MI3103100,State Police: Houghton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8533,MI3203200,State Police: Huron County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8548,MI3303300,State Police: Ingham County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8562,MI3403400,State Police: Ionia County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8568,MI3503500,State Police: Iosco County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8573,MI3603600,State Police: Iron County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8581,MI3703700,State Police: Isabella County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8586,MI3803800,State Police: Jackson County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8605,MI3903900,State Police: Kalamazoo County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8621,MI4004000,State Police: Kalkaska County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8625,MI4104100,State Police: Kent County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8640,MI4204200,State Police: Keweenaw County,0,8D,"Non-MSA counties under 10,000",0,7,0,8,0,0,0
+2003,Michigan,MI,8643,MI4304300,State Police: Lake County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8647,MI4404400,State Police: Lapeer County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8660,MI4504500,State Police: Leelanau County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8666,MI4604600,State Police: Lenawee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8682,MI4704700,State Police: Livingston County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8692,MI4804800,State Police: Luce County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8695,MI4904900,State Police: Mackinac County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8699,MI5005000,State Police: Macomb County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8721,MI5105100,State Police: Manistee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8725,MI5205200,State Police: Marquette County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8740,MI5305300,State Police: Mason County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8744,MI5405400,State Police: Mecosta County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8749,MI5505500,State Police: Menominee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8754,MI5605600,State Police: Midland County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8760,MI5705700,State Police: Missaukee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8764,MI5805800,State Police: Monroe County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8774,MI5905900,State Police: Montcalm County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8787,MI6006000,State Police: Montmorency County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8791,MI6106100,State Police: Muskegon County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8807,MI6206200,State Police: Newaygo County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8813,MI6306300,State Police: Oakland County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8863,MI6406400,State Police: Oceana County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8872,MI6506500,State Police: Ogemaw County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8878,MI6606600,State Police: Ontonagon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8881,MI6706700,State Police: Osceola County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8887,MI6806800,State Police: Oscoda County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8889,MI6906900,State Police: Otsego County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8893,MI7007000,State Police: Ottawa County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8904,MI7107100,State Police: Presque Isle County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8910,MI7207200,State Police: Roscommon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8919,MI7307300,State Police: Saginaw County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8967,MI7607600,State Police: Sanilac County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8980,MI7707700,State Police: Schoolcraft County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8983,MI7807800,State Police: Shiawassee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8944,MI7407400,State Police: St. Clair County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8957,MI7507500,State Police: St. Joseph County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8997,MI7907900,State Police: Tuscola County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9013,MI8008000,State Police: Van Buren County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9028,MI8108100,State Police: Washtenaw County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9043,MI8208200,State Police: Wayne County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9091,MI8308300,State Police: Wexford County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8932,MI7372000,St. Charles,2198,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8945,MI7417400,St. Clair,96643,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8952,MI7472100,St. Clair,5877,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8712,MI5072200,St. Clair Shores,62921,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8714,MI5076500,Sterling Heights,126517,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8698,MI4972400,St. Ignace,2547,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8425,MI1972500,St. Johns,7664,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8361,MI1172600,St. Joseph,8685,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8958,MI7517500,St. Joseph,37574,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8368,MI1187700,St. Joseph Township,10068,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8512,MI2972700,St. Louis,4499,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8555,MI3376700,Stockbridge,1290,7,"Cities under 2,500",0,0,0,0,1,1,0
+2003,Michigan,MI,8963,MI7576800,Sturgis,11153,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8600,MI3876900,Summit Township,21876,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9075,MI8277000,Sumpter Township,12020,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8452,MI2377100,Sunfield,594,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8663,MI4574600,Suttons Bay,593,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8481,MI2577200,Swartz Creek,5218,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8851,MI6377300,Sylvan Lake,1718,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8570,MI3536500,Tawas,2890,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8572,MI3577400,Tawas City,1977,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9076,MI8277500,Taylor,66087,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8939,MI7387900,Taymouth Township,4688,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8679,MI4677600,Tecumseh,8730,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8941,MI7389400,Thomas Township,12558,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8363,MI1177900,Three Oaks,1806,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8964,MI7578000,Three Rivers,7188,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8737,MI5290700,Tilden Township,1026,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8933,MI7377800,Tittabawassee Township,8270,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8506,MI2878100,Traverse City,14511,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9077,MI8278300,Trenton,19673,5,"Cities from 10,000 thru 24,999",0,8,0,8,0,0,0
+2003,Michigan,MI,8935,MI7384000,Tri-City Airport,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8852,MI6378400,Troy,81150,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8405,MI1684700,Tuscarora Township,3141,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8998,MI7917900,Tuscola,35335,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8546,MI3278900,Ubly,852,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8691,MI4794100,Unadilla Township,3299,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8375,MI1279000,Union City,1774,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9009,MI7979100,Unionville,597,7,"Cities under 2,500",0,7,0,7,0,0,0
+2003,Michigan,MI,9040,MI8190300,University of Michigan: Ann Arbor,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9086,MI8290600,University of Michigan: Dearborn,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8490,MI2590400,University of Michigan: Flint,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8715,MI5079200,Utica,4704,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9014,MI8018000,Van Buren,54683,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9078,MI8279300,Van Buren Township,25717,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8393,MI1479300,Vandalia,421,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8892,MI6979400,Vanderbilt,598,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9010,MI7979500,Vassar,2792,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8453,MI2379600,Vermontville Township,2179,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,8996,MI7879700,Vernon,830,7,"Cities under 2,500",0,9,0,9,0,0,0
+2003,Michigan,MI,8616,MI3979900,Vicksburg,2277,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8486,MI2585900,Vienna Township,13328,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,1
+2003,Michigan,MI,8501,MI2780000,Wakefield,2018,7,"Cities under 2,500",0,0,0,0,1,0,0
+2003,Michigan,MI,8520,MI3080100,Waldron,588,7,"Cities under 2,500",0,2,0,2,0,0,0
+2003,Michigan,MI,8637,MI4180200,Walker,23108,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8853,MI6380400,Walled Lake,6673,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8716,MI5080600,Warren,138077,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9029,MI8118100,Washtenaw,140178,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2003,Michigan,MI,8854,MI6380800,Waterford Township,73865,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8604,MI3893200,Waterloo Township,3049,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8502,MI2780900,Watersmeet Township,1474,7,"Cities under 2,500",0,0,0,0,1,0,0
+2003,Michigan,MI,9011,MI7980700,Watertown Township,2233,7,"Cities under 2,500",0,0,0,0,0,0,0
+2003,Michigan,MI,8364,MI1181000,Watervliet,1818,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8303,MI0381100,Wayland,3995,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9079,MI8281200,Wayne,19077,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9044,MI8218200,Wayne,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9088,MI8293900,Wayne County Airport,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8556,MI3381300,Webberville,1539,7,"Cities under 2,500",0,0,0,0,1,1,0
+2003,Michigan,MI,8855,MI6381500,West Bloomfield Township,65494,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8877,MI6581600,West Branch,1920,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8618,MI3988100,Western Michigan University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,9080,MI8281700,Westland,86536,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,9092,MI8318300,Wexford,19588,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8811,MI6282000,White Cloud,1436,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8804,MI6182400,Whitehall,2830,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8856,MI6382100,White Lake Township,28880,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8965,MI7582200,White Pigeon,1621,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8557,MI3382600,Williamston,3710,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8857,MI6382700,Wixom,13569,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8858,MI6382900,Wolverine Lake,4374,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9081,MI8283100,Woodhaven,12802,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8331,MI0883200,Woodland Township,2181,7,"Cities under 2,500",0,5,0,5,0,0,0
+2003,Michigan,MI,8672,MI4630200,Woodstock Township,3558,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,9082,MI8283300,Wyandotte,27927,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8638,MI4183400,Wyoming,70535,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2003,Michigan,MI,8953,MI7483500,Yale,2047,7,"Cities under 2,500",1,12,1,12,0,1,1
+2003,Michigan,MI,8645,MI4348900,Yates Township,720,7,"Cities under 2,500",0,0,0,0,1,1,1
+2003,Michigan,MI,9038,MI8183600,Ypsilanti,22883,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8901,MI7083700,Zeeland,5719,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2003,Michigan,MI,8934,MI7383800,Zilwaukee,1778,7,"Cities under 2,500",0,8,0,8,0,0,0

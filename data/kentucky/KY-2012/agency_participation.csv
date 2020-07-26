@@ -1,0 +1,638 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2012,Kentucky,KY,6500,KY0010000,Adair,14265,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6502,KY0010300,Adair County Constable District 6,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6887,KY0710300,Adairville,853,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6632,KY0270100,Albany,2021,7,"Cities under 2,500",0,11,0,11,0,0,0
+2012,Kentucky,KY,6679,KY0371400,Alcohol Beverage Control Enforcement Division,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2012,Kentucky,KY,6591,KY0190700,Alexandria,8557,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6504,KY0020000,Allen,15916,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6668,KY0360500,Allen,191,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6783,KY0560500,Anchorage,2372,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6507,KY0030000,Anderson,11057,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6509,KY0030200,Anderson County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6541,KY0100100,Ashland,21707,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6886,KY0710200,Auburn,1340,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6792,KY0561900,Audubon Park,1490,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6553,KY0120100,Augusta,1197,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6511,KY0040000,Ballard,7262,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6848,KY0610100,Barbourville,3178,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6970,KY0900100,Bardstown,11869,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6602,KY0200100,Bardwell,717,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6513,KY0040200,Barlow,678,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6516,KY0050000,Barren,26029,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6520,KY0051100,Barren County Drug Task Force,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6522,KY0060000,Bath,10218,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2012,Kentucky,KY,6862,KY0650100,Beattyville,1299,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6981,KY0920200,Beaver Dam,3454,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6525,KY0070000,Bell,16556,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6723,KY0451000,Bellefonte,889,7,"Cities under 2,500",0,3,0,3,0,0,0
+2012,Kentucky,KY,6585,KY0190100,Bellevue,6011,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6744,KY0480600,Benham,498,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6926,KY0790100,Benton,4341,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6912,KY0760100,Berea,13798,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6971,KY0900200,Bloomfield,852,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6529,KY0080000,Boone,91280,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6530,KY0080100,Boone County Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6995,KY0950100,Booneville,82,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6535,KY0090000,Bourbon,10042,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7083,KY1140100,Bowling Green,59043,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6540,KY0100000,Boyd,26025,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6545,KY0100700,Boyd County Constable District 2,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6543,KY0100300,Boyd County Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6547,KY0110000,Boyle,9297,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6552,KY0120000,Bracken,6687,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6923,KY0780300,Bradfordsville,298,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6939,KY0820100,Brandenburg,2733,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6556,KY0130000,Breathitt,11646,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2012,Kentucky,KY,6559,KY0140000,Breckinridge,15575,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7032,KY1020300,Brodhead,1215,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6832,KY0591500,Bromley,767,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6554,KY0120200,Brooksville,651,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6644,KY0310100,Brownsville,833,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6936,KY0810300,Buffalo Trace-Gateway Narcotics Task Force,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6564,KY0150000,Bullitt,42517,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6572,KY0151000,Bullitt County Constable District 3,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6568,KY0150400,Bullitt Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6946,KY0840200,Burgin,964,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6638,KY0290100,Burkesville,1520,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7019,KY1000200,Burnside,620,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6574,KY0160000,Butler,10434,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6999,KY0960200,Butler,608,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,7072,KY1110100,Cadiz,2557,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6577,KY0170000,Caldwell,6667,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6907,KY0750100,Calhoun,764,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6580,KY0180000,Calloway,19701,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6927,KY0790200,Calvert City,2561,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6584,KY0190000,Campbell,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6586,KY0190200,Campbell County Police Department,18362,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6762,KY0520400,Campbellsburg,817,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,7063,KY1090100,Campbellsville,9209,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7105,KY1190100,Campton,442,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6709,KY0430200,Caneyville,616,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6976,KY0910100,Carlisle,1999,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6601,KY0200000,Carlisle,4344,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6604,KY0210000,Carroll,7020,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6605,KY0210100,Carrollton,4021,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6607,KY0220000,Carter,21850,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6610,KY0220300,Carter County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6612,KY0230000,Casey,13781,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6542,KY0100200,Catlettsburg,1859,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6518,KY0050200,Cave City,2252,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6982,KY0920400,Centertown,429,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6965,KY0890200,Central City,5955,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6915,KY0760700,Central Kentucky Area Drug Task Force,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6615,KY0240000,Christian,33195,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6619,KY0240400,Christian County Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6533,KY0080500,Cincinnati-Northern Kentucky International Airport,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6623,KY0250000,Clark,17253,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6625,KY0250400,Clark County School System,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6710,KY0430300,Clarkson,883,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7097,KY1170300,Clay,1188,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6627,KY0260000,Clay,20514,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7015,KY0990200,Clay City,1082,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6629,KY0260200,Clay County Schools,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6631,KY0270000,Clinton,8206,8D,"Non-MSA counties under 10,000",0,9,0,9,0,0,0
+2012,Kentucky,KY,6765,KY0530100,Clinton,1361,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6561,KY0140200,Cloverport,1168,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7010,KY0980500,Coal Run Village,1707,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6593,KY0190900,Cold Spring,5968,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6501,KY0010100,Columbia,4468,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7101,KY1180100,Corbin,7351,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6699,KY0410300,Corinth,234,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6756,KY0510200,Corydon,725,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6819,KY0590100,Covington,40914,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6841,KY0593200,Covington Independent Public Schools,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6879,KY0690300,Crab Orchard,842,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6837,KY0592200,Crescent Park,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6827,KY0590900,Crescent Springs,3827,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2012,Kentucky,KY,6599,KY0191600,Crestview,480,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6700,KY0410400,Crittenden,3849,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2012,Kentucky,KY,6634,KY0280000,Crittenden,6307,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6617,KY0240200,Crofton,747,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6739,KY0480100,Cumberland,2226,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6637,KY0290000,Cumberland,5329,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6748,KY0490100,Cynthiana,6396,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7112,KYDOA0100,Daniel Boone National Forest,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6548,KY0110100,Danville,16314,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6640,KY0300000,Daviess,39729,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6769,KY0540200,Dawson Springs,2769,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6587,KY0190300,Dayton,5388,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6840,KY0592800,Dixie Police Authority,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6800,KY0564600,Douglass Hills,5541,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2012,Kentucky,KY,6698,KY0410200,Dry Ridge,2210,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6770,KY0540300,Earlington,1416,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6914,KY0760300,Eastern Kentucky University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6892,KY0720200,Eddyville,2559,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6833,KY0591700,Edgewood,8633,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6643,KY0310000,Edmonson,11288,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6949,KY0850100,Edmonton,1595,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6730,KY0470100,Elizabethtown,29118,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7008,KY0980200,Elkhorn City,982,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,7067,KY1100100,Elkton,2067,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6646,KY0320000,Elliott,7727,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6647,KY0320200,Elliott County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6820,KY0590200,Elsmere,8509,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6760,KY0520200,Eminence,2508,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6821,KY0590300,Erlanger,22034,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6649,KY0330000,Estill,11375,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,23209,KY0330300,Estill County Constable District 1,0,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2012,Kentucky,KY,7020,KY1000300,Eubank,322,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6743,KY0480500,Evarts,959,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6834,KY0591800,Fairview,144,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6998,KY0960100,Falmouth,2152,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6653,KY0340000,Fayette,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6656,KY0340400,Fayette County Schools,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,7022,KY1000500,Ferguson,934,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6678,KY0371200,Fish and Wildlife Enforcement,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6544,KY0100400,FIVCO Area Drug Task Force,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6716,KY0450100,Flatwoods,7431,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6660,KY0350000,Fleming,11856,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6871,KY0670400,Fleming,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2012,Kentucky,KY,6870,KY0670300,Fleming-Neon,769,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6661,KY0350100,Flemingsburg,2693,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6531,KY0080200,Florence,30765,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6663,KY0360000,Floyd,34039,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6669,KY0360600,Floyd County Constable District 1,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6795,KY0562600,Forest Hills,447,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6676,KY0370800,Forestry Enforcement,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6831,KY0591300,Fort Mitchell,8264,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6588,KY0190400,Fort Thomas,16478,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6822,KY0590400,Fort Wright,5764,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6954,KY0860300,Fountain Run,217,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6672,KY0370100,Frankfort,25648,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6671,KY0370000,Franklin,23870,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7057,KY1070100,Franklin,8453,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6681,KY0372200,Franklin County Constable District 1,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6680,KY0371500,Franklin County Constable District 3,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6683,KY0380000,Fulton,1961,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6684,KY0380100,Fulton,2428,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6687,KY0390000,Gallatin,6649,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6689,KY0390300,Gallatin County Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6953,KY0860200,Gamaliel,377,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6692,KY0400000,Garrard,13483,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6694,KY0400600,Garrard County Constable District 1,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7043,KY1050100,Georgetown,29765,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6517,KY0050100,Glasgow,14095,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6690,KY0390700,Glencoe,362,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6696,KY0410000,Grant,18712,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6702,KY0420000,Graves,26817,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6705,KY0420700,Graves County Schools,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6802,KY0565000,Graymoor-Devondale,2897,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6608,KY0220100,Grayson,4210,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6707,KY0430000,Grayson,17758,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6736,KY0471500,Greater Hardin County Narcotics Task Force,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6712,KY0440000,Green,9086,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2012,Kentucky,KY,6713,KY0440100,Greensburg,2162,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6804,KY0565500,Green Spring,724,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6715,KY0450000,Greenup,17904,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6717,KY0450200,Greenup,1190,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6964,KY0890100,Greenville,4294,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7068,KY1100300,Guthrie,1423,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6725,KY0460000,Hancock,5970,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6928,KY0790300,Hardin,614,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6729,KY0470000,Hardin,51033,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6734,KY0470700,Hardin County Constable District 4,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6735,KY0470800,Hardin County Constable District 5,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6560,KY0140100,Hardinsburg,2369,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6738,KY0480000,Harlan,21520,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6740,KY0480200,Harlan,1735,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6747,KY0490000,Harrison,12429,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6945,KY0840100,Harrodsburg,8342,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6750,KY0500000,Hart,14339,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6980,KY0920100,Hartford,2707,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6726,KY0460100,Hawesville,947,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7002,KY0970100,Hazard,4474,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6755,KY0510100,Henderson,28926,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6754,KY0510000,Henderson,17597,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6758,KY0520000,Henry,11394,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6791,KY0561800,Heritage Creek,1087,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6685,KY0380200,Hickman,2383,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6764,KY0530000,Hickman,3435,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6589,KY0190500,Highland Heights ,6978,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6569,KY0150500,Hillview,8279,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6844,KY0600100,Hindman,777,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6851,KY0620100,Hodgenville,3239,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6789,KY0561600,Hollow Creek,792,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6767,KY0540000,Hopkins,21135,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6616,KY0240100,Hopkinsville,31499,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6751,KY0500100,Horse Cave,2321,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6571,KY0150700,Hunters Hollow,393,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6805,KY0566400,Hurstbourne Acres,1831,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6878,KY0690200,Hustonville,407,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6865,KY0660100,Hyden,364,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6835,KY0591900,Independence,24927,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6798,KY0564400,Indian Hills,2898,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6931,KY0800100,Inez,708,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6650,KY0330100,Irvine,2720,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6562,KY0140300,Irvington,1195,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6557,KY0130100,Jackson,2231,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6774,KY0550000,Jackson,12679,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6776,KY0550200,Jackson County Police Department,0,8D,"Non-MSA counties under 10,000",0,2,0,2,0,0,0
+2012,Kentucky,KY,7039,KY1040100,Jamestown,1804,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6778,KY0560000,Jefferson,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6801,KY0564700,Jefferson Community and Technical College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6779,KY0560100,Jefferson County Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6803,KY0565200,Jefferson County School District,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6785,KY0561000,Jeffersontown,26874,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6869,KY0670200,Jenkins,2203,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6809,KY0570000,Jessamine,17084,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6812,KY0570300,Jessamine County Constable District 2,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6813,KY0570700,Jessamine County Constable District 4,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6815,KY0580000,Johnson,19982,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6549,KY0110200,Junction City,2256,7,"Cities under 2,500",0,6,0,7,0,0,0
+2012,Kentucky,KY,6818,KY0590000,Kenton,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6823,KY0590500,Kenton County Police Department,14292,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6882,KY0700200,Kentucky Dam,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6790,KY0561700,Kentucky Fairgrounds Security,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6658,KY0340800,Kentucky Horse Park,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6675,KY0370500,Kentucky State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6843,KY0600000,Knott,15020,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6847,KY0610000,Knox,26996,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6514,KY0040300,La Center,1012,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6986,KY0930100,La Grange,8149,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7023,KY1000600,Lake Cumberland Area Drug Enforcement Task Force,0,7,"Cities under 2,500",0,10,0,10,0,0,0
+2012,Kentucky,KY,6828,KY0591000,Lakeside Park-Crestview Hills,5856,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6836,KY0592000,Lakeview,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6693,KY0400100,Lancaster,3445,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6850,KY0620000,Larue,11112,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6838,KY0592300,Latonia Lakes,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6853,KY0630000,Laurel,51427,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6855,KY0630700,Laurel County Constable District 1,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6858,KY0640000,Lawrence,13576,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6508,KY0030100,Lawrenceburg,10642,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6921,KY0780100,Lebanon,5601,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6566,KY0150200,Lebanon Junction,1837,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6861,KY0650000,Lee,6538,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,23042,KY0650400,Lee County Constable District 3,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6708,KY0430100,Leitchfield,6766,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6864,KY0660000,Leslie,10897,8C,"Non-MSA counties from 10,000 thru 24,999",0,5,0,5,0,0,0
+2012,Kentucky,KY,6867,KY0670000,Letcher,19401,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6873,KY0680000,Lewis,12383,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6888,KY0710400,Lewisburg,811,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6727,KY0460200,Lewisport,1677,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6654,KY0340200,Lexington,302332,1C,"Cities from 250,000 thru 499,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6657,KY0340500,Lexington Bluegrass Airport,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6613,KY0230100,Liberty,2168,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6876,KY0690000,Lincoln,20011,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6908,KY0750200,Livermore,1368,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,7030,KY1020100,Livingston,227,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6881,KY0700000,Livingston,9555,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6884,KY0710000,Logan,16888,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6854,KY0630100,London,8078,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6898,KY0730300,Lone Oak,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6922,KY0780200,Loretto,720,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6859,KY0640100,Louisa,2500,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6780,KY0560200,Louisville,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6807,KY0568000,Louisville Metro,666200,1B,"Cities from 500,000 thru 999,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6806,KY0566900,Louisville Regional Airport Authority,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6741,KY0480300,Loyall,1454,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6825,KY0590700,Ludlow,4438,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6742,KY0480400,Lynch,742,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6786,KY0561200,Lynnview,923,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6891,KY0720000,Lyon,5779,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6893,KY0720300,Lyon County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6911,KY0760000,Madison,38713,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6768,KY0540100,Madisonville,19637,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6917,KY0770000,Magoffin,11379,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6628,KY0260100,Manchester,1261,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6635,KY0280100,Marion,3053,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6920,KY0780000,Marion,14134,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6925,KY0790000,Marshall,24485,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6930,KY0800000,Martin,12075,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6666,KY0360300,Martin,631,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6933,KY0810000,Mason,8581,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6703,KY0420100,Mayfield,10155,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6934,KY0810100,Maysville,9117,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6895,KY0730000,McCracken,40832,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6897,KY0730200,McCracken County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6899,KY0730700,McCracken County Public Schools,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6901,KY0740000,McCreary,18331,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6904,KY0740300,McCreary County Constable District 1,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6903,KY0740200,McCreary County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6775,KY0550100,McKee,798,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6906,KY0750000,McLean,8787,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6909,KY0750300,McLean County Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6938,KY0820000,Meade,25923,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6794,KY0562300,Meadow Vale,745,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6596,KY0191300,Melbourne,405,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6942,KY0830000,Menifee,6333,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6597,KY0191400,Mentor,193,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6944,KY0840000,Mercer,12030,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6948,KY0850000,Metcalfe,8503,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6526,KY0070100,Middlesboro,10358,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7109,KY1200200,Midway,1645,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6537,KY0090200,Millersburg,795,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6951,KY0860000,Monroe,7969,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6956,KY0870000,Montgomery,19834,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6958,KY0870200,Montgomery County School District,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,7093,KY1160100,Monticello,6240,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7035,KY1030100,Morehead,6914,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7036,KY1030200,Morehead State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6960,KY0880000,Morgan,10534,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2012,Kentucky,KY,7078,KY1130100,Morganfield,3308,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6575,KY0160100,Morgantown,2425,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6771,KY0540400,Mortons Gap,865,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6673,KY0370200,Motor Vehicle Enforcement,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7027,KY1010100,Mount Olivet,293,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6957,KY0870100,Mount Sterling,6977,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7031,KY1020200,Mount Vernon,2486,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6567,KY0150300,Mount Washington,9237,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6963,KY0890000,Muhlenberg,20361,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6967,KY0891000,Muhlenberg County Constable District 5,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6940,KY0820200,Muldraugh,981,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6752,KY0500200,Munfordville,1621,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6581,KY0180100,Murray,17938,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6582,KY0180200,Murray State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6969,KY0900000,Nelson,30497,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6973,KY0900500,Nelson County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6759,KY0520100,New Castle,915,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6972,KY0900400,New Haven,867,7,"Cities under 2,500",0,3,0,3,0,0,0
+2012,Kentucky,KY,6590,KY0190600,Newport,15412,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6975,KY0910000,Nicholas,5077,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6977,KY0910300,Nicholas County Schools,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6810,KY0570100,Nicholasville,28366,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6839,KY0592600,Northern Kentucky Drug Strike Force,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6598,KY0191500,Northern Kentucky University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6797,KY0563800,Northfield,1030,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6538,KY0090300,North Middletown,645,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6772,KY0540500,Nortonville,1206,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6620,KY0240500,Oak Grove,7469,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6979,KY0920000,Ohio,17574,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6983,KY0921100,Ohio County School System,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6985,KY0930000,Oldham,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6988,KY0930400,Oldham County Police Department,51117,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6609,KY0220200,Olive Hill,1596,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6990,KY0940000,Owen,9553,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6992,KY0940200,Owen County Constable District 3,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6641,KY0300100,Owensboro,57751,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6991,KY0940100,Owenton,1332,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6523,KY0060100,Owingsville,1554,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6994,KY0950000,Owsley,4750,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6896,KY0730100,Paducah,25199,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6816,KY0580100,Paintsville,3473,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6536,KY0090100,Paris,8580,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6519,KY0050300,Park City,540,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6824,KY0590600,Park Hills,2991,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6674,KY0370300,Park Security,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6618,KY0240300,Pembroke,867,7,"Cities under 2,500",0,4,0,4,0,0,0
+2012,Kentucky,KY,6997,KY0960000,Pendleton,11975,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6621,KY0240600,Pennyrile Narcotics Task Force,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7001,KY0970000,Perry,24350,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7004,KY0970300,Perry County Police Department,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6550,KY0110300,Perryville,755,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6987,KY0930300,Pewee Valley,1467,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7006,KY0980000,Pike,55470,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7011,KY0980600,Pike County Constable District 6,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7009,KY0980300,Pike County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7007,KY0980100,Pikeville,6909,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6527,KY0070200,Pineville,1884,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6570,KY0150600,Pioneer Village,2057,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6845,KY0600200,Pippa Passes,533,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6793,KY0562000,Plantation,841,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6761,KY0520300,Pleasureville,838,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6966,KY0890400,Powderly,741,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7013,KY0990000,Powell,8853,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6664,KY0360100,Prestonsburg,3246,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6578,KY0170100,Princeton,6339,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6799,KY0564500,Prospect,4747,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7096,KY1170200,Providence,3213,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7017,KY1000000,Pulaski,49951,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6718,KY0450300,Raceland,2426,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6731,KY0470200,Radcliff,22148,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6651,KY0330200,Ravenna,608,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6913,KY0760200,Richmond,31890,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7026,KY1010000,Robertson,1942,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7029,KY1020000,Rockcastle,13411,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7034,KY1030000,Rowan,16728,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7038,KY1040000,Russell,13398,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6720,KY0450500,Russell,3385,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7040,KY1040200,Russell Springs,2453,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6885,KY0710100,Russellville,6968,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7045,KY1050300,Sadieville,309,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6918,KY0770100,Salyersville,1870,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7021,KY1000400,Science Hill,702,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7042,KY1050000,Scott,17538,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7049,KY1051000,Scott County Constable District 5,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7047,KY1050500,Scott County Constable District 6,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7048,KY1050600,Scott County Constable District 7,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7046,KY1050400,Scott County Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6505,KY0020100,Scottsville,4275,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7098,KY1170400,Sebree,1611,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,7051,KY1060000,Shelby,26127,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7053,KY1060400,Shelby County Constable District 3,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7052,KY1060100,Shelbyville,14425,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6565,KY0150100,Shepherdsville,11372,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6782,KY0560400,Shively,15422,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6594,KY0191000,Silver Grove,1112,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7056,KY1070000,Simpson,8969,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,7054,KY1060900,Simpsonville,2550,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7085,KY1140300,Smiths Grove,728,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7018,KY1000100,Somerset,11325,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6889,KY0710900,South Central Kentucky Drug Task Force,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6826,KY0590800,South Fort Mitchell,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6592,KY0190800,Southgate,3840,6,"Cities from 2,500 thru 9,999",0,10,0,10,0,0,0
+2012,Kentucky,KY,6719,KY0450400,South Shore,1124,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7059,KY1080000,Spencer,16642,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7090,KY1150100,Springfield,2554,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7044,KY1050200,Stamping Ground,659,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6877,KY0690100,Stanford,3498,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7014,KY0990100,Stanton,2748,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7113,KYKSP0000,State Police,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6503,KY001SP00,State Police: Adair County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6506,KY002SP00,State Police: Allen County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6510,KY003SP00,State Police: Anderson County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7127,KYKSP1400,State Police: Ashland,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6515,KY004SP00,State Police: Ballard County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6521,KY005SP00,State Police: Barren County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6524,KY006SP00,State Police: Bath County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6528,KY007SP00,State Police: Bell County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6534,KY008SP00,State Police: Boone County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6539,KY009SP00,State Police: Bourbon County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7116,KYKSP0300,State Police: Bowling Green,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6546,KY010SP00,State Police: Boyd County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6551,KY011SP00,State Police: Boyle County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6555,KY012SP00,State Police: Bracken County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6558,KY013SP00,State Police: Breathitt County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6563,KY014SP00,State Police: Breckinridge County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6573,KY015SP00,State Police: Bullitt County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6576,KY016SP00,State Police: Butler County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6579,KY017SP00,State Police: Caldwell County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6583,KY018SP00,State Police: Calloway County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6600,KY019SP00,State Police: Campbell County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7118,KYKSP0500,State Police: Campbellsburg,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,7130,KYKSP2500,State Police: Cannabis Suppression Section,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6603,KY020SP00,State Police: Carlisle County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6606,KY021SP00,State Police: Carroll County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6611,KY022SP00,State Police: Carter County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6614,KY023SP00,State Police: Casey County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6622,KY024SP00,State Police: Christian County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6626,KY025SP00,State Police: Clark County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6630,KY026SP00,State Police: Clay County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6633,KY027SP00,State Police: Clinton County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7128,KYKSP1500,State Police: Columbia,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6636,KY028SP00,State Police: Crittenden County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6639,KY029SP00,State Police: Cumberland County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6642,KY030SP00,State Police: Daviess County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7133,KYKSP3300,State Police: Drug Enforcement Area 2,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,7119,KYKSP0600,State Police: Dry Ridge,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6645,KY031SP00,State Police: Edmonson County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7134,KYKSP3500,State Police: Electronic Crimes,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,7117,KYKSP0400,State Police: Elizabethtown,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6648,KY032SP00,State Police: Elliott County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6652,KY033SP00,State Police: Estill County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6659,KY034SP00,State Police: Fayette County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6662,KY035SP00,State Police: Fleming County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6670,KY036SP00,State Police: Floyd County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7125,KYKSP1200,State Police: Frankfort,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6682,KY037SP00,State Police: Franklin County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6686,KY038SP00,State Police: Fulton County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6691,KY039SP00,State Police: Gallatin County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6695,KY040SP00,State Police: Garrard County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6701,KY041SP00,State Police: Grant County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6706,KY042SP00,State Police: Graves County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6711,KY043SP00,State Police: Grayson County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6714,KY044SP00,State Police: Green County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6724,KY045SP00,State Police: Greenup County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6728,KY046SP00,State Police: Hancock County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6737,KY047SP00,State Police: Hardin County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7123,KYKSP1000,State Police: Harlan,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6746,KY048SP00,State Police: Harlan County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6749,KY049SP00,State Police: Harrison County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6753,KY050SP00,State Police: Hart County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7126,KYKSP1300,State Police: Hazard,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,7129,KYKSP1600,State Police: Henderson,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6757,KY051SP00,State Police: Henderson County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6763,KY052SP00,State Police: Henry County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6766,KY053SP00,State Police: Hickman County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6773,KY054SP00,State Police: Hopkins County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6777,KY055SP00,State Police: Jackson County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6808,KY056SP00,State Police: Jefferson County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6814,KY057SP00,State Police: Jessamine County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6817,KY058SP00,State Police: Johnson County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6842,KY059SP00,State Police: Kenton County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6846,KY060SP00,State Police: Knott County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6849,KY061SP00,State Police: Knox County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6852,KY062SP00,State Police: Larue County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6857,KY063SP00,State Police: Laurel County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6860,KY064SP00,State Police: Lawrence County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6863,KY065SP00,State Police: Lee County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6866,KY066SP00,State Police: Leslie County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6872,KY067SP00,State Police: Letcher County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6875,KY068SP00,State Police: Lewis County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6880,KY069SP00,State Police: Lincoln County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6883,KY070SP00,State Police: Livingston County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6890,KY071SP00,State Police: Logan County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7124,KYKSP1100,State Police: London,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6894,KY072SP00,State Police: Lyon County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6916,KY076SP00,State Police: Madison County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7115,KYKSP0200,State Police: Madisonville,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6919,KY077SP00,State Police: Magoffin County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6924,KY078SP00,State Police: Marion County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6929,KY079SP00,State Police: Marshall County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6932,KY080SP00,State Police: Martin County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6937,KY081SP00,State Police: Mason County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7114,KYKSP0100,State Police: Mayfield,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6900,KY073SP00,State Police: McCracken County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6905,KY074SP00,State Police: McCreary County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6910,KY075SP00,State Police: McLean County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6941,KY082SP00,State Police: Meade County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6943,KY083SP00,State Police: Menifee County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6947,KY084SP00,State Police: Mercer County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6950,KY085SP00,State Police: Metcalfe County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6955,KY086SP00,State Police: Monroe County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6959,KY087SP00,State Police: Montgomery County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7121,KYKSP0800,State Police: Morehead,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,6962,KY088SP00,State Police: Morgan County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6968,KY089SP00,State Police: Muhlenberg County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6974,KY090SP00,State Police: Nelson County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6978,KY091SP00,State Police: Nicholas County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6984,KY092SP00,State Police: Ohio County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6989,KY093SP00,State Police: Oldham County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6993,KY094SP00,State Police: Owen County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6996,KY095SP00,State Police: Owsley County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7000,KY096SP00,State Police: Pendleton County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7005,KY097SP00,State Police: Perry County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7012,KY098SP00,State Police: Pike County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7122,KYKSP0900,State Police: Pikeville,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,7016,KY099SP00,State Police: Powell County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7025,KY100SP00,State Police: Pulaski County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7120,KYKSP0700,State Police: Richmond,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,7028,KY101SP00,State Police: Robertson County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7033,KY102SP00,State Police: Rockcastle County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7037,KY103SP00,State Police: Rowan County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7041,KY104SP00,State Police: Russell County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7050,KY105SP00,State Police: Scott County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7055,KY106SP00,State Police: Shelby County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7058,KY107SP00,State Police: Simpson County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7061,KY108SP00,State Police: Spencer County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7065,KY109SP00,State Police: Taylor County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7070,KY110SP00,State Police: Todd County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7074,KY111SP00,State Police: Trigg County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7076,KY112SP00,State Police: Trimble County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7081,KY113SP00,State Police: Union County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7131,KYKSP2800,State Police: Vehicle Investigations,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,7088,KY114SP00,State Police: Warren County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7091,KY115SP00,State Police: Washington County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7094,KY116SP00,State Police: Wayne County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7099,KY117SP00,State Police: Webster County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7132,KYKSP3200,State Police: West Drug Enforcement Branch,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2012,Kentucky,KY,7103,KY118SP00,State Police: Whitley County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7106,KY119SP00,State Police: Wolfe County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,7111,KY120SP00,State Police: Woodford County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6781,KY0560300,St. Matthews,17651,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6796,KY0563600,Strathmoor Village,656,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6787,KY0561300,St. Regis Park,1471,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,7079,KY1130200,Sturgis,1911,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7062,KY1090000,Taylor,15585,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7064,KY1090200,Taylor County Police Department,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6829,KY0591100,Taylor Mill,6650,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7060,KY1080100,Taylorsville,780,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7073,KY1110200,Tennessee Valley Authority,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,7066,KY1100000,Todd,8620,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6952,KY0860100,Tompkinsville,2402,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7069,KY1100400,Trenton,385,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7071,KY1110000,Trigg,11784,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7075,KY1120000,Trimble,8747,9D,"MSA counties under 10,000",0,11,0,11,0,0,0
+2012,Kentucky,KY,7077,KY1130000,Union,8877,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,7080,KY1130300,Uniontown,1009,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7135,KYUSM0200,United State Marshals Service Lexington,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,6655,KY0340300,University of Kentucky,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6788,KY0561500,University of Louisville,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7024,KY1001200,Unlawful Narcotics Investigation Treatment and Education,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6874,KY0680100,Vanceburg,1530,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7108,KY1200100,Versailles,8593,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7003,KY0970200,Vicco,335,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6830,KY0591200,Villa Hills,7540,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6732,KY0470300,Vine Grove,4616,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6745,KY0480700,Wallins,156,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6532,KY0080300,Walton,3733,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2012,Kentucky,KY,7082,KY1140000,Warren,56038,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7087,KY1140800,Warren County Constable District 4,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,7086,KY1140500,Warren County Drug Task Force,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2012,Kentucky,KY,6688,KY0390100,Warsaw,1623,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7089,KY1150000,Washington,9322,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6935,KY0810200,Washington,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6677,KY0371100,Water Patrol,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6667,KY0360400,Wayland,424,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,7092,KY1160000,Wayne,14782,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7095,KY1170000,Webster,7691,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,6784,KY0560600,West Buechel,1242,7,"Cities under 2,500",0,7,0,7,0,0,0
+2012,Kentucky,KY,7084,KY1140200,Western Kentucky University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6961,KY0880100,West Liberty,3444,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6733,KY0470400,West Point,813,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6665,KY0360200,Wheelwright,775,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6868,KY0670100,Whitesburg,2135,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,7100,KY1180000,Whitley,25077,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6902,KY0740100,Whitley City,1181,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6512,KY0040100,Wickliffe,691,7,"Cities under 2,500",0,0,0,0,1,1,1
+2012,Kentucky,KY,6595,KY0191200,Wilder,3064,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7102,KY1180200,Williamsburg,5281,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6697,KY0410100,Williamstown,3957,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6811,KY0570200,Wilmore,3720,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6624,KY0250100,Winchester,18374,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,6704,KY0420200,Wingo,642,7,"Cities under 2,500",0,0,0,0,0,0,0
+2012,Kentucky,KY,7104,KY1190000,Wolfe,6919,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2012,Kentucky,KY,7107,KY1200000,Woodford,16415,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2012,Kentucky,KY,7110,KY1200300,Woodford County Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2012,Kentucky,KY,6721,KY0450600,Worthington,1612,7,"Cities under 2,500",1,12,1,12,0,1,1
+2012,Kentucky,KY,6722,KY0450700,Wurtland,997,7,"Cities under 2,500",0,0,0,0,0,0,0

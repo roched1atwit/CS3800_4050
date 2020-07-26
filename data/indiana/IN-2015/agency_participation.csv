@@ -1,0 +1,379 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2015,Indiana,IN,5685,IN0010000,Adams,21372,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5873,IN0570300,Albion,2312,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5840,IN0480100,Alexandria,5048,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5688,IN0020000,Allen,92688,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5841,IN0480200,Anderson,55275,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5926,IN0760100,Angola,8631,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5745,IN0230100,Attica,3104,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5725,IN0170100,Auburn,12855,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5719,IN0150100,Aurora,3693,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5918,IN0720200,Austin,4130,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5774,IN0321100,Avon,16610,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5730,IN0180500,Ball State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5800,IN0410800,Bargersville,6823,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5691,IN0030000,Bartholomew,33993,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5905,IN0690100,Batesville,6546,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5837,IN0470100,Bedford,13341,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5845,IN0490100,Beech Grove,14592,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5693,IN0040000,Benton,6388,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Indiana,IN,5686,IN0010100,Berne,4047,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5802,IN0420100,Bicknell,2888,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5695,IN0050000,Blackford,6163,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Indiana,IN,25670,IN0280100,Bloomfield,2348,7,"Cities under 2,500",0,4,0,0,0,0,0
+2015,Indiana,IN,5861,IN0530100,Bloomington,84015,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5959,IN0900100,Bluffton,9985,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5697,IN0060000,Boone,15073,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5951,IN0870100,Boonville,6142,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5712,IN0110100,Brazil,8126,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5853,IN0500100,Bremen,4590,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5748,IN0240100,Brookville,2571,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2015,Indiana,IN,5701,IN0070000,Brown,14890,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5771,IN0320100,Brownsburg,23770,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5783,IN0360100,Brownstown,2959,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5890,IN0640400,Burns Harbor,1696,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,23204,IN0494000,Butler University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5956,IN0890200,Cambridge City,1793,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5883,IN0620200,Cannelton,1525,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5762,IN0290100,Carmel,88511,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5702,IN0080000,Carroll,16987,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5704,IN0090000,Cass,20315,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5809,IN0450100,Cedar Lake,11922,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5707,IN0100100,Charlestown,8172,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5843,IN0480700,Chesterfield,2493,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5887,IN0640100,Chesterton,13479,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5706,IN0100000,Clark,30156,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5934,IN0790600,Clarks Hill,678,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5708,IN0100200,Clarksville,21911,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5711,IN0110000,Clay,18340,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5941,IN0830100,Clinton,4797,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5713,IN0120000,Clinton,16561,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5963,IN0920100,Columbia City,8843,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5692,IN0030100,Columbus,46640,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5739,IN0210100,Connersville,12912,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5769,IN0310100,Corydon,3123,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5746,IN0230200,Covington,2562,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5715,IN0130000,Crawford,10632,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5865,IN0540100,Crawfordsville,16007,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5810,IN0450200,Crown Point,28814,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5855,IN0500500,Culver,1402,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5850,IN0491900,Cumberland,5416,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5772,IN0320200,Danville,9731,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5716,IN0140000,Daviess,20814,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,23147,IN0790500,Dayton,1584,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5718,IN0150000,Dearborn,36238,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5687,IN0010200,Decatur,9436,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5722,IN0160000,Decatur,14802,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5724,IN0170000,De Kalb,20965,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5728,IN0180000,Delaware,46620,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5703,IN0080100,Delphi,2862,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5899,IN067079E,Depauw University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5731,IN0190000,Dubois,20995,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5788,IN0380100,Dunkirk,2347,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5821,IN0451300,Dyer,16110,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5811,IN0450300,East Chicago,28814,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5795,IN0410100,Edinburgh,4547,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5734,IN0200000,Elkhart,112716,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2015,Indiana,IN,5735,IN0200100,Elkhart,51566,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5863,IN0530300,Ellettsville,6536,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5842,IN0480300,Elwood,8451,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5939,IN0820100,Evansville,120414,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5757,IN0270300,Fairmount,2863,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5738,IN0210000,Fayette,10326,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5765,IN0290700,Fishers,88724,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5740,IN0220000,Floyd,36624,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5689,IN0020100,Fort Wayne,259712,1C,"Cities from 250,000 thru 499,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5744,IN0230000,Fountain,10833,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5694,IN0040100,Fowler,2261,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5714,IN0120100,Frankfort,16085,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5747,IN0240000,Franklin,21217,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5796,IN0410200,Franklin,24513,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5749,IN0250000,Fulton,14310,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5726,IN0170300,Garrett,6320,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5813,IN0450500,Gary,77336,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5755,IN0270100,Gas City,5999,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5743,IN0220300,Georgetown,3234,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5751,IN0260000,Gibson,22754,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5736,IN0200200,Goshen,32441,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5754,IN0270000,Grant,30139,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5898,IN0670100,Greencastle,10376,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5721,IN0150300,Greendale,4432,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5758,IN0280000,Greene,22747,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5767,IN0300100,Greenfield,21573,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5723,IN0160100,Greensburg,11888,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5797,IN0410300,Greenwood,55395,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5814,IN0450600,Griffith,16424,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5957,IN0890400,Hagerstown,1743,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5761,IN0290000,Hamilton,36531,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5815,IN0450700,Hammond,77803,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5766,IN0300000,Hancock,48101,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5768,IN0310000,Harrison,36131,9B,"MSA counties from 25,000 thru 99,999",0,6,0,0,0,0,0
+2015,Indiana,IN,5696,IN0050100,Hartford City,5999,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5892,IN0641000,Hebron,3712,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5770,IN0320000,Hendricks,77366,9B,"MSA counties from 25,000 thru 99,999",0,3,0,0,0,0,0
+2015,Indiana,IN,5775,IN0330000,Henry,31298,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5816,IN0450800,Highland,22983,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5817,IN0450900,Hobart,28463,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5777,IN0340000,Howard,24744,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5732,IN0190100,Huntingburg,6039,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5781,IN0350100,Huntington,17120,5,"Cities from 10,000 thru 24,999",0,9,0,0,0,0,0
+2015,Indiana,IN,5780,IN0350000,Huntington,19462,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,6058,INIPD0000,Indianapolis,863675,1B,"Cities from 500,000 thru 999,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5849,IN0490600,Indianapolis International Airport,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,6057,INIEP0000,Indiana State Excise Police,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,6059,INISP0000,Indiana State Police,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Indiana,IN,5945,IN0840300,Indiana State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5862,IN0530200,Indiana University: Bloomington,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5848,IN0490400,Indiana University: Indianapolis,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5826,IN0451800,Indiana University: Northwest,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5914,IN0710800,Indiana University: South Bend,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Indiana,IN,5742,IN0220200,Indiana University: Southeast,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5782,IN0360000,Jackson,21653,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5759,IN0280200,Jasonville,2179,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5733,IN0190200,Jasper,15392,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5785,IN0370000,Jasper,27518,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5787,IN0380000,Jay,12754,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5790,IN0390000,Jefferson,20446,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5709,IN0100300,Jeffersonville,46764,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5792,IN0400000,Jennings,21248,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5794,IN0410000,Johnson,51288,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5871,IN0570100,Kendallville,9918,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5831,IN0460400,Kingsford Heights,1426,7,"Cities under 2,500",0,1,0,0,0,0,0
+2015,Indiana,IN,5923,IN0750100,Knox,3602,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5801,IN0420000,Knox,16968,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5778,IN0340100,Kokomo,57143,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5804,IN0430000,Kosciusko,58881,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5893,IN0641100,Kouts,1966,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5931,IN0790100,Lafayette,71100,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5807,IN0440000,LaGrange,38731,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5808,IN0450000,Lake,47596,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5812,IN0450400,Lake Station,12080,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5827,IN0460000,La Porte,47252,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5828,IN0460100,La Porte,22000,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5846,IN0490200,Lawrence,47930,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5836,IN0470000,Lawrence,27952,8B,"Non-MSA counties from 25,000 thru 99,999",0,9,0,0,0,0,0
+2015,Indiana,IN,5720,IN0150200,Lawrenceburg,4960,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5698,IN0060100,Lebanon,15844,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5872,IN0570200,Ligonier,4392,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5760,IN0280300,Linton,5311,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2015,Indiana,IN,5705,IN0090100,Logansport,17954,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5830,IN0460300,Long Beach,1159,7,"Cities under 2,500",0,2,0,0,0,0,0
+2015,Indiana,IN,5857,IN0510100,Loogootee,2696,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5820,IN0451200,Lowell,9429,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5903,IN0680400,Lynn,1055,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5791,IN0390100,Madison,12041,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5839,IN0480000,Madison,58316,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5851,IN049359E,Marian University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5844,IN0490000,Marion,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Indiana,IN,5756,IN0270200,Marion,29163,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5852,IN0500000,Marshall,30992,8B,"Non-MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5856,IN0510000,Martin,7456,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Indiana,IN,5867,IN0550100,Martinsville,11729,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5822,IN0451400,Merrillville,35570,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5858,IN0520000,Miami,24714,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5829,IN0460200,Michigan City,31497,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5909,IN0710100,Mishawaka,48164,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5838,IN0470200,Mitchell,4269,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5860,IN0530000,Monroe,53911,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5864,IN0540000,Montgomery,22124,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5961,IN0910100,Monticello,5343,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5868,IN0550200,Mooresville,9629,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5866,IN0550000,Morgan,48418,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5895,IN0650100,Mount Vernon,6548,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2015,Indiana,IN,5729,IN0180100,Muncie,70217,3,"Cities from 50,000 thru 99,000",0,11,0,0,0,0,0
+2015,Indiana,IN,5818,IN0451000,Munster,22990,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5737,IN0200300,Nappanee,6733,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5741,IN0220100,New Albany,36649,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5776,IN0330200,New Castle,17542,5,"Cities from 10,000 thru 24,999",0,2,0,0,0,0,0
+2015,Indiana,IN,5825,IN0451700,New Chicago,1983,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5690,IN0020200,New Haven,15803,5,"Cities from 10,000 thru 24,999",0,11,0,0,0,0,0
+2015,Indiana,IN,5869,IN0560000,Newton,14120,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5798,IN0410400,New Whiteland,5890,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5870,IN0570000,Noble,30997,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5763,IN0290200,Noblesville,58888,3,"Cities from 50,000 thru 99,000",0,0,0,0,0,0,0
+2015,Indiana,IN,5835,IN0461300,Northern Indiana Commuter Transportation District,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5924,IN0750200,North Judson,1749,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5912,IN0710600,North Liberty,1913,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5947,IN0850100,North Manchester,5960,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5793,IN0400100,North Vernon,6616,6,"Cities from 2,500 thru 9,999",0,6,0,0,0,0,0
+2015,Indiana,IN,5753,IN0260200,Oakland City,2437,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5874,IN0580000,Ohio,6013,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Indiana,IN,5875,IN0590000,Orange,19564,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5877,IN0600000,Owen,20801,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5876,IN0590100,Paoli,3623,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,0,0
+2015,Indiana,IN,5879,IN0610000,Parke,17204,8C,"Non-MSA counties from 10,000 thru 24,999",0,1,0,0,0,0,0
+2015,Indiana,IN,5881,IN0620000,Perry,10669,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5859,IN0520100,Peru,11006,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5885,IN0630100,Petersburg,2343,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5884,IN0630000,Pike,10217,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5773,IN0320300,Plainfield,31123,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5854,IN0500200,Plymouth,10113,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5888,IN0640200,Portage,36741,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5886,IN0640000,Porter,72605,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5891,IN0640600,Porter,4886,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5789,IN0380200,Portland,6204,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2015,Indiana,IN,5894,IN0650000,Posey,18895,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5799,IN0410500,Prince's Lakes,1331,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5752,IN0260100,Princeton,8601,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5896,IN0660000,Pulaski,12864,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5933,IN0790300,Purdue University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5897,IN0670000,Putnam,27137,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5900,IN0680000,Randolph,15892,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5786,IN0370100,Rensselaer,5925,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2015,Indiana,IN,5955,IN0890100,Richmond,36008,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5904,IN0690000,Ripley,23521,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5750,IN0250100,Rochester,6096,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5880,IN0610100,Rockville,2593,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,0,0
+2015,Indiana,IN,5913,IN0710700,Roseland,625,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5906,IN0700000,Rush,10647,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5907,IN0700100,Rushville,6116,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5779,IN0340200,Russiaville,1087,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5953,IN0880100,Salem,6214,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5824,IN0451600,Schererville,28849,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5916,IN0720000,Scott,12812,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5917,IN0720100,Scottsburg,6634,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5710,IN0100400,Sellersburg,8122,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5784,IN0360200,Seymour,19345,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5919,IN0730000,Shelby,25338,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5920,IN0730100,Shelbyville,19176,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5910,IN0710200,South Bend,101240,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5964,IN0920300,South Whitley,1744,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5847,IN0490300,Speedway,12172,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5878,IN0600100,Spencer,2264,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Indiana,IN,5921,IN0740000,Spencer,20764,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5922,IN0750000,Starke,17633,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5965,IN301SP00,State Police: Adams County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5966,IN302SP00,State Police: Allen County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5967,IN303SP00,State Police: Bartholomew County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5968,IN304SP00,State Police: Benton County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5969,IN305SP00,State Police: Blackford County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5970,IN306SP00,State Police: Boone County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5971,IN307SP00,State Police: Brown County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5972,IN308SP00,State Police: Carroll County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5973,IN309SP00,State Police: Cass County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5974,IN310SP00,State Police: Clark County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5975,IN311SP00,State Police: Clay County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5976,IN312SP00,State Police: Clinton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5977,IN313SP00,State Police: Crawford County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5978,IN314SP00,State Police: Daviess County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5979,IN315SP00,State Police: Dearborn County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5980,IN316SP00,State Police: Decatur County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5981,IN317SP00,State Police: De Kalb County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5982,IN318SP00,State Police: Delaware County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5983,IN319SP00,State Police: Dubois County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5984,IN320SP00,State Police: Elkhart County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5985,IN321SP00,State Police: Fayette County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5986,IN322SP00,State Police: Floyd County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5987,IN323SP00,State Police: Fountain County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5988,IN324SP00,State Police: Franklin County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5989,IN325SP00,State Police: Fulton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5990,IN326SP00,State Police: Gibson County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5991,IN327SP00,State Police: Grant County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5992,IN328SP00,State Police: Greene County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5993,IN329SP00,State Police: Hamilton County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5994,IN330SP00,State Police: Hancock County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5995,IN331SP00,State Police: Harrison County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5996,IN332SP00,State Police: Hendricks County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5997,IN333SP00,State Police: Henry County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5998,IN334SP00,State Police: Howard County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5999,IN335SP00,State Police: Huntington County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6000,IN336SP00,State Police: Jackson County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6001,IN337SP00,State Police: Jasper County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6002,IN338SP00,State Police: Jay County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6003,IN339SP00,State Police: Jefferson County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6004,IN340SP00,State Police: Jennings County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6005,IN341SP00,State Police: Johnson County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6006,IN342SP00,State Police: Knox County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6007,IN343SP00,State Police: Kosciusko County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6008,IN344SP00,State Police: LaGrange County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6009,IN345SP00,State Police: Lake County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6010,IN346SP00,State Police: La Porte County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6011,IN347SP00,State Police: Lawrence County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6012,IN348SP00,State Police: Madison County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6013,IN349SP00,State Police: Marion County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6014,IN350SP00,State Police: Marshall County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6015,IN351SP00,State Police: Martin County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6016,IN352SP00,State Police: Miami County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6017,IN353SP00,State Police: Monroe County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6018,IN354SP00,State Police: Montgomery County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6019,IN355SP00,State Police: Morgan County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6020,IN356SP00,State Police: Newton County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6021,IN357SP00,State Police: Noble County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6022,IN358SP00,State Police: Ohio County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6023,IN359SP00,State Police: Orange County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6024,IN360SP00,State Police: Owen County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6025,IN361SP00,State Police: Parke County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6026,IN362SP00,State Police: Perry County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6027,IN363SP00,State Police: Pike County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6028,IN364SP00,State Police: Porter County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6029,IN365SP00,State Police: Posey County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6030,IN366SP00,State Police: Pulaski County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6031,IN367SP00,State Police: Putnam County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6032,IN368SP00,State Police: Randolph County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6033,IN369SP00,State Police: Ripley County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6034,IN370SP00,State Police: Rush County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6036,IN372SP00,State Police: Scott County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6037,IN373SP00,State Police: Shelby County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6038,IN374SP00,State Police: Spencer County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6039,IN375SP00,State Police: Starke County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6040,IN376SP00,State Police: Steuben County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6035,IN371SP00,State Police: St. Joseph County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6041,IN377SP00,State Police: Sullivan County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6042,IN378SP00,State Police: Switzerland County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6043,IN379SP00,State Police: Tippecanoe County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6044,IN380SP00,State Police: Tipton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6045,IN381SP00,State Police: Union County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6046,IN382SP00,State Police: Vanderburgh County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6047,IN383SP00,State Police: Vermillion County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6048,IN384SP00,State Police: Vigo County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6049,IN385SP00,State Police: Wabash County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6050,IN386SP00,State Police: Warren County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6051,IN387SP00,State Police: Warrick County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6052,IN388SP00,State Police: Washington County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6053,IN389SP00,State Police: Wayne County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6054,IN390SP00,State Police: Wells County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6055,IN391SP00,State Police: White County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,6056,IN392SP00,State Police: Whitley County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Indiana,IN,5925,IN0760000,Steuben,25694,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5823,IN0451500,St. John,16430,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5908,IN0710000,St. Joseph,113400,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2015,Indiana,IN,5915,IN0711100,St. Joseph County Airport Authority,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Indiana,IN,5927,IN0770000,Sullivan,16789,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5928,IN0770100,Sullivan,4154,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5929,IN0780000,Switzerland,10402,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5882,IN0620100,Tell City,7254,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5943,IN0840100,Terre Haute,60997,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Indiana,IN,5930,IN0790000,Tippecanoe,79422,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5936,IN0800100,Tipton,5151,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5935,IN0800000,Tipton,10134,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5832,IN0460500,Trail Creek ,2028,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5937,IN0810000,Union ,7170,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Indiana,IN,5901,IN0680100,Union City,3453,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5889,IN0640300,Valparaiso,32519,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5938,IN0820000,Vanderburgh,62014,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5940,IN0830000,Vermillion,10773,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5942,IN0840000,Vigo,44948,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5803,IN0420200,Vincennes,17944,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5946,IN0850000,Wabash,15742,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5948,IN0850200,Wabash,10378,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5911,IN0710300,Walkerton,2285,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5949,IN0860000,Warren,8309,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Indiana,IN,5950,IN0870000,Warrick,55287,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5805,IN0430100,Warsaw,14461,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5952,IN0880000,Washington,21541,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5717,IN0140100,Washington,12149,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5727,IN0170400,Waterloo,2243,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Indiana,IN,5954,IN0890000,Wayne,27759,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5958,IN0900000,Wells,17907,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5764,IN0290400,Westfield,36681,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5932,IN0790200,West Lafayette,32758,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5944,IN0840200,West Terre Haute,2223,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Indiana,IN,5834,IN0460700,Westville,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Indiana,IN,5833,IN0460600,Westville,6005,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5960,IN0910000,White,19036,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5700,IN0060500,Whitestown,5984,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5819,IN0451100,Whiting,4822,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5962,IN0920000,Whitley,22808,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2015,Indiana,IN,5902,IN0680200,Winchester,4773,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Indiana,IN,5806,IN0430200,Winona Lake,4984,6,"Cities from 2,500 thru 9,999",0,5,0,0,0,0,0
+2015,Indiana,IN,5699,IN0060300,Zionsville,26306,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0

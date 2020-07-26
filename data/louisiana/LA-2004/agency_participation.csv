@@ -1,0 +1,259 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2004,Louisiana,LA,7382,LA0570100,Abbeville,11749,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7361,LA0520600,Abita Springs,2121,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7136,LA0010000,Acadia,30211,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Louisiana,LA,7402,LA0610300,Addis,2461,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7309,LA0400100,Alexandria,45846,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7142,LA0020000,Allen,13345,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7367,LA0530400,Amite,4082,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7162,LA0070100,Arcadia,2911,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2004,Louisiana,LA,7338,LA0490300,Arnaudville,1399,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7146,LA0030000,Ascension,75116,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Louisiana,LA,7150,LA0040000,Assumption,22668,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7152,LA0050000,Avoyelles,33089,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7203,LA0170100,Baker,13611,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Louisiana,LA,7354,LA0510500,Baldwin,2694,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7315,LA0401000,Ball,3698,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7217,LA0200100,Basile,2387,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Louisiana,LA,7223,LA0210400,Baskin,185,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7284,LA0340100,Bastrop,12818,5,"Cities from 10,000 thru 24,999",0,7,0,0,0,0,0
+2004,Louisiana,LA,7204,LA0170200,Baton Rouge,226063,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7158,LA0060000,Beauregard,24221,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7379,LA0560200,Bernice,1785,7,"Cities under 2,500",0,3,0,0,0,0,0
+2004,Louisiana,LA,7350,LA0510100,Berwick,4369,6,"Cities from 2,500 thru 9,999",0,2,0,0,0,0,0
+2004,Louisiana,LA,7164,LA0070800,Bienville,256,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7161,LA0070000,Bienville,15386,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7175,LA0090400,Blanchard,2105,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7392,LA0590100,Bogalusa,13005,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7285,LA0340300,Bonita,329,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Louisiana,LA,7165,LA0080000,Bossier,40442,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Louisiana,LA,7166,LA0080100,Bossier City,58362,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Louisiana,LA,7346,LA0500100,Breaux Bridge,7537,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7254,LA0280100,Broussard,6341,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7401,LA0610200,Brusly,2009,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7153,LA0050100,Bunkie,4555,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2004,Louisiana,LA,7171,LA0090000,Caddo,46988,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Louisiana,LA,7177,LA0100000,Calcasieu,79841,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7186,LA0110000,Caldwell,10645,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7187,LA0120000,Cameron,9750,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7188,LA0130000,Catahoula,10227,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7312,LA0400500,Cheneyville,896,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7139,LA0010300,Church Point,4724,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7192,LA0140000,Claiborne,10413,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7198,LA0150300,Clayton,824,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7212,LA0190100,Clinton,1966,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7286,LA0340400,Collinston,323,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Louisiana,LA,7195,LA0150000,Concordia,11816,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7156,LA0050400,Cottonport,2284,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7318,LA0410100,Coushatta,2238,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7357,LA0520100,Covington,8807,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7137,LA0010100,Crowley,14000,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7397,LA0600400,Cullen,1259,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7384,LA0570300,Delcambre,2164,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7293,LA0360200,Delgado Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7320,LA0420100,Delhi,3125,6,"Cities from 2,500 thru 9,999",0,4,0,0,0,0,0
+2004,Louisiana,LA,7276,LA0320100,Denham Springs,9244,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7208,LA0171100,Department of Public Safety State Capitol Detail,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7178,LA0100100,De Quincy,3324,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7159,LA0060100,De Ridder,9800,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7199,LA0160000,De Soto,18727,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7398,LA0600800,Dixie Inn,345,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7147,LA0030100,Donaldsonville,7585,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2004,Louisiana,LA,7270,LA0310100,Dubach,815,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7257,LA0280400,Duson,1664,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7202,LA0170000,East Baton Rouge,162714,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2004,Louisiana,LA,7209,LA0180000,East Carroll,4264,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Louisiana,LA,7211,LA0190000,East Feliciana,14978,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7249,LA0270100,Elton,1249,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7385,LA0570400,Erath,2190,7,"Cities under 2,500",0,6,0,0,0,0,0
+2004,Louisiana,LA,7336,LA0490100,Eunice,11636,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7216,LA0200000,Evangeline,21128,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7378,LA0560100,Farmerville,3792,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7196,LA0150100,Ferriday,3631,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7362,LA0520700,Folsom,606,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7351,LA0510200,Franklin,8094,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7220,LA0210000,Franklin,20950,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7393,LA0590200,Franklinton,3657,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7280,LA0320700,French Settlement,1013,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7163,LA0070200,Gibsland,1096,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7313,LA0400600,Glenmora,1558,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7262,LA0290100,Golden Meadow,2160,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7148,LA0030200,Gonzales,8375,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7272,LA0310300,Grambling,4390,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7273,LA0310600,Grambling State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7333,LA0470200,Gramercy,3133,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7247,LA0260500,Grand Isle,1570,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7224,LA0220000,Grant,18599,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7243,LA0260100,Gretna,17254,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7236,LA0240400,Grosse Tete,643,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7386,LA0570500,Gueydan,1601,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7364,LA0530100,Hammond,17792,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7244,LA0260200,Harahan,9839,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7191,LA0130300,Harrisonburg,737,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7167,LA0080400,Haughton,2814,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7193,LA0140100,Haynesville,2572,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7194,LA0140200,Homer,3620,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7376,LA0550100,Houma,32163,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7228,LA0230000,Iberia,35844,8B,"Non-MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7232,LA0240000,Iberville,17198,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7368,LA0530500,Independence,1718,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7140,LA0010400,Iota,1394,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7184,LA0100700,Iowa,2639,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7213,LA0190200,Jackson,3913,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7239,LA0250000,Jackson,11501,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7229,LA0230200,Jeanerette,5981,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7242,LA0260000,Jefferson,346245,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2004,Louisiana,LA,7248,LA0270000,Jefferson Davis,12984,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7267,LA0300100,Jena,2938,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7250,LA0270200,Jennings,10758,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7240,LA0250100,Jonesboro,3824,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7189,LA0130100,Jonesville,2379,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7383,LA0570200,Kaplan,5126,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7245,LA0260300,Kenner,70505,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7365,LA0530200,Kentwood,2183,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Louisiana,LA,7143,LA0020100,Kinder,2138,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7342,LA0490800,Krotz Springs,1248,7,"Cities under 2,500",0,6,0,0,0,0,0
+2004,Louisiana,LA,7256,LA0280300,Lafayette,112150,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7253,LA0280000,Lafayette,62619,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7261,LA0290000,Lafourche,72368,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7251,LA0270300,Lake Arthur,2929,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7179,LA0100200,Lake Charles,71041,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7210,LA0180100,Lake Providence,4772,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7266,LA0300000,La Salle,9921,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7311,LA0400400,Lecompte,1346,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7388,LA0580100,Leesville,6460,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7269,LA0310000,Lincoln,16668,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7275,LA0320000,Livingston,91731,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7263,LA0290300,Lockport,2622,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7231,LA0230400,Loreauville,959,7,"Cities under 2,500",0,0,0,0,1,0,0
+2004,Louisiana,LA,7206,LA0170400,Louisiana State University: Baton Rouge,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7141,LA0010800,Louisiana State University: Eunice,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7344,LA0491300,Louisiana State University: Eunice,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7296,LA0361700,"Louisiana State University: Health Sciences Center, New Orleans",0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7168,LA0080500,"Louisiana State University: Health Sciences Center, Shreveport",0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7169,LA0080600,Louisiana State University: Shreveport,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7274,LA0310700,Louisiana Tech University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7332,LA0470100,Lutcher,3648,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2004,Louisiana,LA,7281,LA0330000,Madison,4383,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Louisiana,LA,7218,LA0200200,Mamou,3453,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Louisiana,LA,7359,LA0520300,Mandeville,11526,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7322,LA0420300,Mangham,574,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7200,LA0160100,Mansfield,5510,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7324,LA0430100,Many,2820,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7183,LA0100600,Maplewood,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7233,LA0240100,Maringouin,1248,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7154,LA0050200,Marksville,5720,6,"Cities from 2,500 thru 9,999",0,2,0,0,0,0,0
+2004,Louisiana,LA,7316,LA0401300,McNary,200,7,"Cities under 2,500",0,4,0,0,0,0,0
+2004,Louisiana,LA,7185,LA0100800,McNeese State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7160,LA0060200,Merryville,1136,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7395,LA0600100,Minden,13371,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7299,LA0370100,Monroe,52388,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7157,LA0050600,Moreauville,935,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7283,LA0340000,Morehouse,17986,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Louisiana,LA,7352,LA0510300,Morgan City,12335,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7151,LA0040100,Napoleonville,702,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7288,LA0350000,Natchitoches,20980,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7289,LA0350100,Natchitoches,18191,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7372,LA0540100,Newellton,1395,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7230,LA0230300,New Iberia,32642,4,"Cities from 25,000 thru 49,999",0,1,0,0,0,0,0
+2004,Louisiana,LA,7389,LA0580200,New Llano,2283,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7413,LANPD0000,New Orleans,471057,1C,"Cities from 250,000 thru 499,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7307,LA0390100,New Roads,4897,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7265,LA0290600,Nicholls State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7291,LA0351000,Northwestern State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7215,LA0190500,Norwood,329,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7144,LA0020200,Oakdale,8027,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7404,LA0620100,Oak Grove,2135,7,"Cities under 2,500",0,0,0,0,1,1,0
+2004,Louisiana,LA,7287,LA0340500,Oak Ridge,140,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Louisiana,LA,7145,LA0020300,Oberlin,1867,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7268,LA0300200,Olla,1381,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Louisiana,LA,7337,LA0490200,Opelousas,22851,5,"Cities from 10,000 thru 24,999",0,2,0,0,0,0,0
+2004,Louisiana,LA,7292,LA0360000,Orleans,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2004,Louisiana,LA,7298,LA0370000,Ouachita,79704,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7348,LA0500300,Parks,538,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7353,LA0510400,Patterson,5178,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7360,LA0520500,Pearl River,1940,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7310,LA0400200,Pineville,13918,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7234,LA0240200,Plaquemine,6924,6,"Cities from 2,500 thru 9,999",0,4,0,0,0,0,0
+2004,Louisiana,LA,7305,LA0380000,Plaquemines,28146,9B,"MSA counties from 25,000 thru 99,999",1,12,0,2,0,1,0
+2004,Louisiana,LA,7306,LA0390000,Pointe Coupee,17765,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7227,LA0220500,Pollock,370,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7366,LA0530300,Ponchatoula,5474,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7400,LA0610100,Port Allen,5172,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7341,LA0490600,Port Barre,2300,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7279,LA0320600,Port Vincent,499,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7308,LA0400000,Rapides,59362,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7138,LA0010200,Rayne,8574,6,"Cities from 2,500 thru 9,999",0,2,0,0,0,0,0
+2004,Louisiana,LA,7321,LA0420200,Rayville,4134,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7317,LA0410000,Red River,7327,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7319,LA0420000,Richland,13453,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7303,LA0370500,Richwood,2114,7,"Cities under 2,500",0,2,0,0,0,0,0
+2004,Louisiana,LA,7237,LA0240500,Rosedale,742,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7271,LA0310200,Ruston,20723,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7323,LA0430000,Sabine,20687,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7259,LA0280600,Scott,7919,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7172,LA0090100,Shreveport,199221,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7190,LA0130200,Sicily Island,434,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7155,LA0050300,Simmesport,2228,7,"Cities under 2,500",0,4,0,0,0,0,0
+2004,Louisiana,LA,7358,LA0520200,Slidell,27063,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7149,LA0030300,Sorrento,1298,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7370,LA0530900,Southeastern Louisiana University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Louisiana,LA,7207,LA0170600,Southern University and A&M College: Baton Rouge,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7295,LA0361200,Southern University and A&M College: New Orleans,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7170,LA0080700,Southern University and A&M College: Shreveport,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7396,LA0600200,Springhill,5269,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7412,LALSP0000,State Police,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2004,Louisiana,LA,7328,LA0440000,St. Bernard,66399,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7329,LA0450000,St. Charles,49566,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7301,LA0370300,Sterlington,1257,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7407,LA0630100,St. Francisville,1679,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7238,LA0240600,St. Gabriel,5551,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7330,LA0460000,St. Helena,10352,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7331,LA0470000,St. James,18076,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7334,LA0480000,St. John the Baptist,45010,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7374,LA0540300,St. Joseph,1227,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7335,LA0490000,St. Landry,46891,8B,"Non-MSA counties from 25,000 thru 99,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7345,LA0500000,St. Martin,34904,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7347,LA0500200,St. Martinville,7023,6,"Cities from 2,500 thru 9,999",0,9,0,0,0,0,0
+2004,Louisiana,LA,7349,LA0510000,St. Mary,19913,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7201,LA0160800,Stonewall,1865,7,"Cities under 2,500",0,2,0,0,0,0,0
+2004,Louisiana,LA,7356,LA0520000,St. Tammany,156578,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2004,Louisiana,LA,7180,LA0100300,Sulphur,19987,5,"Cities from 10,000 thru 24,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7339,LA0490400,Sunset,2405,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7282,LA0330100,Tallulah,8753,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7363,LA0530000,Tangipahoa,72163,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7371,LA0540000,Tensas,2874,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2004,Louisiana,LA,7304,LA0370900,Tensas Basin Levee District,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7375,LA0550000,Terrebonne,74403,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7264,LA0290500,Thibodaux,14526,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7369,LA0530800,Tickfaw,627,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7297,LA0362000,Tulane University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7377,LA0560000,Union,17488,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7260,LA0280700,University of Louisiana: Lafayette,0,7,"Cities under 2,500",0,5,0,0,0,0,0
+2004,Louisiana,LA,7302,LA0370400,University of Louisiana: Monroe,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7294,LA0360300,University of New Orleans,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2004,Louisiana,LA,7381,LA0570000,Vermilion,35391,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7387,LA0580000,Vernon,41783,8B,"Non-MSA counties from 25,000 thru 99,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7197,LA0150200,Vidalia,4368,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7219,LA0200300,Ville Platte,8333,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7181,LA0100400,Vinton,3229,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7173,LA0090200,Vivian,3932,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7340,LA0490500,Washington,1069,7,"Cities under 2,500",0,5,0,0,0,0,0
+2004,Louisiana,LA,7391,LA0590000,Washington,27475,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7373,LA0540200,Waterproof,778,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7394,LA0600000,Webster,21339,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7252,LA0270400,Welsh,3327,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7399,LA0610000,West Baton Rouge,12169,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7403,LA0620000,West Carroll,12289,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7406,LA0630000,West Feliciana,13622,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7182,LA0100500,Westlake,4623,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2004,Louisiana,LA,7300,LA0370200,West Monroe,13074,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7246,LA0260400,Westwego,10572,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7235,LA0240300,White Castle,1895,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7408,LA0640000,Winn,10960,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7409,LA0640100,Winnfield,5508,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7221,LA0210100,Winnsboro,5171,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2004,Louisiana,LA,7314,LA0400700,Woodworth,1121,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Louisiana,LA,7258,LA0280500,Youngsville,4737,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2004,Louisiana,LA,7205,LA0170300,Zachary,11842,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2004,Louisiana,LA,7325,LA0430200,Zwolle,1756,7,"Cities under 2,500",0,0,0,0,1,1,0

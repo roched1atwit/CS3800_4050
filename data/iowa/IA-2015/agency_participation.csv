@@ -1,0 +1,264 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2015,Iowa,IA,4274,IA0010000,Adair,7399,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4275,IA0020000,Adams,3841,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4331,IA0250200,Adel,4291,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4440,IA0680100,Albia,3784,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4402,IA0550100,Algona,5461,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4276,IA0030000,Allamakee,10204,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,11,0,0,0
+2015,Iowa,IA,4467,IA0770800,Altoona,16502,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4491,IA0850100,Ames,64383,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4398,IA0530100,Anamosa,5395,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4460,IA0770100,Ankeny,55984,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4278,IA0040000,Appanoose,7207,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4305,IA0150100,Atlantic,6780,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4281,IA0050100,Audubon,2004,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4280,IA0050000,Audubon,3717,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4499,IA0870100,Bedford,1396,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4283,IA0060100,Belle Plaine,2479,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Iowa,IA,4526,IA0990200,Belmond,2310,7,"Cities under 2,500",0,6,0,6,0,0,0
+2015,Iowa,IA,4282,IA0060000,Benton,17985,9C,"MSA counties from 10,000 thru 24,999",0,7,0,7,0,0,0
+2015,Iowa,IA,4479,IA0820100,Bettendorf,35570,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4285,IA0070000,Black Hawk,18997,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4334,IA0260100,Bloomfield,2627,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,22357,IA0820500,Blue Grass,1667,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4291,IA0080100,Boone,12631,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4290,IA0080000,Boone,11823,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4294,IA0090000,Bremer,14681,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4296,IA0100000,Buchanan,15150,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4298,IA0110000,Buena Vista,9701,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,23138,IA0820400,Buffalo,1304,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4341,IA0290100,Burlington,25530,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4300,IA0120000,Butler,15040,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4301,IA0130000,Calhoun,9799,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4325,IA0230200,Camanche,4336,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4529,IADPS1000,Capitol Police Division Des Moines,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Iowa,IA,4509,IA0910300,Carlisle,4155,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4303,IA0140100,Carroll,9981,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4302,IA0140000,Carroll,10526,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4472,IA0780400,Carter Lake,3759,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4304,IA0150000,Cass,6558,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4306,IA0160000,Cedar,12936,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4286,IA0070100,Cedar Falls,41252,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4408,IA0570100,Cedar Rapids,129863,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4279,IA0040100,Centerville,5410,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4309,IA0170000,Cerro Gordo,8095,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4418,IA0590100,Chariton,4205,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4355,IA0340100,Charles City,7477,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4313,IA0180100,Cherokee,5104,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4312,IA0180000,Cherokee,6665,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4315,IA0190000,Chickasaw,8692,8D,"Non-MSA counties under 10,000",0,10,0,10,0,0,0
+2015,Iowa,IA,4452,IA0730100,Clarinda,5309,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4527,IA0990300,Clarion,2757,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4317,IA0200000,Clarke,4252,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4319,IA0210000,Clay,5292,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4321,IA0220000,Clayton,17603,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4310,IA0170100,Clear Lake,7661,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4323,IA0230000,Clinton,12150,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4324,IA0230100,Clinton,26092,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4461,IA0770200,Clive,17470,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4415,IA0571000,Coggon,656,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4388,IA0500200,Colfax,2054,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4393,IA0520100,Coralville,20718,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4471,IA0780100,Council Bluffs,62210,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4327,IA0240000,Crawford,8854,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4377,IA0450100,Cresco,3845,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4502,IA0880100,Creston,7844,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4329,IA0250000,Dallas,20120,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4480,IA0820200,Davenport,103082,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4333,IA0260000,Davis,6157,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2015,Iowa,IA,4335,IA0270000,Decatur,6335,8D,"Non-MSA counties under 10,000",0,4,0,4,0,0,0
+2015,Iowa,IA,4519,IA0960100,Decorah,7915,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4338,IA0280000,Delaware,12027,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4328,IA0240100,Denison,8409,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4340,IA0290000,Des Moines,11687,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4462,IA0770300,Des Moines,210403,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4326,IA0230300,De Witt,5236,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4343,IA0300000,Dickinson,12048,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,11,0,0,0
+2015,Iowa,IA,4345,IA0310000,Dubuque,34457,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4346,IA0310100,Dubuque,58650,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4347,IA0310300,Dyersville,4169,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4525,IA0990100,Eagle Grove,3423,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2015,Iowa,IA,4370,IA0420300,Eldora,2690,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2015,Iowa,IA,4481,IA0820600,Eldridge,6288,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4348,IA0320000,Emmet,3857,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4455,IA0740100,Emmetsburg,3764,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4349,IA0320100,Estherville,6067,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4287,IA0070200,Evansdale,4804,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4391,IA0510100,Fairfield,9827,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4353,IA0330300,Fayette,1504,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4350,IA0330000,Fayette,11681,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4354,IA0340000,Floyd,8549,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4516,IA0950100,Forest City,3945,6,"Cities from 2,500 thru 9,999",0,9,0,9,0,0,0
+2015,Iowa,IA,4514,IA0940100,Fort Dodge,24468,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4404,IA0560100,Fort Madison,10694,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4356,IA0350000,Franklin,6067,8D,"Non-MSA counties under 10,000",0,8,0,8,0,0,0
+2015,Iowa,IA,4358,IA0360000,Fremont,6930,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4367,IA0410100,Garner,3089,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4433,IA0650100,Glenwood,5234,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4359,IA0370000,Greene,4913,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4474,IA0790100,Grinnell,9034,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4361,IA0380000,Grundy,9659,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4362,IA0380100,Grundy Center,2705,6,"Cities from 2,500 thru 9,999",0,6,0,6,0,0,0
+2015,Iowa,IA,4363,IA0390000,Guthrie,10674,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4322,IA0220100,Guttenberg,1848,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4364,IA0400000,Hamilton,7275,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4357,IA0350100,Hampton,4314,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4366,IA0410000,Hancock,7553,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2015,Iowa,IA,4368,IA0420000,Hardin,9419,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4484,IA0830100,Harlan,4991,6,"Cities from 2,500 thru 9,999",0,8,0,8,0,0,0
+2015,Iowa,IA,4371,IA0430000,Harrison,11528,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4487,IA0840200,Hawarden,2543,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4373,IA0440000,Henry,11609,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4410,IA0570300,Hiawatha,7192,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4376,IA0450000,Howard,5582,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4378,IA0460000,Humboldt,4994,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4379,IA0460100,Humboldt,4611,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4380,IA0470000,Ida,7039,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4297,IA0100100,Independence,5922,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4507,IA0910100,Indianola,15431,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4381,IA0480000,Iowa,10684,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4394,IA0520200,Iowa City,74834,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4369,IA0420100,Iowa Falls,5157,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4528,IADPS0000,Iowa Highway Patrol,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Iowa,IA,4494,IA0850400,Iowa State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4384,IA0490000,Jackson,13425,8C,"Non-MSA counties from 10,000 thru 24,999",0,11,0,11,0,0,0
+2015,Iowa,IA,4386,IA0500000,Jasper,20082,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4360,IA0370100,Jefferson,4260,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4390,IA0510000,Jefferson,7637,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4392,IA0520000,Johnson,33719,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4466,IA0770700,Johnston,21163,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4397,IA0530000,Jones,11200,9C,"MSA counties from 10,000 thru 24,999",0,6,0,6,0,0,0
+2015,Iowa,IA,4400,IA0540000,Keokuk,8163,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4405,IA0560200,Keokuk,10670,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4426,IA0630100,Knoxville,7231,6,"Cities from 2,500 thru 9,999",0,1,0,1,0,0,0
+2015,Iowa,IA,4401,IA0550000,Kossuth,9696,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4517,IA0950200,Lake Mills,2047,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4337,IA0270200,Lamoni,2427,7,"Cities under 2,500",0,0,0,0,1,0,0
+2015,Iowa,IA,4482,IA0820700,Le Claire,3974,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Iowa,IA,4403,IA0560000,Lee,13799,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4406,IA0560A00,Lee County-South,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Iowa,IA,4457,IA0750100,Le Mars,9750,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4500,IA0870200,Lenox,1361,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4336,IA0270100,Leon,1895,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4407,IA0570000,Linn,38386,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4411,IA0570400,Lisbon,2192,7,"Cities under 2,500",0,10,0,10,0,0,0
+2015,Iowa,IA,23273,IA0821100,Long Grove,847,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4416,IA0580000,Louisa,11115,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4417,IA0590000,Lucas,4455,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4419,IA0600000,Lyon,11721,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4421,IA0610000,Madison,10463,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4293,IA0080300,Madrid,2556,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Iowa,IA,4423,IA0620000,Mahaska,10827,8C,"Non-MSA counties from 10,000 thru 24,999",0,10,0,10,0,0,0
+2015,Iowa,IA,4339,IA0280100,Manchester,5063,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4385,IA0490100,Maquoketa,5983,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4314,IA0180200,Marcus,1090,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4382,IA0480100,Marengo,2511,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4425,IA0630000,Marion,14159,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4409,IA0570200,Marion,37272,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4429,IA0640000,Marshall,11697,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4430,IA0640100,Marshalltown,27766,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4311,IA0170200,Mason City,27312,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Iowa,IA,23145,IA0821200,McCausland,317,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Iowa,IA,4432,IA0650000,Mills,9545,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4372,IA0430100,Missouri Valley,2658,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4434,IA0660000,Mitchell,5968,8D,"Non-MSA counties under 10,000",0,10,0,10,0,0,0
+2015,Iowa,IA,4437,IA0670000,Monona,6076,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2015,Iowa,IA,4439,IA0680000,Monroe,4225,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4441,IA0690000,Montgomery,4822,8D,"Non-MSA counties under 10,000",0,3,0,3,0,0,0
+2015,Iowa,IA,4399,IA0530200,Monticello,3813,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4374,IA0440100,Mount Pleasant,8644,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4412,IA0570600,Mount Vernon,4526,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4444,IA0700100,Muscatine,23917,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4443,IA0700000,Muscatine,12493,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4492,IA0850200,Nevada,6774,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2015,Iowa,IA,4316,IA0190100,New Hampton,3542,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4375,IA0440200,New London,1893,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4387,IA0500100,Newton,15128,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4396,IA0520500,North Liberty,15891,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4508,IA0910200,Norwalk,10077,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4447,IA0710000,O'Brien,9068,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4351,IA0330100,Oelwein,6126,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4292,IA0080200,Ogden,2033,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4438,IA0670100,Onawa,2865,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4486,IA0840100,Orange City,6173,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4435,IA0660100,Osage,3660,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4318,IA0200100,Osceola,4949,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4449,IA0720000,Osceola,6164,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4424,IA0620100,Oskaloosa,11548,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4505,IA0900100,Ottumwa,24594,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4451,IA0730000,Page,5084,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4413,IA0570800,Palo,1065,7,"Cities under 2,500",0,0,0,0,1,1,1
+2015,Iowa,IA,4454,IA0740000,Palo Alto,5267,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4427,IA0630200,Pella,10337,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4330,IA0250100,Perry,8259,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4468,IA0771400,Pleasant Hill,9246,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4428,IA0630300,Pleasantville,1686,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Iowa,IA,4456,IA0750000,Plymouth,15105,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4458,IA0760000,Pocahontas,7106,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4459,IA0770000,Polk,47278,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4469,IA0771800,Polk City,4384,6,"Cities from 2,500 thru 9,999",0,8,0,8,0,0,0
+2015,Iowa,IA,4470,IA0780000,Pottawattamie,27146,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4473,IA0790000,Poweshiek,9586,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4389,IA0500600,Prairie City,1699,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,23093,IA0820800,Princeton,938,7,"Cities under 2,500",0,4,0,4,0,0,0
+2015,Iowa,IA,4442,IA0690100,Red Oak,5538,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4475,IA0800000,Ringgold,5035,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4414,IA0570900,Robins,3450,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Iowa,IA,4420,IA0600100,Rock Rapids,2589,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Iowa,IA,4488,IA0840400,Rock Valley,3695,6,"Cities from 2,500 thru 9,999",0,9,0,9,0,0,0
+2015,Iowa,IA,4476,IA0810000,Sac,7841,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4477,IA0810100,Sac City,2124,7,"Cities under 2,500",0,6,0,6,0,0,0
+2015,Iowa,IA,4478,IA0820000,Scott,18182,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4522,IA0970200,Sergeant Bluff,4464,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4483,IA0830000,Shelby,6909,8D,"Non-MSA counties under 10,000",0,10,0,10,0,0,0
+2015,Iowa,IA,4448,IA0710300,Sheldon,5084,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4453,IA0730200,Shenandoah,5004,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4450,IA0720100,Sibley,2667,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Iowa,IA,23246,IA0540100,Sigourney,2007,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Iowa,IA,4485,IA0840000,Sioux,14888,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4489,IA0840500,Sioux Center,7475,6,"Cities from 2,500 thru 9,999",0,2,0,2,0,0,0
+2015,Iowa,IA,4521,IA0970100,Sioux City,82445,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4320,IA0210100,Spencer,11205,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4344,IA0300100,Spirit Lake,4966,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4436,IA0660200,St. Ansgar,1155,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Iowa,IA,4431,IA0640200,State Center,1471,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4299,IA0110100,Storm Lake,10951,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4490,IA0850000,Story,20691,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4493,IA0850300,Story City,3431,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4497,IA0860200,Tama,2820,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2015,Iowa,IA,4495,IA0860000,Tama,12344,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4498,IA0870000,Taylor,6105,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4307,IA0160100,Tipton,3197,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4496,IA0860100,Toledo,2229,7,"Cities under 2,500",0,11,0,11,0,0,0
+2015,Iowa,IA,4501,IA0880000,Union,4682,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4395,IA0520400,University of Iowa,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4289,IA0070700,University of Northern Iowa,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Iowa,IA,4463,IA0770400,Urbandale,44087,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4503,IA0890000,Van Buren,7449,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2015,Iowa,IA,4284,IA0060200,Vinton,5136,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,23106,IA0820900,Walcott,1633,7,"Cities under 2,500",0,8,0,8,0,0,0
+2015,Iowa,IA,4504,IA0900000,Wapello,10528,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4506,IA0910000,Warren,18569,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4511,IA0920100,Washington,7371,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4510,IA0920000,Washington,14806,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4288,IA0070300,Waterloo,68355,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4332,IA0250400,Waukee,18778,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4277,IA0030100,Waukon,3766,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4295,IA0090200,Waverly,10164,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4512,IA0930000,Wayne,6397,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4513,IA0940000,Webster,12283,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4365,IA0400100,Webster City,7725,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4308,IA0160300,West Branch,2355,7,"Cities under 2,500",0,6,0,6,0,0,0
+2015,Iowa,IA,4342,IA0290200,West Burlington,3062,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4464,IA0770500,West Des Moines,65006,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4445,IA0700200,West Liberty,3728,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4352,IA0330200,West Union,2420,7,"Cities under 2,500",0,0,0,0,0,0,0
+2015,Iowa,IA,4383,IA0480300,Williamsburg,3203,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4446,IA0700400,Wilton,2796,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4465,IA0770600,Windsor Heights,4877,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4515,IA0950000,Winnebago,6877,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4518,IA0960000,Winneshiek,12790,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4422,IA0610100,Winterset,5126,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4520,IA0970000,Woodbury,15407,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Iowa,IA,4523,IA0980000,Worth,7640,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2015,Iowa,IA,4524,IA0990000,Wright,4272,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1

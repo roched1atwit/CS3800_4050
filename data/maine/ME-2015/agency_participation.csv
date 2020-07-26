@@ -1,0 +1,224 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2015,Maine,ME,8082,ME0010000,Androscoggin,28102,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Maine,ME,8092,ME0020000,Aroostook,27517,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Maine,ME,8100,ME0020800,Ashland,1241,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8083,ME0010100,Auburn,22880,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Maine,ME,8151,ME0060100,Augusta,18608,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Maine,ME,8255,ME0150900,Baileyville,1455,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8194,ME0100100,Bangor,32455,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2015,Maine,ME,8138,ME0050100,Bar Harbor,5328,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8224,ME0120100,Bath,8284,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8241,ME0140100,Belfast,6680,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8269,ME0160600,Berwick,7552,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8187,ME0090600,Bethel,2640,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2015,Maine,ME,8264,ME0160100,Biddeford,21355,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8174,ME0080100,Boothbay Harbor,2173,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8195,ME0100200,Brewer,9279,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8116,ME0030900,Bridgton,5378,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8218,ME0110400,Brownville,1197,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8108,ME0030100,Brunswick,20490,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8140,ME0050300,Bucksport,4944,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,25429,ME0061500,Bureau of Capitol Police,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8090,ME001LE00,Bureau of Liquor Enforcement: Androscoggin County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8105,ME002LE00,Bureau of Liquor Enforcement: Aroostook County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8125,ME003LE00,Bureau of Liquor Enforcement: Cumberland County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8135,ME004LE00,Bureau of Liquor Enforcement: Franklin County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Maine,ME,8148,ME005LE00,Bureau of Liquor Enforcement: Hancock County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8162,ME006LE00,Bureau of Liquor Enforcement: Kennebec County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Maine,ME,8171,ME007LE00,Bureau of Liquor Enforcement: Knox County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8179,ME008LE00,Bureau of Liquor Enforcement: Lincoln County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8191,ME009LE00,Bureau of Liquor Enforcement: Oxford County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8213,ME010LE00,Bureau of Liquor Enforcement: Penobscot County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8221,ME011LE00,Bureau of Liquor Enforcement: Piscataquis County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8229,ME012LE00,Bureau of Liquor Enforcement: Sagadahoc County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8238,ME013LE00,Bureau of Liquor Enforcement: Somerset County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2015,Maine,ME,8246,ME014LE00,Bureau of Liquor Enforcement: Waldo County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8261,ME015LE00,Bureau of Liquor Enforcement: Washington County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8282,ME016LE00,Bureau of Liquor Enforcement: York County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2015,Maine,ME,8280,ME0161800,Buxton,8169,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8249,ME0150100,Calais,2976,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8165,ME0070100,Camden,4836,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8109,ME0030200,Cape Elizabeth,9230,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8093,ME0020100,Caribou,7799,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8133,ME0040700,Carrabassett Valley,776,7,"Cities under 2,500",1,12,1,12,0,1,1
+2015,Maine,ME,8160,ME0062100,Clinton,3349,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8117,ME0031000,Cumberland,7641,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8107,ME0030000,Cumberland,52660,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Maine,ME,8175,ME0080200,Damariscotta,2214,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8196,ME0100300,Dexter,3812,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8183,ME0090200,Dixfield,2472,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8216,ME0110100,Dover-Foxcroft,4018,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8089,ME001BI00,Drug Enforcement Agency: Androscoggin County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8104,ME002BI00,Drug Enforcement Agency: Aroostook County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8124,ME003BI00,Drug Enforcement Agency: Cumberland County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8134,ME004BI00,Drug Enforcement Agency: Franklin County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8147,ME005BI00,Drug Enforcement Agency: Hancock County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8161,ME006BI00,Drug Enforcement Agency: Kennebec County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8170,ME007BI00,Drug Enforcement Agency: Knox County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8178,ME008BI00,Drug Enforcement Agency: Lincoln County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8190,ME009BI00,Drug Enforcement Agency: Oxford County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8212,ME010BI00,Drug Enforcement Agency: Penobscot County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8220,ME011BI00,Drug Enforcement Agency: Piscataquis County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8228,ME012BI00,Drug Enforcement Agency: Sagadahoc County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8237,ME013BI00,Drug Enforcement Agency: Somerset County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8245,ME014BI00,Drug Enforcement Agency: Waldo County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8260,ME015BI00,Drug Enforcement Agency: Washington County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8281,ME016BI00,Drug Enforcement Agency: York County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8203,ME0101000,East Millinocket,3002,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8250,ME0150200,Eastport,1258,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8205,ME0101200,Eddington,2231,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8270,ME0160700,Eliot,6322,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8139,ME0050200,Ellsworth,7870,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8232,ME0130100,Fairfield,6527,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8110,ME0030300,Falmouth,11874,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8128,ME0040100,Farmington,7579,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8094,ME0020200,Fort Fairfield,3381,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8095,ME0020300,Fort Kent,3992,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8127,ME0040000,Franklin,11903,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Maine,ME,8118,ME0031100,Freeport,8314,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8188,ME0090700,Fryeburg,3387,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8152,ME0060200,Gardiner,5646,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8111,ME0030400,Gorham,17190,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8144,ME0051300,Gouldsboro,1741,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8219,ME0110500,Greenville,1596,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8153,ME0060300,Hallowell,2318,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8200,ME0100700,Hampden,7427,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8137,ME0050000,Hancock,30475,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Maine,ME,8211,ME0102700,Holden,3094,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8096,ME0020400,Houlton,5903,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8208,ME0101500,Howland,1210,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8244,ME0140500,Islesboro,568,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8129,ME0040200,Jay,4770,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8254,ME0150700,Jonesport,1319,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8150,ME0060000,Kennebec,50683,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Maine,ME,8271,ME0160800,Kennebunk,11185,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8272,ME0160900,Kennebunkport,3571,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8265,ME0160200,Kittery,9689,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8164,ME0070000,Knox,21451,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8273,ME0161000,Lebanon,6140,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2015,Maine,ME,8084,ME0010200,Lewiston,36232,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Maine,ME,8101,ME0021000,Limestone,2224,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8197,ME0100400,Lincoln,5058,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8173,ME0080000,Lincoln,21027,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8243,ME0140400,Lincolnville,2213,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8086,ME0010500,Lisbon,8854,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8159,ME0061600,Litchfield,3599,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Maine,ME,8085,ME0010300,Livermore Falls,3134,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8253,ME0150600,Lubec,1291,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8251,ME0150300,Machias,2112,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8097,ME0020500,Madawaska,3860,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8234,ME0130300,Madison,4670,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8201,ME0100800,Mattawamkeag,668,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8087,ME0010600,Mechanic Falls,3003,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8207,ME0101400,Medway,1322,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8184,ME0090300,Mexico,2594,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8259,ME0151700,Milbridge,1294,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8202,ME0100900,Millinocket,4378,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8217,ME0110200,Milo,2258,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8156,ME0060600,Monmouth,4062,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8141,ME0050400,Mount Desert,2073,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8119,ME0031300,New Gloucester,5670,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2015,Maine,ME,8204,ME0101100,Newport,3242,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8236,ME0130800,Norridgewock,3303,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2015,Maine,ME,8274,ME0161100,North Berwick,4668,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8185,ME0090400,Norway,4925,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8155,ME0060500,Oakland,6212,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8275,ME0161200,Ogunquit,917,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8266,ME0160300,Old Orchard Beach,8790,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8198,ME0100500,Old Town,7658,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8199,ME0100600,Orono,10753,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8181,ME0090000,Oxford,28859,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Maine,ME,8189,ME0091000,Oxford,4040,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8186,ME0090500,Paris,5097,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8257,ME0151200,Passamaquoddy Indian Township,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8284,MEDI00300,Passamaquoddy Indian Township,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8256,ME0151100,Passamaquoddy Pleasant Point Tribal,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8193,ME0100000,Penobscot,61104,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Maine,ME,8210,ME0102000,Penobscot Nation,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8227,ME0120500,Phippsburg,2225,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8215,ME0110000,Piscataquis,7669,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8235,ME0130400,Pittsfield,4063,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8112,ME0030500,Portland,66816,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2015,Maine,ME,8098,ME0020600,Presque Isle,9232,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8252,ME0150400,Princeton,787,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8131,ME0040400,Rangeley,1160,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8226,ME0120300,Richmond,3377,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8166,ME0070200,Rockland,7202,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8168,ME0070400,Rockport,3368,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8182,ME0090100,Rumford,5664,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8088,ME0010700,Sabattus,5059,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8267,ME0160400,Saco,19146,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Maine,ME,8223,ME0120000,Sagadahoc,12372,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8268,ME0160500,Sanford,20936,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8114,ME0030700,Scarborough,19682,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Maine,ME,8242,ME0140200,Searsport,2629,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8233,ME0130200,Skowhegan,8424,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8231,ME0130000,Somerset,27160,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2015,Maine,ME,8276,ME0161300,South Berwick,7340,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8113,ME0030600,South Portland,25540,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2015,Maine,ME,8143,ME0050800,Southwest Harbor,1773,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8123,ME0031900,Standish,10060,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2015,Maine,ME,8285,MEMSP0000,State Police,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2015,Maine,ME,8091,ME001SP00,State Police: Androscoggin County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8106,ME002SP00,State Police: Aroostook County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,23190,ME0019900,State Police Computer Crimes Task Force: Androscoggin County,0,9E,MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23110,ME0029900,State Police Computer Crimes Task Force: Aroostook County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23180,ME0039900,State Police Computer Crimes Task Force: Cumberland County,0,9E,MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23149,ME0049900,State Police Computer Crimes Task Force: Franklin County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23130,ME0059900,State Police Computer Crimes Task Force: Hancock County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23162,ME0069900,State Police Computer Crimes Task Force: Kennebec County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23157,ME0079900,State Police Computer Crimes Task Force: Knox County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23091,ME0089900,State Police Computer Crimes Task Force: Lincoln County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23083,ME0099900,State Police Computer Crimes Task Force: Oxford County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23075,ME0109900,State Police Computer Crimes Task Force: Penobscot County,0,9E,MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23210,ME0119900,State Police Computer Crimes Task Force: Piscataquis County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23213,ME0129900,State Police Computer Crimes Task Force: Sagadahoc County,0,9E,MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23182,ME0139900,State Police Computer Crimes Task Force: Somerset County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23160,ME0149900,State Police Computer Crimes Task Force: Waldo County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23185,ME0159900,State Police Computer Crimes Task Force: Washington County,0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,23072,ME0169900,State Police Computer Crimes Task Force: York County,0,9E,MSA State Police,1,12,0,0,0,1,0
+2015,Maine,ME,8126,ME003SP00,State Police: Cumberland County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8136,ME004SP00,State Police: Franklin County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8149,ME005SP00,State Police: Hancock County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8163,ME006SP00,State Police: Kennebec County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8172,ME007SP00,State Police: Knox County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8180,ME008SP00,State Police: Lincoln County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8192,ME009SP00,State Police: Oxford County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8214,ME010SP00,State Police: Penobscot County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8222,ME011SP00,State Police: Piscataquis County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8230,ME012SP00,State Police: Sagadahoc County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8239,ME013SP00,State Police: Somerset County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8247,ME014SP00,State Police: Waldo County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8262,ME015SP00,State Police: Washington County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,8283,ME016SP00,State Police: York County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2015,Maine,ME,23112,ME0140300,Stockton Springs,1604,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8142,ME0050600,Stonington,1037,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8258,ME0151400,Swan's Island,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8145,ME0051400,Swan's Island,331,7,"Cities under 2,500",0,2,0,0,1,1,0
+2015,Maine,ME,8167,ME0070300,Thomaston,2766,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8225,ME0120200,Topsham,8703,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8132,ME0040600,University of Maine: Farmington,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8209,ME0101800,University of Maine: Orono,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8103,ME0022100,University of Maine: Presque Isle,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8122,ME0031800,University of Southern Maine,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8099,ME0020700,Van Buren,2065,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8206,ME0101300,Veazie,1875,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8169,ME0070500,Vinalhaven,1139,7,"Cities under 2,500",0,0,0,0,1,1,0
+2015,Maine,ME,8240,ME0140000,Waldo,29194,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Maine,ME,8176,ME0080300,Waldoboro,5004,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8102,ME0021600,Washburn,1602,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8248,ME0150000,Washington,22431,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8154,ME0060400,Waterville,16300,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Maine,ME,8277,ME0161400,Wells,10118,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Maine,ME,8115,ME0030800,Westbrook,17989,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,25618,ME0110800,Willimantic,143,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8130,ME0040300,Wilton,3973,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8121,ME0031500,Windham,17740,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2015,Maine,ME,8157,ME0060700,Winslow,7602,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2015,Maine,ME,8146,ME0051500,Winter Harbor,516,7,"Cities under 2,500",1,12,0,0,0,1,0
+2015,Maine,ME,8158,ME0060800,Winthrop,5962,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8177,ME0080400,Wiscasset,3660,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8120,ME0031400,Yarmouth,8552,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2015,Maine,ME,8279,ME0161600,York,12870,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2015,Maine,ME,8263,ME0160000,York,48742,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2015,Maine,ME,8278,ME0161500,York Beach,0,7,"Cities under 2,500",0,0,0,0,1,1,1

@@ -1,0 +1,959 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2009,Illinois,IL,5150,IL0480100,Abingdon,3234,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4675,IL0010000,Adams,25389,8B,"Non-MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4951,IL0220100,Addison,36968,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5604,IL0980100,Albany,915,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4746,IL0140600,Albers,1110,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4991,IL0240100,Albion,1801,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5356,IL0660100,Aledo,3560,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4680,IL0020000,Alexander,4923,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5587,IL0940100,Alexis,790,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5241,IL0560100,Algonquin,31273,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5456,IL0820100,Alorton,2503,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4757,IL0160100,Alsip,18583,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4994,IL0250100,Altamont,2251,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5305,IL0600100,Alton,29271,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5220,IL0520200,Amboy,2568,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5439,IL0810100,Andalusia,1069,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5562,IL0910100,Anna,5011,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5060,IL0370200,Annawan,908,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5158,IL0490100,Antioch,14579,5,"Cities from 10,000 thru 24,999",0,1,0,0,0,0,0
+2009,Illinois,IL,5101,IL0430700,Apple River,357,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4944,IL0210100,Arcola,2776,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5287,IL0580600,Argenta,814,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4758,IL0160200,Arlington Heights,73061,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4945,IL0210200,Arthur,2121,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4708,IL0090100,Ashland,1317,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5592,IL0950400,Ashley,569,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4732,IL0110500,Assumption,1189,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5019,IL0290100,Astoria,1117,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5353,IL0650200,Athens,1786,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5061,IL0370300,Atkinson,950,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5229,IL0540100,Atlanta,1631,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4946,IL0210300,Atwood,1217,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5494,IL0840300,Auburn,4360,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5054,IL0341000,Augusta,602,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5106,IL0450100,Aurora,175135,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4747,IL0140700,Aviston,1784,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5024,IL0290600,Avon,842,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5184,IL0492700,Bannockburn,1937,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4759,IL0160300,Barrington,10394,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4760,IL0160400,Barrington Hills,4402,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5417,IL0750100,Barry,1282,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4761,IL0160500,Bartlett,42856,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5392,IL0720100,Bartonville,6142,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5107,IL0450200,Batavia,27872,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4709,IL0090200,Beardstown,5867,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4741,IL0140100,Beckemeyer,1088,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4762,IL0160600,Bedford Park,529,7,"Cities under 2,500",0,2,0,0,0,0,0
+2009,Illinois,IL,5616,IL0990100,Beecher,3151,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2009,Illinois,IL,5567,IL0920100,Belgium,460,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5457,IL0820200,Belleville,40975,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5393,IL0720200,Bellevue,1773,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4763,IL0160700,Bellwood,18810,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4686,IL0040100,Belvidere,27128,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5413,IL0740100,Bement,1689,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5293,IL0590100,Benld,1455,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4952,IL0220200,Bensenville,20073,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5009,IL0280100,Benton,6961,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4764,IL0160800,Berkeley,4878,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4765,IL0160900,Berwyn,49489,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5306,IL0600200,Bethalto,9974,6,"Cities from 2,500 thru 9,999",0,1,0,0,0,0,0
+2009,Illinois,IL,5450,IL0811300,Black Hawk College: Moline,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4953,IL0220300,Bloomingdale,21855,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5268,IL0570100,Bloomington,73897,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4766,IL0161000,Blue Island,22203,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5282,IL0580100,Blue Mound,1009,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5617,IL0990200,Bolingbrook,72566,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4682,IL0030000,Bond,10833,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4685,IL0040000,Boone,28170,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5136,IL0460300,Bourbonnais,19479,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5536,IL0880300,Bradford,755,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5134,IL0460100,Bradley,15196,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5618,IL0990300,Braidwood,6844,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4742,IL0140200,Breese,4386,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5214,IL0510100,Bridgeport,2077,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4767,IL0161100,Bridgeview,14953,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5294,IL0590200,Brighton,2397,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4768,IL0161200,Broadview,7558,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4769,IL0161300,Brookfield,17971,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5472,IL0821900,Brooklyn,614,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4687,IL0050000,Brown,4616,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5016,IL0281000,Buckner,489,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4690,IL0060100,Buda,564,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4770,IL0161400,Buffalo Grove,42939,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5263,IL0562500,Bull Valley,855,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5295,IL0590300,Bunker Hill,1735,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4894,IL0168C00,Burbank,27529,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4695,IL0061400,Bureau,351,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4689,IL0060000,Bureau,17900,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5125,IL0452000,Burlington,485,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4824,IL0164M9E,Burlington Northern Santa Fe Railway,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4771,IL0161500,Burnham,3952,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4979,IL0223100,Burr Ridge,11471,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5234,IL0550200,Bushnell,2889,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,0,0
+2009,Illinois,IL,5388,IL0710600,Byron,3951,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5458,IL0820300,Cahokia,14970,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4681,IL0020100,Cairo,3052,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4697,IL0070000,Calhoun,5081,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4772,IL0161700,Calumet City,36560,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4773,IL0161800,Calumet Park,7924,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5062,IL0370400,Cambridge,2084,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4676,IL0010100,Camp Point,1188,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5131,IL0453400,Campton Hills,11100,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5020,IL0290200,Canton,14463,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5513,IL0842700,Capitol Airport Authority,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5440,IL0810200,Carbon Cliff,1653,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5080,IL0390100,Carbondale,26225,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5296,IL0590400,Carlinville,5953,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4743,IL0140300,Carlyle,3375,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5598,IL0970100,Carmi,5181,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4954,IL0220400,Carol Stream,39951,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5108,IL0450300,Carpentersville,38565,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5488,IL0830100,Carrier Mills,1827,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4699,IL0080000,Carroll,6733,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5036,IL0310100,Carrollton,2445,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5647,IL1000100,Carterville,5529,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5048,IL0340100,Carthage,2481,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5242,IL0560200,Cary,20066,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4735,IL0120100,Casey,2911,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5459,IL0820400,Caseyville,4262,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4707,IL0090000,Cass,4667,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5568,IL0920200,Catlin,2111,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5334,IL0610100,Central City,1307,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5335,IL0610200,Centralia,13484,5,"Cities from 10,000 thru 24,999",0,5,0,0,0,0,0
+2009,Illinois,IL,4782,IL0161T00,Central Management Services,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5460,IL0820500,Centreville,5602,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5414,IL0740200,Cerro Gordo,1333,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4700,IL0080100,Chadwick,468,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4711,IL0100000,Champaign,46404,9B,"MSA counties from 25,000 thru 99,999",0,3,0,0,0,0,0
+2009,Illinois,IL,4712,IL0100100,Champaign,80467,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5633,IL0991800,Channahon,14933,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4750,IL0150200,Charleston,21779,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4753,IL0150700,Charleston Arson Investigation,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5495,IL0840400,Chatham,10925,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5270,IL0570300,Chenoa,3260,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5656,IL1010100,Cherry Valley,2274,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5429,IL0790100,Chester,7775,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5684,ILCPD0000,Chicago,2848431,1A,"Cities 1,000,000 or over",1,12,0,0,0,1,0
+2009,Illinois,IL,4796,IL0162J9E,Chicago and Northwestern Railroad,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4779,IL0161L00,Chicago Fire Department Arson Investigations,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4774,IL0161900,Chicago Heights,30354,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4783,IL0162000,Chicago Ridge,13286,5,"Cities from 10,000 thru 24,999",0,1,0,0,0,0,0
+2009,Illinois,IL,4864,IL0166L00,Chicago State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4867,IL0166P00,Chicago Transit Authority,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5394,IL0720300,Chillicothe,5893,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4988,IL0230100,Chrisman,1223,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4727,IL0110000,Christian,12832,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5010,IL0280200,Christopher,2816,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4784,IL0162100,Cicero,79870,3,"Cities from 50,000 thru 99,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5076,IL0380700,Cissna Park,786,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4955,IL0220500,Clarendon Hills,8666,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4734,IL0120000,Clark,8787,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4738,IL0130000,Clay,8900,8D,"Non-MSA counties under 10,000",0,1,0,0,0,0,0
+2009,Illinois,IL,4740,IL0140000,Clinton,15065,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4941,IL0200100,Clinton,7117,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5041,IL0320100,Coal City,5836,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5441,IL0810300,Coal Valley,4045,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5563,IL0910200,Cobden,1096,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4749,IL0150000,Coles,13020,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5274,IL0570800,Colfax,1002,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4982,IL0223700,College of DuPage,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5189,IL0493200,College of Lake County,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5307,IL0600300,Collinsville,26074,4,"Cities from 25,000 thru 49,999",0,11,0,0,0,0,0
+2009,Illinois,IL,5063,IL0370500,Colona,5233,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5358,IL0670100,Columbia,9505,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4756,IL0160000,Cook,74847,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4841,IL0165K00,Cook County Forest Preserve,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5448,IL0811000,Cordova,686,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4935,IL0190700,Cortland,4489,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5433,IL0790600,Coulterville,1139,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4785,IL0162200,Country Club Hills,16783,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4786,IL0162300,Countryside,5766,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4920,IL0170000,Crawford,9623,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5619,IL0990400,Crest Hill,21405,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4787,IL0162400,Crestwood,11028,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5620,IL0990500,Crete,9189,6,"Cities from 2,500 thru 9,999",0,1,0,0,0,0,0
+2009,Illinois,IL,5542,IL0900100,Creve Coeur,5181,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5243,IL0560300,Crystal Lake,42198,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5265,IL0562700,Crystal Lake Park District,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4840,IL0165H9E,CSX Transportation,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5021,IL0290300,Cuba,1324,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4925,IL0180000,Cumberland,7543,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5408,IL0730300,Cutler,526,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5049,IL0340300,Dallas City,966,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5273,IL0570700,Danvers,1145,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5569,IL0920300,Danville,32076,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4976,IL0222700,Darien,22304,5,"Cities from 10,000 thru 24,999",0,9,0,0,0,0,0
+2009,Illinois,IL,5283,IL0580200,Decatur,75651,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5288,IL0580700,Decatur Park District,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5559,IL0901900,Deer Creek,1621,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5160,IL0490300,Deerfield,19797,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5197,IL0494500,Deer Park,3373,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4928,IL0190000,De Kalb,18153,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4936,IL0190800,De Kalb,46253,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5543,IL0900200,Delavan,1747,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4691,IL0060200,De Pue,1744,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5083,IL0390400,De Soto,1549,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4788,IL0162500,Des Plaines,57061,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4940,IL0200000,De Witt,7183,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5502,IL0841100,Divernon,1121,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4789,IL0162600,Dixmoor,3779,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5221,IL0520300,Dixon,14931,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4790,IL0162700,Dolton,23707,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5565,IL0910400,Dongola,789,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4943,IL0210000,Douglas,6718,8D,"Non-MSA counties under 10,000",0,10,0,0,0,0,0
+2009,Illinois,IL,4956,IL0220600,Downers Grove,49170,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5028,IL0291600,Dunfermline,306,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4950,IL0220000,DuPage,93870,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4981,IL0223300,DuPage County Forest Preserve,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4983,IL0224200,DuPage Metropolitan Enforcement Group,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5461,IL0820600,Dupo,4089,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5406,IL0730100,Du Quoin,6312,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5664,IL1011000,Durand,1085,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5224,IL0530100,Dwight,4255,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5208,IL0501100,Earlville,1828,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5308,IL0600400,East Alton,6535,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5484,IL0824000,East Carondelet,617,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4754,IL0150800,East Central Illinois Task Force,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5095,IL0430100,East Dubuque,1913,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5109,IL0450400,East Dundee,3137,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4752,IL0150600,Eastern Illinois University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5151,IL0480300,East Galesburg,768,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4792,IL0162900,East Hazel Crest,1528,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5442,IL0810400,East Moline,20828,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5347,IL0630600,Easton,351,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5544,IL0900300,East Peoria,22769,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5462,IL0820700,East St. Louis,28479,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4987,IL0230000,Edgar,9869,8D,"Non-MSA counties under 10,000",0,3,0,0,0,0,0
+2009,Illinois,IL,4990,IL0240000,Edwards,3082,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5309,IL0600500,Edwardsville,24803,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4995,IL0250200,Effingham,12498,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4993,IL0250000,Effingham,19390,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5110,IL0450500,Elburn,5652,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5489,IL0830200,Eldorado,4378,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5111,IL0450600,Elgin,107686,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5638,IL099269E,"Elgin, Joliet and Eastern Railway",0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5096,IL0430200,Elizabeth,646,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4798,IL0163000,Elk Grove Village,33164,4,"Cities from 25,000 thru 49,999",0,11,0,0,0,0,0
+2009,Illinois,IL,4957,IL0220700,Elmhurst,46372,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4980,IL0223200,Elmhurst Park District,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5395,IL0720400,Elmwood,1864,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4799,IL0163100,Elmwood Park,23909,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5676,IL1020100,El Paso,2814,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5632,IL0991700,Elwood,2434,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5652,IL1000800,Energy,1202,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5601,IL0970600,Enfield ,599,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5034,IL0300400,Equality,663,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5612,IL0980900,Erie,1544,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5140,IL0460900,Essex,723,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5677,IL1020200,Eureka,5405,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4800,IL0163200,Evanston,78101,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4801,IL0163300,Evergreen Park,19206,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5226,IL0530300,Fairbury,3762,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5595,IL0960100,Fairfield,5139,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5473,IL0822000,Fairmont City,2224,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5570,IL0920400,Fairmount,624,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5026,IL0291100,Fairview,479,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5477,IL0822400,Fairview Heights,16841,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5003,IL0260500,Farina,551,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4942,IL0200200,Farmer City,1941,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5022,IL0290400,Farmington,2415,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4998,IL0260000,Fayette,13507,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5474,IL0822100,Fayetteville,369,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4719,IL0100800,Fisher,1767,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5581,IL0921800,Fithian,550,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4739,IL0130200,Flora,4742,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4802,IL0163400,Flossmoor,9305,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5004,IL0270000,Ford,5454,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4791,IL0162800,Ford Heights,3175,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,0,0
+2009,Illinois,IL,4803,IL0163500,Forest Park,15176,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4804,IL0163600,Forest View,712,7,"Cities under 2,500",0,11,0,0,0,0,0
+2009,Illinois,IL,5383,IL0710100,Forreston,1492,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5161,IL0490400,Fox Lake,11314,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5244,IL0560400,Fox River Grove,5192,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5621,IL0990600,Frankfort,19060,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5008,IL0280000,Franklin,15705,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5222,IL0520400,Franklin Grove,995,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4805,IL0163700,Franklin Park,17810,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5463,IL0820800,Freeburg,4530,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5538,IL0890100,Freeport,24424,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5605,IL0980200,Fulton,3826,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5018,IL0290000,Fulton,12783,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5097,IL0430300,Galena,3319,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5152,IL0480400,Galesburg,30910,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5030,IL0300000,Gallatin,3504,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5064,IL0370600,Galva,2632,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5042,IL0320200,Gardner,1498,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5065,IL0370700,Geneseo,6430,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5112,IL0450700,Geneva,24862,5,"Cities from 10,000 thru 24,999",0,1,0,0,0,0,0
+2009,Illinois,IL,4929,IL0190100,Genoa,5207,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5571,IL0920500,Georgetown,3421,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4748,IL0141300,Germantown,1228,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5005,IL0270100,Gibson City,3277,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4722,IL0101100,Gifford,1011,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5126,IL0452100,Gilberts,7298,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5297,IL0590500,Gillespie,3159,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5072,IL0380200,Gilman,1706,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5298,IL0590600,Girard,2158,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5400,IL0721200,Glasford,1029,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5324,IL0602300,Glen Carbon,12851,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4806,IL0163800,Glencoe,9067,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4958,IL0220800,Glendale Heights,31832,4,"Cities from 25,000 thru 49,999",0,11,0,0,0,0,0
+2009,Illinois,IL,4959,IL0220900,Glen Ellyn,27132,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4807,IL0163900,Glenview,46528,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4811,IL0164000,Glenwood,8433,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5641,IL0992900,Godley,715,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5422,IL0760100,Golconda,646,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4812,IL0164100,Golf,444,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5637,IL0992400,Governors State University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5092,IL0420100,Grafton,739,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5209,IL0501300,Grand Ridge,517,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5310,IL0600700,Granite City,30568,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5142,IL0461100,Grant Park,1756,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5427,IL0780100,Granville,1336,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5162,IL0490500,Grayslake,22099,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5599,IL0970200,Grayville,1570,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5668,IL1011400,Greater Rockford Airport,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2009,Illinois,IL,5035,IL0310000,Greene,5620,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5037,IL0310200,Greenfield,1062,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5066,IL0370800,Green Rock,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4926,IL0180100,Greenup,1471,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5555,IL0901400,Green Valley,691,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5354,IL0650300,Greenview,781,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4683,IL0030100,Greenville,7415,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5275,IL0571000,Gridley,1430,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5040,IL0320000,Grundy,19703,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5163,IL0490600,Gurnee,30800,4,"Cities from 25,000 thru 49,999",0,3,0,0,0,0,0
+2009,Illinois,IL,5185,IL0492800,Hainesville,3940,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5326,IL0602800,Hamel,795,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5045,IL0330000,Hamilton,5435,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5050,IL0340400,Hamilton,2751,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5113,IL0450800,Hampshire,5968,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5449,IL0811100,Hampton,1791,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5047,IL0340000,Hancock,8590,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5396,IL0720500,Hanna City,973,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5098,IL0430400,Hanover,786,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4813,IL0164200,Hanover Park,36617,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5055,IL0350000,Hardin,4321,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4858,IL0166E00,Harold Washington College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4908,IL0169D00,Harper College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5490,IL0830300,Harrisburg,9554,6,"Cities from 2,500 thru 9,999",0,6,0,0,0,0,0
+2009,Illinois,IL,5311,IL0600800,Hartford,1470,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5245,IL0560500,Harvard,10072,5,"Cities from 10,000 thru 24,999",0,8,0,0,0,0,0
+2009,Illinois,IL,4814,IL0164300,Harvey,27852,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4815,IL0164400,Harwood Heights,8031,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5344,IL0630100,Havana,3302,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5193,IL0493800,Hawthorn Woods,8312,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4816,IL0164500,Hazel Crest,13995,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5246,IL0560600,Hebron,1434,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5361,IL0670400,Hecker,490,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5057,IL0360000,Henderson,7182,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5582,IL0921900,Henning,228,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5059,IL0370000,Henry,16053,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5340,IL0620100,Henry,2402,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5648,IL1000200,Herrin,12439,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5141,IL0461000,Herscher,1625,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4817,IL0164600,Hickory Hills,13263,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5312,IL0600900,Highland,9893,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5164,IL0490700,Highland Park,31576,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5165,IL0490800,Highwood,5378,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5389,IL0710700,Hillcrest,1302,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5363,IL0680100,Hillsboro,6142,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5451,IL0811400,Hillsdale,558,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4818,IL0164700,Hillside,8367,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4930,IL0190200,Hinckley,2091,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4960,IL0221000,Hinsdale,18553,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4819,IL0164900,Hodgkins,2001,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4828,IL0165000,Hoffman Estates,54100,3,"Cities from 50,000 thru 99,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5260,IL0562100,Holiday Hills ,770,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4713,IL0100200,Homer,1114,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5644,IL099900X,Homer Glen,26554,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4829,IL0165100,Hometown,4075,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4830,IL0165200,Homewood,18361,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5572,IL0920600,Hoopeston,5621,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5545,IL0900400,Hopedale,924,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5143,IL0461500,Hopkins Park ,801,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5247,IL0560700,Huntley,26597,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4924,IL0170400,Hutsonville,603,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5556,IL0901500,Illinois Central College,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5517,IL0844200,Illinois Commerce Commission,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5521,IL0849300,Illinois Department of Natural Resources,0,7,"Cities under 2,500",0,1,0,0,0,0,0
+2009,Illinois,IL,5522,IL0849700,Illinois State Police,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5279,IL0571500,Illinois State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5503,IL0841200,Illiopolis,842,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4826,IL0164Y9P,Indiana Harbor Belt Railroad,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4831,IL0165300,Indian Head Park,3606,6,"Cities from 2,500 thru 9,999",0,5,0,0,0,0,0
+2009,Illinois,IL,5583,IL0922000,Indianola,220,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4832,IL0165400,Inverness,7752,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5070,IL0380000,Iroquois,22884,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5369,IL0680700,Irving,477,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5181,IL0492400,Island Lake,8634,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4961,IL0221100,Itasca,8645,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5079,IL0390000,Jackson,21981,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5374,IL0690100,Jacksonville,19353,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5086,IL0400000,Jasper,6689,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5088,IL0410000,Jefferson,23616,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5508,IL0841700,Jerome,1282,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5091,IL0420000,Jersey,13194,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5093,IL0420200,Jerseyville,8415,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5094,IL0430000,Jo Daviess,12286,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5653,IL1001100,John A. Logan College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4823,IL0164K00,John H. Stroger Hospital,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5253,IL0561400,Johnsburg,6894,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5102,IL0440000,Johnson,12484,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5649,IL1000300,Johnston City,3469,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5622,IL0990700,Joliet,151103,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5643,IL0993100,Joliet Junior College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5564,IL0910300,Jonesboro,1815,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4833,IL0165500,Justice,12481,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5105,IL0450000,Kane,63032,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5128,IL0452600,Kane County Forest Preserve,0,9D,"MSA counties under 10,000",0,3,0,0,0,0,0
+2009,Illinois,IL,5133,IL0460000,Kankakee,33630,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5135,IL0460200,Kankakee,26615,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5144,IL0461700,Kankakee Area Metropolitan Enforcement Group,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5145,IL0470000,Kendall,31596,9B,"MSA counties from 25,000 thru 99,999",0,1,0,0,0,0,0
+2009,Illinois,IL,4834,IL0165600,Kenilworth,2387,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4857,IL0166D00,Kennedy-King College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5067,IL0370900,Kewanee,12229,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5348,IL0630700,Kilbourne,347,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5191,IL0493600,Kildeer,4196,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4730,IL0110300,Kincaid,1451,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4939,IL0191300,Kingston,1069,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4937,IL0190900,Kirkland,1772,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5149,IL0480000,Knox,12198,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5153,IL0480500,Knoxville,2890,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5341,IL0620200,Lacon,1817,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4835,IL0165700,La Grange,15206,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4836,IL0165800,La Grange Park,12311,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5157,IL0490000,Lake,122680,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2009,Illinois,IL,5166,IL0490900,Lake Bluff,6239,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5196,IL0494100,Lake County Forest Preserve,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5167,IL0491000,Lake Forest,21083,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5248,IL0560900,Lake In the Hills,30405,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5255,IL0561600,Lakemoor,6209,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5168,IL0491100,Lake Villa,9054,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5256,IL0561700,Lakewood,3875,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5169,IL0491200,Lake Zurich,20835,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4694,IL0061000,La Moille,740,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4701,IL0080200,Lanark,1444,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4837,IL0165900,Lansing,26496,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5198,IL0500000,La Salle,35897,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5199,IL0500100,La Salle,9480,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5213,IL0510000,Lawrence,6200,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5215,IL0510200,Lawrenceville,4346,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5464,IL0820900,Lebanon,4595,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5218,IL0520000,Lee,16393,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5200,IL0500200,Leland,961,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5504,IL0841300,Leland Grove,1428,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4844,IL0166000,Lemont,16516,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5482,IL0823000,Lenzburg,525,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5271,IL0570500,Le Roy,3548,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5322,IL0602000,Lewis and Clark Community College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5023,IL0290500,Lewistown,2358,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5272,IL0570600,Lexington,1897,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5170,IL0491300,Libertyville,21961,5,"Cities from 10,000 thru 24,999",0,8,0,0,0,0,0
+2009,Illinois,IL,5230,IL0540200,Lincoln,14454,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5186,IL0492900,Lincolnshire,8196,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4845,IL0166100,Lincolnwood,11752,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5187,IL0493000,Lindenhurst,14923,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4962,IL0221200,Lisle,23194,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5364,IL0680200,Litchfield,6613,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5313,IL0601000,Livingston,783,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5223,IL0530000,Livingston,17931,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5510,IL0842300,Loami,779,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5623,IL0990800,Lockport,26106,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5077,IL0380800,Loda,402,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5228,IL0540000,Logan,11869,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4963,IL0221300,Lombard,42905,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5156,IL0480900,London Mills,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5027,IL0291500,London Mills,420,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5657,IL1010200,Loves Park,24965,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4916,IL016AB9E,Loyola University ,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4866,IL0166N00,Loyola University Medical Center,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4724,IL0101300,Ludlow,360,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5606,IL0980300,Lyndon,541,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4846,IL0166200,Lynwood,8582,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4847,IL0166300,Lyons,10251,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5671,IL1011700,Machesney Park,23053,5,"Cities from 10,000 thru 24,999",0,11,0,0,0,0,0
+2009,Illinois,IL,5552,IL0901100,Mackinaw,1732,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5236,IL0550400,Macomb,19885,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5286,IL0580500,Macon,1125,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5281,IL0580000,Macon,22695,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5292,IL0590000,Macoupin,19677,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5304,IL0600000,Madison,72642,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5314,IL0601100,Madison,4556,6,"Cities from 2,500 thru 9,999",0,7,0,0,0,0,0
+2009,Illinois,IL,4714,IL0100300,Mahomet,6597,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4859,IL0166F00,Malcolm X College,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5631,IL0991600,Manhattan,7793,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5346,IL0630300,Manito,1620,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5138,IL0460500,Manteno,8821,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5123,IL0451800,Maple Park,1365,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5249,IL0561000,Marengo,7659,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5650,IL1000400,Marion,17524,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5333,IL0610000,Marion,18928,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5465,IL0821000,Marissa,1965,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4849,IL0166500,Markham,12195,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5284,IL0580300,Maroa,1526,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5546,IL0900500,Marquette Heights,2835,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5201,IL0500300,Marseilles,4952,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5339,IL0620000,Marshall,7048,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4736,IL0120200,Marshall,3841,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4737,IL0120300,Martinsville,1211,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5315,IL0601200,Maryville,7747,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5466,IL0821100,Mascoutah,6815,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5343,IL0630000,Mason,7298,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5345,IL0630200,Mason City,2345,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5349,IL0640000,Massac,8466,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4850,IL0166600,Matteson,17993,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4751,IL0150300,Mattoon,17064,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4851,IL0166700,Maywood,24830,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4848,IL0166400,McCook,235,7,"Cities under 2,500",0,5,0,0,0,0,0
+2009,Illinois,IL,5250,IL0561100,McCullom Lake,1107,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5232,IL0550000,McDonough,12764,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5240,IL0560000,McHenry,68815,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5251,IL0561200,McHenry,27489,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5262,IL0562300,McHenry Shores,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5276,IL0571200,McLean,789,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5267,IL0570000,McLean,27275,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5046,IL0330100,McLeansboro,2763,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5303,IL0591700,Medora,479,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4852,IL0166800,Melrose Park,21712,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5351,IL0650000,Menard,8446,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5202,IL0500400,Mendota,6965,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5355,IL0660000,Mercer,12461,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5375,IL0690200,Meredosia,958,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4853,IL0166900,Merrionette Park ,1980,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5678,IL1020300,Metamora,3482,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5640,IL0992800,Metro Area Narcotics Squad,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5350,IL0640300,Metropolis,6537,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4781,IL0161Q00,Metropolitan Enforcement Group of Cook County,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5195,IL0494000,Metropolitan Enforcement Group of Lake County,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4868,IL0167000,Midlothian,13583,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5443,IL0810500,Milan,5167,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5073,IL0380300,Milford,1274,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4702,IL0080300,Milledgeville,922,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5467,IL0821200,Millstadt,3398,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5547,IL0900600,Minier,1247,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5679,IL1020400,Minonk,2153,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5044,IL0320600,Minooka,11738,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5636,IL0992200,Mokena,19817,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5444,IL0810600,Moline,42996,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5137,IL0460400,Momence,3177,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5624,IL0990900,Monee,5278,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5588,IL0940300,Monmouth,9268,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5357,IL0670000,Monroe,12611,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5114,IL0450900,Montgomery,17071,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5362,IL0680000,Montgomery,12230,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5415,IL0740300,Monticello,5374,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4912,IL0169K00,Moraine Valley Community College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5373,IL0690000,Morgan,11424,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5043,IL0320400,Morris,14027,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5607,IL0980400,Morrison,4287,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5665,IL1011100,Morristown,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5548,IL0900700,Morton,16105,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4910,IL0169F00,Morton College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4869,IL0167100,Morton Grove,22485,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5378,IL0700000,Moultrie,9189,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5424,IL0770200,Mound City,580,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5585,IL0930100,Mount Carmel,7343,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4703,IL0080400,Mount Carroll,1641,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5384,IL0710200,Mount Morris,3083,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5299,IL0590700,Mount Olive,2042,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4870,IL0167200,Mount Prospect,53028,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5231,IL0540300,Mount Pulaski,1568,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4688,IL0050100,Mount Sterling,1889,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5089,IL0410100,Mount Vernon,16292,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5285,IL0580400,Mount Zion,5191,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5529,IL0870100,Moweaqua,1810,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5404,IL0721900,Multi-County Narcotics Enforcement Group,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5171,IL0491400,Mundelein,34021,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5192,IL0493700,Mundelein Park District,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5081,IL0390200,Murphysboro,8129,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4964,IL0221400,Naperville,144731,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5590,IL0950200,Nashville,3014,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5468,IL0821400,National City,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5051,IL0340700,Nauvoo,1165,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4927,IL0180200,Neoga,1742,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4696,IL0061500,Neponset,490,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5469,IL0821500,New Athens,2001,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4744,IL0140400,New Baden,3276,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5630,IL0991500,New Lenox,24896,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4947,IL0210400,Newman,907,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5087,IL0400100,Newton,2930,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4871,IL0167300,Niles,28518,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5365,IL0680300,Nokomis,2246,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4827,IL0164Z9E,Norfolk Southern Railway: Cook County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5269,IL0570200,Normal,52827,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4872,IL0167400,Norridge,13888,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5115,IL0451000,North Aurora,16470,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5188,IL0493100,North Barrington,3268,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2009,Illinois,IL,4873,IL0167500,Northbrook,33980,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5172,IL0491500,North Chicago,32272,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5397,IL0720600,North Chillicothe,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4865,IL0166M00,Northeastern Illinois University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5673,IL1011900,Northern Illinois Auto Theft Taskforce,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4938,IL0191100,Northern Illinois University,0,7,"Cities under 2,500",0,11,0,0,0,0,0
+2009,Illinois,IL,4874,IL0167600,Northfield,5418,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4875,IL0167700,Northlake,11417,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5549,IL0900800,North Pekin,1735,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4876,IL0167800,North Riverside,6193,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4880,IL0167D00,Northwestern University,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4917,IL016AC9E,Northwestern University: Chicago,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4797,IL0162W00,Northwestern University: Evanston,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5401,IL0721300,Norwood,454,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4965,IL0221500,Oak Brook,8819,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4977,IL0222900,Oakbrook Terrace,2236,7,"Cities under 2,500",0,3,0,0,0,0,0
+2009,Illinois,IL,4877,IL0167900,Oak Forest,27699,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4882,IL0168000,Oak Lawn,53028,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4883,IL0168100,Oak Park,53286,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,4881,IL0167E00,Oakton Community College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5579,IL0921300,Oakwood,1418,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5257,IL0561800,Oakwood Hills,2396,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4921,IL0170100,Oblong,1517,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5470,IL0821600,O'Fallon,28194,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4723,IL0101200,Ogden ,716,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5382,IL0710000,Ogle,31900,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5203,IL0500600,Oglesby,3674,6,"Cities from 2,500 thru 9,999",0,8,0,0,0,0,0
+2009,Illinois,IL,5591,IL0950300,Okawville,1335,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5033,IL0300300,Old Shawneetown,256,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4861,IL0166H00,Olive-Harvey College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5437,IL0800100,Olney,8367,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4884,IL0168200,Olympia Fields,4735,6,"Cities from 2,500 thru 9,999",0,1,0,0,0,0,0
+2009,Illinois,IL,5290,IL0581000,Oreana,928,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5385,IL0710300,Oregon,4130,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5068,IL0371000,Orion,1685,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4893,IL0168B00,Orland Hills,7240,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4885,IL0168300,Orland Park,55990,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5148,IL0470300,Oswego,34521,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5204,IL0500700,Ottawa,19509,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4886,IL0168400,Palatine,67162,3,"Cities from 50,000 thru 99,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4922,IL0170200,Palestine,1319,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5302,IL0591200,Palmyra,703,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4887,IL0168500,Palos Heights,12604,5,"Cities from 10,000 thru 24,999",0,8,0,0,0,0,0
+2009,Illinois,IL,4888,IL0168600,Palos Hills,16844,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4889,IL0168700,Palos Park,4879,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4728,IL0110100,Pana,5694,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4989,IL0230300,Paris,8644,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5182,IL0492500,Park City,6603,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4890,IL0168800,Park Forest,22482,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4725,IL0101500,Parkland College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4891,IL0168900,Park Ridge,36835,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5496,IL0840600,Pawnee,2534,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5006,IL0270200,Paxton,4514,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5658,IL1010300,Pecatonica,2232,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5550,IL0900900,Pekin,33382,4,"Cities from 25,000 thru 49,999",0,5,0,0,0,0,0
+2009,Illinois,IL,5557,IL0901600,Pekin Park District,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5398,IL0720700,Peoria,114241,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5391,IL0720000,Peoria,47258,9B,"MSA counties from 25,000 thru 99,999",0,9,0,0,0,0,0
+2009,Illinois,IL,5399,IL0720900,Peoria Heights,6190,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5402,IL0721400,Peoria Park District,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5625,IL0991000,Peotone,4406,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5405,IL0730000,Perry,10646,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5205,IL0500800,Peru,9805,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5352,IL0650100,Petersburg,2179,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4895,IL0169000,Phoenix,2029,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5412,IL0740000,Piatt,10450,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5416,IL0750000,Pike,10648,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5407,IL0730200,Pinckneyville,5373,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5007,IL0270300,Piper City,731,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5418,IL0750300,Pittsfield,4435,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5626,IL0991100,Plainfield,40764,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5146,IL0470100,Plano,12945,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5511,IL0842400,Pleasant Plains,714,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5052,IL0340800,Plymouth,516,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5386,IL0710400,Polo,2477,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5225,IL0530200,Pontiac,11182,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5323,IL0602100,Pontoon Beach,6119,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5421,IL0760000,Pope,4030,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5259,IL0562000,Port Barrington,1521,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5445,IL0810700,Port Byron,1685,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4896,IL0169100,Posen,4926,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5573,IL0920700,Potomac,653,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5434,IL0790800,Prairie du Rocher,563,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5264,IL0562600,Prairie Grove ,2147,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4692,IL0060400,Princeton,7494,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5608,IL0980500,Prophetstown,1915,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4911,IL0169G00,Prospect Heights,15940,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5423,IL0770000,Pulaski,5658,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5426,IL0780000,Putnam,4635,8D,"Non-MSA counties under 10,000",0,2,0,0,0,0,0
+2009,Illinois,IL,5453,IL0811800,Quad-City Metropolitan Enforcement Group,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4677,IL0010300,Quincy,39906,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4999,IL0260100,Ramsey,1046,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5428,IL0790000,Randolph,13806,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5574,IL0920800,Rankin,581,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,4715,IL0100400,Rantoul,12109,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5366,IL0680400,Raymond,896,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5430,IL0790200,Red Bud,3656,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4862,IL0166J00,Richard J. Daley College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5436,IL0800000,Richland,7026,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5252,IL0561300,Richmond,2510,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4897,IL0169200,Richton Park,12873,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5575,IL0920900,Ridge Farm,851,7,"Cities under 2,500",0,11,0,0,0,0,0
+2009,Illinois,IL,5031,IL0300100,Ridgway,853,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5539,IL0890700,Ridott,146,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4898,IL0169300,Riverdale,14069,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4899,IL0169400,River Forest,11128,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4900,IL0169500,River Grove,9921,6,"Cities from 2,500 thru 9,999",0,3,0,0,0,0,0
+2009,Illinois,IL,4901,IL0169600,Riverside,8207,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5194,IL0493900,Riverwoods,4107,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5680,IL1020500,Roanoke,2020,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4902,IL0169700,Robbins,6299,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4923,IL0170300,Robinson,6323,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5387,IL0710500,Rochelle,9867,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5499,IL0840900,Rochester,3277,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5627,IL0991200,Rockdale,2005,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5609,IL0980600,Rock Falls,9277,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5659,IL1010400,Rockford,157943,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2009,Illinois,IL,5667,IL1011300,Rockford Park District,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5446,IL0810800,Rock Island,37976,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5438,IL0810000,Rock Island,24390,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5660,IL1010500,Rockton,5520,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5666,IL1011200,Rock Valley College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4903,IL0169800,Rolling Meadows,23335,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5628,IL0991300,Romeoville,40465,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5038,IL0310300,Roodhouse,1909,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5661,IL1010600,Roscoe,9135,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4966,IL0221600,Roselle,23197,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4904,IL0169900,Rosemont,3898,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5056,IL0350300,Rosiclare,1072,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5576,IL0921000,Rossville,1147,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5173,IL0491600,Round Lake,18836,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5174,IL0491700,Round Lake Beach,28054,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5175,IL0491800,Round Lake Heights,3051,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5176,IL0491900,Round Lake Park,6189,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5316,IL0601300,Roxana,1546,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5011,IL0280300,Royalton,1162,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5435,IL0790900,Ruma ,285,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5525,IL0850100,Rushville,3083,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5336,IL0610400,Salem,7398,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5487,IL0830000,Saline,10006,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4931,IL0190300,Sandwich,7424,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5491,IL0840000,Sangamon,42499,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5475,IL0822200,Sauget,236,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4775,IL0161A00,Sauk Village,10236,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4704,IL0080500,Savanna,3176,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5277,IL0571300,Saybrook,744,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4793,IL0162A00,Schaumburg,71325,3,"Cities from 50,000 thru 99,000",0,9,0,0,0,0,0
+2009,Illinois,IL,4808,IL0163A00,Schiller Park,11544,5,"Cities from 10,000 thru 24,999",0,1,0,0,0,0,0
+2009,Illinois,IL,5368,IL0680600,Schram City,610,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5524,IL0850000,Schuyler,3776,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5526,IL0860000,Scott,3586,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5682,IL1020900,Secor,371,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5519,IL0848900,Secretary of State Police,0,9D,"MSA counties under 10,000",0,3,0,0,0,0,0
+2009,Illinois,IL,5520,IL0849000,Secretary of State Police: Auto Theft Section District 5,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4778,IL0161G00,Secretary of State Police: District 1,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5670,IL1011600,Secretary of State Police: District 2,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5090,IL0410200,Secretary of State Police: District 4,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5516,IL0843500,Secretary of State Police: Headquarters Command Center,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5206,IL0500900,Seneca,2134,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5012,IL0280400,Sesser,2121,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4705,IL0080600,Shannon,789,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5032,IL0300200,Shawneetown,1298,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5528,IL0870000,Shelby,15182,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5530,IL0870200,Shelbyville,4568,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5074,IL0380500,Sheldon,1146,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5210,IL0501500,Sheridan,2042,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5505,IL0841400,Sherman,3947,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5478,IL0822500,Shiloh,11500,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5635,IL0992100,Shorewood,16707,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5580,IL0921600,Sidell,589,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5447,IL0810900,Silvis,7829,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4820,IL0164A00,Skokie,66996,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5117,IL0451200,Sleepy Hollow,3701,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5481,IL0822800,Smithton,3561,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4932,IL0190400,Somonauk,1676,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4838,IL0165A00,South Barrington,4545,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5662,IL1010700,South Beloit,5546,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4854,IL0166A00,South Chicago Heights,3759,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5118,IL0451300,South Elgin,21729,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5084,IL0390700,Southern Illinois Enforcement Group,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5082,IL0390300,Southern Illinois University: Carbondale,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5320,IL0601700,Southern Illinois University: Edwardsville,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5518,IL0844600,Southern Illinois University: School of Medicine,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5506,IL0841500,Southern View,1627,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4878,IL0167A00,South Holland,20969,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5376,IL0690400,South Jacksonville,3226,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5553,IL0901200,South Pekin,1202,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5321,IL0601900,South Roxana,1798,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4907,IL0169C00,South Suburban College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5327,IL0602900,Southwestern Illinois Metropolitan Enforcement Group,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5431,IL0790300,Sparta,4286,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5493,IL0840200,Springfield,117973,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5509,IL0841800,Springfield Park District,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5258,IL0561900,Spring Grove,6009,6,"Cities from 2,500 thru 9,999",0,5,0,0,0,0,0
+2009,Illinois,IL,4693,IL0060600,Spring Valley,5451,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5278,IL0571400,Stanford,672,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5139,IL0460600,St. Anne,1249,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5533,IL0880000,Stark,6090,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2009,Illinois,IL,5480,IL0822700,State Community College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5500,IL0840C00,State Fire Marshal,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5614,IL0989900,State Police: District 1,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4726,IL0109900,State Police: District 10,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5332,IL0609900,State Police: District 11,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4997,IL0259900,State Police: District 12,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5411,IL0739900,State Police: District 13,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5239,IL0559900,State Police: District 14,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4986,IL0229900,State Police: District 15,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5674,IL1019900,State Police: District 16,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5212,IL0509900,State Police: District 17,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5372,IL0689900,State Police: District 18,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5602,IL0979900,State Police: District 19,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5132,IL0459900,State Police: District 2,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5420,IL0759900,State Police: District 20,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5078,IL0389900,State Police: District 21,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5425,IL0779900,State Police: District 22,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4918,IL016XX00,State Police: District 3,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4919,IL016XY00,State Police: District 4,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5645,IL0999900,State Police: District 5,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5227,IL0539900,State Police: District 6,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5454,IL0819900,State Police: District 7,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5683,IL1029900,State Police: District 8,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5523,IL0849900,State Police: District 9,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5613,IL0981100,State Police Division of Criminal Investigation: Zone 1,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4720,IL0100900,State Police Division of Criminal Investigation: Zone 10,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5328,IL0603100,State Police Division of Criminal Investigation: Zone 11,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4996,IL0250900,State Police Division of Criminal Investigation: Zone 12,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5600,IL0970400,State Police Division of Criminal Investigation: Zone 12A,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5654,IL1001200,State Police Division of Criminal Investigation: Zone 13,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5238,IL0550700,State Police Division of Criminal Investigation: Zone 14,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4678,IL0010600,State Police Division of Criminal Investigation: Zone 14a,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5669,IL1011500,State Police Division of Criminal Investigation: Zone 16,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5127,IL0452300,State Police Division of Criminal Investigation: Zone 2,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4913,IL0169L00,State Police Division of Criminal Investigation: Zone 3,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4914,IL0169M00,State Police Division of Criminal Investigation: Zone 4,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5639,IL0992700,State Police Division of Criminal Investigation: Zone 5,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5280,IL0571600,State Police Division of Criminal Investigation: Zone 6,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5452,IL0811700,State Police Division of Criminal Investigation: Zone 7,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5403,IL0721700,State Police Division of Criminal Investigation: Zone 8,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5512,IL0842600,State Police Division of Criminal Investigation: Zone 9,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,4915,IL0169N00,State Police: Medicaid Fraud Unit Area 1,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2009,Illinois,IL,5300,IL0590900,Staunton,5139,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5119,IL0451400,St. Charles,33379,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5455,IL0820000,St. Clair,50752,9B,"MSA counties from 25,000 thru 99,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4892,IL0168A00,Steger,10504,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5537,IL0890000,Stephenson,21486,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5610,IL0980700,Sterling,15051,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5217,IL0510400,St. Francisville,725,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4905,IL0169A00,Stickney,5735,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5390,IL0710800,Stillman Valley,1115,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5483,IL082359P,St. Louis South Western Railroad,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5099,IL0430500,Stockton,1782,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4776,IL0161B00,Stone Park,4832,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4731,IL0110400,Stonington,894,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5001,IL0260300,St. Peter,380,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,4794,IL0162B00,Streamwood,37175,4,"Cities from 25,000 thru 49,999",0,4,0,0,0,0,0
+2009,Illinois,IL,5207,IL0501000,Streator,13736,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5120,IL0451500,Sugar Grove,10626,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5381,IL0700300,Sullivan,4385,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5479,IL0822600,Summerfield,473,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4809,IL0163B00,Summit,10179,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5216,IL0510300,Sumner,3418,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5476,IL0822300,Swansea,13160,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4933,IL0190500,Sycamore,18384,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5409,IL0730400,Tamaroa,717,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5611,IL0980800,Tampico,723,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4729,IL0110200,Taylorville,12193,5,"Cities from 10,000 thru 24,999",0,3,0,0,0,0,0
+2009,Illinois,IL,5541,IL0900000,Tazewell,24667,9C,"MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4721,IL0101000,Thomasboro,1206,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4706,IL0080700,Thomson,520,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4821,IL0164B00,Thornton,2366,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5432,IL0790500,Tilden,864,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5577,IL0921100,Tilton,2759,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4842,IL0165M00,Tinley Park,60427,3,"Cities from 50,000 thru 99,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4716,IL0100500,Tolono,2850,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5342,IL0620300,Toluca,1241,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5211,IL0501600,Tonica,699,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5534,IL0880100,Toulon,1335,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5190,IL0493300,Tower Lakes ,1301,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5554,IL0901300,Tremont,2075,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4745,IL0140500,Trenton,2666,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4909,IL0169E00,Triton College,0,7,"Cities under 2,500",0,7,0,0,0,0,0
+2009,Illinois,IL,5317,IL0601400,Troy,9993,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4860,IL0166G00,Truman College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,4948,IL0210500,Tuscola,4518,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5561,IL0910000,Union,10189,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4856,IL0166C00,University of Illinois: Chicago,0,7,"Cities under 2,500",0,1,0,0,0,0,0
+2009,Illinois,IL,5507,IL0841600,University of Illinois: Springfield,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4718,IL0100700,University of Illinois: Urbana,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2009,Illinois,IL,5634,IL0992000,University Park,8351,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4717,IL0100600,Urbana,39838,4,"Cities from 25,000 thru 49,999",0,4,0,0,0,0,0
+2009,Illinois,IL,5017,IL0281100,Valier,664,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5121,IL0451600,Valley View,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2009,Illinois,IL,5360,IL0670300,Valmeyer,1252,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5002,IL0260400,Vandalia,6258,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5318,IL0601500,Venice,2410,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5566,IL0920000,Vermilion,23725,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5025,IL0291000,Vermont,747,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5183,IL0492600,Vernon Hills,24965,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5103,IL0440100,Vienna,1287,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4949,IL0210600,Villa Grove,2438,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4967,IL0221700,Villa Park,22185,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5301,IL0591000,Virden,3351,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4710,IL0090300,Virginia,1657,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5584,IL0930000,Wabash,4565,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5338,IL0610600,Wamac,1259,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5100,IL0430600,Warren,1357,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5586,IL0940000,Warren,7633,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5289,IL0580900,Warrensburg,1160,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4975,IL0222500,Warrenville,12997,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5053,IL0340900,Warsaw,1584,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5681,IL1020600,Washburn,1095,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5551,IL0901000,Washington,14215,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5589,IL0950000,Washington,10155,8C,"Non-MSA counties from 10,000 thru 24,999",0,4,0,0,0,0,0
+2009,Illinois,IL,5471,IL0821700,Washington Park,5518,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5359,IL0670200,Waterloo,10015,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4934,IL0190600,Waterman,1563,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5071,IL0380100,Watseka,5460,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5124,IL0451900,Waubonsee Community College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5177,IL0492000,Wauconda,12549,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5178,IL0492100,Waukegan,91059,3,"Cities from 50,000 thru 99,000",0,8,0,0,0,0,0
+2009,Illinois,IL,4968,IL0221800,Wayne,2421,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5594,IL0960000,Wayne,10166,8C,"Non-MSA counties from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5596,IL0960200,Wayne City,1055,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4855,IL0166B00,Westchester,15593,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4969,IL0221900,West Chicago,26756,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5015,IL0280900,West City,767,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5122,IL0451700,West Dundee,8293,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5237,IL0550500,Western Illinois University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4879,IL0167B00,Western Springs,12705,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5013,IL0280500,West Frankfort,8185,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2009,Illinois,IL,4970,IL0222000,Westmont,24985,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4992,IL0240400,West Salem,930,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5578,IL0921200,Westville,2983,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4971,IL0222100,Wheaton,54346,3,"Cities from 50,000 thru 99,000",0,0,0,0,0,0,0
+2009,Illinois,IL,4906,IL0169B00,Wheeling,36041,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5597,IL0970000,White,7803,8D,"Non-MSA counties under 10,000",0,3,0,0,0,0,0
+2009,Illinois,IL,5039,IL0310400,White Hall,2437,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5603,IL0980000,Whiteside,20674,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5615,IL0990000,Will,112688,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2009,Illinois,IL,5642,IL0993000,Will County Forest Preserve,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2009,Illinois,IL,5155,IL0480800,Williamsfield,568,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5646,IL1000000,Williamson,24588,8C,"Non-MSA counties from 10,000 thru 24,999",0,6,0,0,0,0,0
+2009,Illinois,IL,5498,IL0840800,Williamsville,1383,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4978,IL0223000,Willowbrook,8710,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4777,IL0161C00,Willow Springs,5989,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,4795,IL0162C00,Wilmette,26288,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5629,IL0991400,Wilmington,6234,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5527,IL0860200,Winchester,1536,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4972,IL0222200,Winfield,10117,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5663,IL1010900,Winnebago,3245,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5655,IL1010000,Winnebago,66668,9B,"MSA counties from 25,000 thru 99,999",0,11,0,0,0,0,0
+2009,Illinois,IL,4810,IL0163C00,Winnetka,12365,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5179,IL0492200,Winthrop Harbor,7263,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5367,IL0680500,Witt,956,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5261,IL0562200,Wonder Lake,3995,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4973,IL0222300,Wood Dale,13884,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5675,IL1020000,Woodford,22916,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5069,IL0371100,Woodhull,788,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4974,IL0222400,Woodridge,32487,4,"Cities from 25,000 thru 49,999",0,10,0,0,0,0,0
+2009,Illinois,IL,5319,IL0601600,Wood River,10935,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2009,Illinois,IL,5254,IL0561500,Woodstock,24370,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5325,IL0602600,Worden,1051,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,4822,IL0164C00,Worth,10360,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,4863,IL0166K00,Wright College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5535,IL0880200,Wyoming,1389,7,"Cities under 2,500",0,0,0,0,1,1,0
+2009,Illinois,IL,5154,IL0480700,Yates City,661,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5147,IL0470200,Yorkville,18302,5,"Cities from 10,000 thru 24,999",0,0,0,0,0,0,0
+2009,Illinois,IL,5014,IL0280600,Zeigler,1665,7,"Cities under 2,500",0,0,0,0,0,0,0
+2009,Illinois,IL,5180,IL0492300,Zion,25414,4,"Cities from 25,000 thru 49,999",0,0,0,0,0,0,0

@@ -1,0 +1,8 @@
+arrestee_id,incident_id,arrestee_seq_num,arrest_num,arrest_date,arrest_type_id,multiple_indicator,offense_type_id,age_id,age_num,sex_code,race_id,ethnicity_id,resident_code,under_18_disposition_code,clearance_ind,ff_line_number,age_range_low_num,age_range_high_num
+20079950,70985838,3,12562,2013-12-31 00:00:00,3,N,16,5,19,M,1,,U,,,,,
+20079948,70985819,1,12550,2013-12-31 00:00:00,3,N,16,5,29,M,2,,U,,,,,
+20079952,70985838,2,12561,2013-12-31 00:00:00,3,N,35,5,20,F,1,,U,,,,,
+20079951,70985838,1,12563,2013-12-31 00:00:00,3,N,35,5,18,M,1,,U,,,,,
+20079946,70985794,1,14478,2014-05-13 00:00:00,3,N,16,5,34,M,1,2,U,,,,,
+20079949,70985829,1,12946,2014-01-28 00:00:00,3,N,45,5,36,F,1,,U,,,,,
+20079947,70985797,1,13013,2014-01-31 00:00:00,3,N,56,5,44,M,1,,U,,,,,

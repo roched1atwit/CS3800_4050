@@ -1,0 +1,143 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2004,Idaho,ID,4547,ID0060100,Aberdeen,1875,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4530,ID0010000,Ada,84455,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4535,ID0020000,Adams,3584,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4640,ID0390100,American Falls,4036,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4563,ID0100100,Ammon,8793,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2004,Idaho,ID,4569,ID0120100,Arco,1036,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4537,ID0030000,Bannock,14869,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4542,ID0040000,Bear Lake,3742,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4555,ID0070400,Bellevue,2157,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4544,ID0050000,Benewah,6567,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4546,ID0060000,Bingham,27079,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4548,ID0060200,Blackfoot,10856,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4551,ID0070000,Blaine,6941,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4531,ID0010100,Boise,193864,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4556,ID0080000,Boise,6875,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4558,ID0090000,Bonner,31705,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4567,ID0110100,Bonners Ferry,2699,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4562,ID0100000,Bonneville,36200,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4566,ID0110000,Boundary,7675,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4650,ID0420100,Buhl,4098,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4580,ID0160100,Burley,9497,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2004,Idaho,ID,4568,ID0120000,Butte,2930,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4572,ID0140100,Caldwell,31653,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4570,ID0130000,Camas,1070,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4571,ID0140000,Canyon,53972,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4576,ID0150000,Caribou,3934,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4656,ID0430200,Cascade,994,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4579,ID0160000,Cassia,22036,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4586,ID0190200,Challis,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4587,ID0190300,Challis,864,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4538,ID0030100,Chubbuck,10351,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4581,ID0170000,Clark,922,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4582,ID0180000,Clearwater,5354,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4609,ID0280100,Coeur d'Alene,37996,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4602,ID0250100,Cottonwood,1028,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4536,ID0020100,Council,780,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4585,ID0190000,Custer,3307,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4648,ID0410100,Driggs,1155,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4588,ID0200000,Elmore,17841,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4596,ID0230100,Emmett,6050,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4653,ID0420400,Filer,1723,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4549,ID0060300,Firth,426,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4591,ID0210000,Franklin,7168,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4593,ID0220000,Fremont,8904,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4636,ID0380100,Fruitland,4197,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4532,ID0010200,Garden City,11301,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4595,ID0230000,Gem,10056,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4589,ID0200100,Glenns Ferry,1544,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4598,ID0240100,Gooding,3388,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4597,ID0240000,Gooding,8143,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4578,ID0150200,Grace,986,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4603,ID0250200,Grangeville,3208,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4600,ID0240300,Hagerman,699,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4554,ID0070300,Hailey,7445,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4627,ID0340200,Heyburn,2845,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4634,ID0370100,Homedale,2641,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4601,ID0250000,Idaho,11481,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4557,ID0080100,Idaho City,504,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4564,ID0100200,Idaho Falls,52522,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4668,IDISP0000,Idaho State Police,0,8D,"Non-MSA counties under 10,000",0,4,0,4,0,0,0
+2004,Idaho,ID,4604,ID0260000,Jefferson,17497,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4606,ID0270000,Jerome,11089,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4607,ID0270100,Jerome,8197,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4620,ID0310200,Kamiah,1183,7,"Cities under 2,500",0,0,0,2,1,1,1
+2004,Idaho,ID,4642,ID0400100,Kellogg,2280,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4552,ID0070100,Ketchum,3183,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4652,ID0420300,Kimberly,2753,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4608,ID0280000,Kootenai,54564,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4534,ID0010700,Kuna,9013,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2004,Idaho,ID,4629,ID0350100,Lapwai,1148,7,"Cities under 2,500",0,0,0,0,0,0,0
+2004,Idaho,ID,4614,ID0290000,Latah,13644,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4541,ID0030400,Lava Hot Springs,536,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4617,ID0300000,Lemhi,4785,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4619,ID0310000,Lewis,3822,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4630,ID0350200,Lewiston,31547,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4621,ID0320000,Lincoln,2889,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4623,ID0330000,Madison,8174,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4632,ID0360100,Malad City,2150,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4655,ID0430100,McCall,2250,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4533,ID0010300,Meridian,41938,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4625,ID0340000,Minidoka,11429,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4543,ID0040100,Montpelier,2688,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4615,ID0290500,Moscow,22135,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4590,ID0200200,Mountain Home,11600,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4573,ID0140200,Nampa,65536,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4637,ID0380200,New Plymouth,1417,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4628,ID0350000,Nez Perce,5747,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4631,ID0360000,Oneida,4213,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4583,ID0180100,Orofino,3213,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4644,ID0400300,Osburn,1488,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4633,ID0370000,Owyhee,8765,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4574,ID0140300,Parma,1839,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4635,ID0380000,Payette,10250,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4638,ID0380300,Payette,7442,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4584,ID0180200,Pierce,572,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4645,ID0400400,Pinehurst,1621,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4539,ID0030200,Pocatello,52014,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4561,ID0090300,Ponderay,706,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4610,ID0280200,Post Falls,20378,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4616,ID0290600,Potlatch,774,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4639,ID0390000,Power,3369,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4592,ID0210100,Preston,4940,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4559,ID0090100,Priest River,1900,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4613,ID0280500,Rathdrum,5400,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4624,ID0330100,Rexburg,22293,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4605,ID0260100,Rigby,3095,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4626,ID0340100,Rupert,5456,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4618,ID0300200,Salmon,3098,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4560,ID0090200,Sandpoint,7523,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4550,ID0060400,Shelley,3962,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4641,ID0400000,Shoshone,7860,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4622,ID0320100,Shoshone,1517,7,"Cities under 2,500",0,5,0,5,0,0,0
+2004,Idaho,ID,4646,ID0400500,Smelterville,630,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4577,ID0150100,Soda Springs,3359,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4612,ID0280400,Spirit Lake,1459,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4594,ID0220200,St. Anthony,3442,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4661,IDDLE0400,"State Police, Alcohol Beverage Control",0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4671,IDISP0300,State Police: Boise,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4662,IDIBN0100,"State Police, Bureau of Narcotics: Region 1",0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4663,IDIBN0200,"State Police, Bureau of Narcotics: Region 2",0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4664,IDIBN0300,"State Police, Bureau of Narcotics: Region 3",0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4665,IDIBN0400,"State Police, Bureau of Narcotics: Region 4",0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4666,IDIBN0500,"State Police, Bureau of Narcotics: Region 5",0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4667,IDIBN0600,"State Police, Bureau of Narcotics: Region 6",0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4669,IDISP0100,State Police: Coeur d' Alene,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4674,IDISP0600,State Police: Idaho Falls,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4670,IDISP0200,State Police: Lewiston,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4673,IDISP0500,State Police: Pocatello,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4672,IDISP0400,State Police: Twin Falls,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4545,ID0050100,St. Maries,2640,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4553,ID0070200,Sun Valley,1475,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4647,ID0410000,Teton,7197,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4649,ID0420000,Twin Falls,22364,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4651,ID0420200,Twin Falls,37466,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4565,ID0100400,Ucon,985,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4654,ID0430000,Valley,4652,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4643,ID0400200,Wallace,904,7,"Cities under 2,500",0,0,0,0,1,1,1
+2004,Idaho,ID,4657,ID0440000,Washington,4700,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2004,Idaho,ID,4658,ID0440100,Weiser,5492,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2004,Idaho,ID,4599,ID0240200,Wendell,2381,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4575,ID0140400,Wilder,1494,7,"Cities under 2,500",1,12,1,12,0,1,1
+2004,Idaho,ID,4611,ID0280300,Worley,227,7,"Cities under 2,500",0,0,0,0,1,1,1

@@ -1,0 +1,433 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2006,Kansas,KS,6144,KS0210100,Abilene,6454,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6060,KS0010000,Allen,4676,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6472,KS0990100,Alma,769,7,"Cities under 2,500",0,3,0,3,0,0,0
+2006,Kansas,KS,6270,KS0500400,Altamont,1073,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6474,KS0990300,Alta Vista,428,7,"Cities under 2,500",0,8,0,8,0,0,0
+2006,Kansas,KS,6291,KS0560300,Americus,939,7,"Cities under 2,500",0,2,0,2,0,0,0
+2006,Kansas,KS,6420,KS0872000,Andale,814,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6065,KS0020000,Anderson,4303,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6091,KS0080500,Andover,9178,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6208,KS0390100,Anthony,2318,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6139,KS0190800,Arcadia,390,7,"Cities under 2,500",0,1,0,1,0,0,0
+2006,Kansas,KS,6465,KS0960700,Argonia,504,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6127,KS0180100,Arkansas City,11663,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6133,KS0190200,Arma,1506,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6401,KS0850200,Assaria,447,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6071,KS0030100,Atchison,10241,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6070,KS0030000,Atchison,6682,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6209,KS0390200,Attica,608,7,"Cities under 2,500",0,8,0,8,0,0,0
+2006,Kansas,KS,6372,KS0770100,Atwood,1147,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6435,KS0890700,Auburn,1139,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6087,KS0080100,Augusta,8669,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6158,KS0230300,Baldwin City,3772,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6072,KS0040000,Barber,1979,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6075,KS0050000,Barton,6563,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2006,Kansas,KS,6278,KS0520500,Basehor,3310,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6103,KS0110300,Baxter Springs,4276,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6419,KS0871800,Bel Aire,6603,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6460,KS0960200,Belle Plaine,1629,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6381,KS0790100,Belleville,1970,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6319,KS0620100,Beloit,3729,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6094,KS0080800,Benton,823,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6108,KS0120200,Bird City,441,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6309,KS0590200,Blue Rapids,1055,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6260,KS0462600,Blue Valley School District,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6487,KS1050100,Bonner Springs,6985,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6081,KS0060000,Bourbon,7057,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6083,KS0070000,Brown,520,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6181,KS0290200,Bucklin,739,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6378,KS0780600,Buhler,1344,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6129,KS0180300,Burden,557,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6344,KS0700200,Burlingame,1022,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6119,KS0160100,Burlington,2726,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2006,Kansas,KS,6306,KS0580600,Burns,277,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6216,KS0400500,Burrton,919,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6385,KS0800300,Bushton,300,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6086,KS0080000,Butler,25434,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6462,KS0960400,Caldwell,1224,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6325,KS0630400,Caney,1989,7,"Cities under 2,500",0,3,0,4,0,0,0
+2006,Kansas,KS,6299,KS0570900,Canton,818,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6345,KS0700300,Carbondale,1461,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6320,KS0620300,Cawker City,477,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6099,KS0100200,Cedar Vale,674,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6336,KS0670100,Chanute,9070,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6146,KS0210300,Chapman,1252,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6388,KS0800600,Chase,470,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6096,KS0090000,Chase,3103,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6097,KS0100000,Chautauqua,2186,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6412,KS0870900,Cheney,1856,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6100,KS0110000,Cherokee,9971,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6136,KS0190500,Cherokee,723,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6324,KS0630300,Cherryvale,2282,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6269,KS0500300,Chetopa,1240,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6106,KS0120000,Cheyenne,1581,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6199,KS0350100,Cimarron,2043,7,"Cities under 2,500",0,0,0,11,1,1,1
+2006,Kansas,KS,6079,KS0050400,Claflin,693,7,"Cities under 2,500",1,12,0,0,0,1,0
+2006,Kansas,KS,6109,KS0130000,Clark,2299,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2006,Kansas,KS,6110,KS0140000,Clay,3401,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6111,KS0140100,Clay Center,4409,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6413,KS0871000,Clearwater,2230,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6113,KS0140300,Clifton,512,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6114,KS0150000,Cloud,4419,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6116,KS0150200,Clyde,714,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6118,KS0160000,Coffey,3918,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6322,KS0630100,Coffeyville,10432,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6468,KS0970100,Colby,5066,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6124,KS0170100,Coldwater,779,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6067,KS0020200,Colony,393,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6101,KS0110100,Columbus,3282,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6410,KS0870700,Colwich,1337,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6123,KS0170000,Comanche ,625,8D,"Non-MSA counties under 10,000",0,5,0,5,0,0,0
+2006,Kansas,KS,6115,KS0150100,Concordia,5409,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6463,KS0960500,Conway Springs,1262,7,"Cities under 2,500",0,7,0,7,0,0,0
+2006,Kansas,KS,6327,KS0640100,Council Grove,2291,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6126,KS0180000,Cowley,10611,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6131,KS0190000,Crawford,10117,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6141,KS0200000,Decatur,1390,8D,"Non-MSA counties under 10,000",0,10,0,11,0,0,0
+2006,Kansas,KS,6355,KS0720100,Delphos,452,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6226,KS0430300,Denison ,232,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6405,KS0870100,Derby,20688,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6143,KS0210000,Dickinson,7967,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6180,KS0290100,Dodge City,26288,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6150,KS0220000,Doniphan,3439,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6155,KS0230000,Douglas,12154,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6089,KS0080300,Douglass,1812,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6353,KS0710200,Downs,945,7,"Cities under 2,500",0,0,0,0,1,0,0
+2006,Kansas,KS,6411,KS0870800,Eastborough,796,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6254,KS0461900,Edgerton,1704,7,"Cities under 2,500",0,0,0,0,1,1,0
+2006,Kansas,KS,6271,KS0500500,Edna,425,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6160,KS0240000,Edwards,1279,8D,"Non-MSA counties under 10,000",0,10,0,10,0,0,0
+2006,Kansas,KS,6489,KS1050300,Edwardsville,4535,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6088,KS0080200,El Dorado,12748,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6163,KS0250000,Elk,3097,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6330,KS0650100,Elkhart,2050,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6076,KS0050100,Ellinwood,2134,7,"Cities under 2,500",1,12,0,0,0,1,0
+2006,Kansas,KS,6165,KS0260000,Ellis,4188,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6167,KS0260200,Ellis,1825,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6171,KS0270100,Ellsworth,2907,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6170,KS0270000,Ellsworth,1734,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6151,KS0220100,Elwood,1161,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6289,KS0560100,Emporia,26643,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6290,KS0560200,Emporia State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6200,KS0350200,Ensign,200,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6147,KS0210400,Enterprise,817,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6337,KS0670200,Erie,1175,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6473,KS0990200,Eskridge,575,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6159,KS0230400,Eudora,5321,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6204,KS0370100,Eureka,2758,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2006,Kansas,KS,6240,KS0460100,Fairway,3867,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6175,KS0280000,Finney,10073,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6304,KS0580400,Florence,655,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6179,KS0290000,Ford,6098,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6169,KS0260400,Fort Hays State University,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6082,KS0060100,Fort Scott,8046,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6310,KS0590300,Frankfort,801,7,"Cities under 2,500",0,2,0,2,0,0,0
+2006,Kansas,KS,6183,KS0300000,Franklin,11585,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6188,KS0300700,Franklin County Drug Enforcement,0,7,"Cities under 2,500",0,7,0,7,0,0,0
+2006,Kansas,KS,6482,KS1030100,Fredonia,2472,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6135,KS0190400,Frontenac,3123,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6102,KS0110200,Galena,3185,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6295,KS0570300,Galva,778,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6176,KS0280100,Garden City,27289,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6178,KS0280300,Garden City Community College,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6415,KS0871300,Garden Plain,829,7,"Cities under 2,500",0,8,0,8,0,0,0
+2006,Kansas,KS,6251,KS0461200,Gardner,14418,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6066,KS0020100,Garnett,3362,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6189,KS0310000,Geary,7195,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6386,KS0800400,Geneseo,273,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6134,KS0190300,Girard,2705,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6414,KS0871100,Goddard,3361,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6305,KS0580500,Goessel,551,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6448,KS0910100,Goodland,4517,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6192,KS0320000,Gove,1931,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6194,KS0330000,Graham,1279,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6191,KS0310200,Grandview Plaza,1046,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6196,KS0340000,Grant,1893,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6198,KS0350000,Gray,5902,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6077,KS0050200,Great Bend,15549,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2006,Kansas,KS,6068,KS0020300,Greeley,335,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6201,KS0360000,Greeley,1359,8D,"Non-MSA counties under 10,000",0,9,0,11,0,0,0
+2006,Kansas,KS,6203,KS0370000,Greenwood,7390,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6214,KS0400300,Halstead,1926,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6206,KS0380000,Hamilton,2622,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2006,Kansas,KS,6207,KS0390000,Harper,1710,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6210,KS0390300,Harper,1488,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6211,KS0400000,Harvey,5911,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6219,KS0410000,Haskell,4262,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6376,KS0780300,Haven,1178,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6166,KS0260100,Hays,19771,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6406,KS0870200,Haysville,9886,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6145,KS0210200,Herington,2485,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6213,KS0400200,Hesston,3657,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6084,KS0070100,Hiawatha,3259,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6154,KS0220400,Highland,948,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6195,KS0330100,Hill City,1461,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6301,KS0580100,Hillsboro,2750,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6222,KS0420000,Hodgeman,2125,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6078,KS0050300,Hoisington,3017,6,"Cities from 2,500 thru 9,999",0,9,0,0,0,0,0
+2006,Kansas,KS,6177,KS0280200,Holcomb,1901,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6224,KS0430100,Holton,3424,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6174,KS0270400,Holyrood,455,7,"Cities under 2,500",0,1,0,1,0,0,0
+2006,Kansas,KS,6149,KS0210600,Hope,370,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6085,KS0070200,Horton,1856,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6446,KS0900100,Hoxie,1157,7,"Cities under 2,500",0,0,1,12,1,0,1
+2006,Kansas,KS,6225,KS0430200,Hoyt ,604,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6457,KS0950100,Hugoton,3670,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6061,KS0010100,Humboldt,1935,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6374,KS0780100,Hutchinson,41250,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6323,KS0630200,Independence,9350,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6298,KS0570800,Inman,1202,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6062,KS0010200,Iola,6050,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6495,KSDI05100,Iowa Tribal,146,7,"Cities under 2,500",0,10,0,4,0,0,0
+2006,Kansas,KS,6223,KS0430000,Jackson,7771,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6228,KS0440000,Jefferson,13221,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6238,KS0450000,Jewell,3376,8D,"Non-MSA counties under 10,000",0,3,0,3,0,0,0
+2006,Kansas,KS,6239,KS0460000,Johnson,22723,9C,"MSA counties from 10,000 thru 24,999",1,12,0,4,0,1,0
+2006,Kansas,KS,6255,KS0462000,Johnson County Park,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6190,KS0310100,Junction City,16518,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6173,KS0270300,Kanopolis,520,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6433,KS0890500,Kansas Alcoholic Beverage Control,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6497,KSKBI0000,Kansas Bureau of Investigation,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6488,KS1050200,Kansas City,145229,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2006,Kansas,KS,6492,KS1050700,Kansas City Kansas Community College,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6370,KS0760200,Kansas Department of Wildlife and Parks,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6499,KSKPAQ000,Kansas Department of Wildlife and Parks-Topeka,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6498,KSKHP0000,Kansas Highway Patrol,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6439,KS0891200,Kansas Lottery Security Division,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6440,KS0891300,Kansas Racing Commission Security Division,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6391,KS0810200,Kansas State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6261,KS0470000,Kearny,4548,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6421,KS0872100,Kechi,1251,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6494,KSDI05000,Kickapoo Tribal,4419,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2006,Kansas,KS,6069,KS0020400,Kincaid ,182,7,"Cities under 2,500",0,1,0,1,0,0,0
+2006,Kansas,KS,6262,KS0480000,Kingman,4492,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6263,KS0480100,Kingman,3205,6,"Cities from 2,500 thru 9,999",0,11,0,11,0,0,0
+2006,Kansas,KS,6161,KS0240100,Kinsley,1558,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6073,KS0040100,Kiowa,972,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6265,KS0490000,Kiowa,3005,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6266,KS0500000,Labette,6712,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6396,KS0830100,La Crosse,1314,7,"Cities under 2,500",0,8,0,8,0,0,0
+2006,Kansas,KS,6283,KS0540300,La Cygne,1154,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6064,KS0010400,La Harpe,678,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6258,KS0462400,Lake Quivira,929,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6273,KS0510000,Lane,1907,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6277,KS0520300,Lansing,10286,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6358,KS0730100,Larned,3901,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6156,KS0230100,Lawrence,82394,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6275,KS0520100,Leavenworth,35462,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6274,KS0520000,Leavenworth,20770,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6241,KS0460200,Leawood,30358,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2006,Kansas,KS,6120,KS0160300,Lebo,957,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6249,KS0461000,Lenexa,43741,4,"Cities from 25,000 thru 49,999",1,12,0,8,0,1,0
+2006,Kansas,KS,6093,KS0080700,Leon,653,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6122,KS0160500,Le Roy,583,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6162,KS0240200,Lewis,478,7,"Cities under 2,500",0,1,0,1,0,0,0
+2006,Kansas,KS,6426,KS0880100,Liberal,20400,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6279,KS0530000,Lincoln,3435,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6294,KS0570200,Lindsborg,3328,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6280,KS0540000,Linn,5733,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6285,KS0540500,Linn Valley,585,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6387,KS0800500,Little River,532,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6286,KS0550000,Logan,867,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6361,KS0740200,Logan,553,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6317,KS0610300,Louisburg,3336,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6346,KS0700400,Lyndon,1048,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6288,KS0560000,Lyon,8279,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6383,KS0800100,Lyons,3579,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6454,KS0930300,Macksville,497,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6205,KS0370200,Madison,805,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6417,KS0871500,Maize,2132,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6390,KS0810100,Manhattan,49012,4,"Cities from 25,000 thru 49,999",0,0,0,0,1,1,1
+2006,Kansas,KS,6475,KS0990500,Maple Hill,495,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6300,KS0580000,Marion,5457,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6302,KS0580200,Marion,2042,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6297,KS0570600,Marquette,589,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6307,KS0590000,Marshall,4817,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6308,KS0590100,Marysville,3173,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6227,KS0430400,Mayetta,362,7,"Cities under 2,500",0,1,0,1,0,0,0
+2006,Kansas,KS,6137,KS0190600,McCune,427,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6232,KS0440400,McLouth,855,7,"Cities under 2,500",0,3,0,3,0,0,0
+2006,Kansas,KS,6293,KS0570100,McPherson,13792,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6292,KS0570000,McPherson,7570,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6313,KS0600100,Meade,1641,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6312,KS0600000,Meade,3017,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6074,KS0040200,Medicine Lodge,2042,7,"Cities under 2,500",0,2,0,2,0,0,0
+2006,Kansas,KS,6350,KS0700800,Melvern,433,7,"Cities under 2,500",0,3,0,3,0,0,0
+2006,Kansas,KS,6231,KS0440300,Meriden,713,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6242,KS0460300,Merriam,10845,5,"Cities from 10,000 thru 24,999",0,4,0,5,0,0,0
+2006,Kansas,KS,6434,KS0890600,Metropolitan Topeka Airport Authority,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6314,KS0610000,Miami,16558,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6117,KS0150600,Miltonvale,489,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6356,KS0720200,Minneapolis,2029,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6243,KS0460400,Mission,9820,6,"Cities from 2,500 thru 9,999",1,12,0,1,0,1,0
+2006,Kansas,KS,6252,KS0461300,Mission Hills,3548,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6256,KS0462200,Mission Woods,161,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6318,KS0620000,Mitchell,2259,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2006,Kansas,KS,6321,KS0630000,Montgomery,10761,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6063,KS0010300,Moran,545,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6326,KS0640000,Morris,3801,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6329,KS0650000,Morton,721,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6281,KS0540100,Mound City,826,7,"Cities under 2,500",0,3,0,4,0,0,0
+2006,Kansas,KS,6296,KS0570400,Moundridge,1655,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6272,KS0500600,Mound Valley,417,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6416,KS0871400,Mount Hope,848,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6140,KS0190900,Mulberry,578,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6461,KS0960300,Mulvane,5668,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6332,KS0660000,Nemaha,5918,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6483,KS1030200,Neodesha,2671,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6335,KS0670000,Neosho,6401,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6338,KS0680000,Ness,3030,8D,"Non-MSA counties under 10,000",0,10,0,10,0,0,0
+2006,Kansas,KS,6339,KS0680100,Ness City,1335,7,"Cities under 2,500",0,0,0,0,1,0,0
+2006,Kansas,KS,6212,KS0400100,Newton,18358,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6377,KS0780400,Nickerson,1172,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6217,KS0400600,North Newton,1585,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6340,KS0690000,Norton,2878,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6341,KS0690100,Norton,2826,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6233,KS0440500,Nortonville,602,7,"Cities under 2,500",0,3,0,3,0,0,0
+2006,Kansas,KS,6264,KS0480300,Norwich,526,7,"Cities under 2,500",0,8,0,8,0,0,0
+2006,Kansas,KS,6287,KS0550100,Oakley,1998,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6142,KS0200100,Oberlin,1824,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6244,KS0460500,Olathe,112120,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2006,Kansas,KS,6342,KS0700000,Osage,8146,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6343,KS0700100,Osage City,3008,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6316,KS0610200,Osawatomie,4649,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6351,KS0710000,Osborne,2629,8D,"Non-MSA counties under 10,000",0,11,0,11,0,0,0
+2006,Kansas,KS,6352,KS0710100,Osborne,1450,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6234,KS0440600,Oskaloosa,1157,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6268,KS0500200,Oswego,2010,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6184,KS0300100,Ottawa,12686,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6354,KS0720000,Ottawa,3685,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6347,KS0700500,Overbrook,978,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6245,KS0460600,Overland Park,165975,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2006,Kansas,KS,6464,KS0960600,Oxford,1125,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6237,KS0440900,Ozawkie,578,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6315,KS0610100,Paola,5329,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6418,KS0871600,Park City,7224,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6284,KS0540400,Parker,308,7,"Cities under 2,500",0,1,0,1,0,0,0
+2006,Kansas,KS,6267,KS0500100,Parsons,11291,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6357,KS0730000,Pawnee,2886,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6080,KS0050500,Pawnee Rock,348,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6303,KS0580300,Peabody,1311,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6236,KS0440800,Perry,889,7,"Cities under 2,500",0,8,0,8,0,0,0
+2006,Kansas,KS,6229,KS0440100,Perry State Park,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6359,KS0740000,Phillips,5543,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6360,KS0740100,Phillipsburg,2449,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6132,KS0190100,Pittsburg,19350,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6138,KS0190700,Pittsburg State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6393,KS0820100,Plainville,1902,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6282,KS0540200,Pleasanton,1378,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6186,KS0300400,Pomona,949,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6493,KSDI00200,Potawatomi Tribal,1238,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6362,KS0750000,Pottawatomie,12224,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6246,KS0460700,Prairie Village,21606,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6368,KS0760000,Pratt,3070,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6369,KS0760100,Pratt,6493,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6379,KS0780800,Pretty Prairie,604,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6125,KS0170200,Protection,545,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6349,KS0700700,Quenemo,458,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6193,KS0320100,Quinter,852,7,"Cities under 2,500",0,2,0,2,0,0,0
+2006,Kansas,KS,6371,KS0770000,Rawlins,1544,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6373,KS0780000,Reno,16564,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6380,KS0790000,Republic,3230,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6382,KS0800000,Rice,2778,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6187,KS0300600,Richmond,518,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6389,KS0810000,Riley County Police Department,63270,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6247,KS0460800,Roeland Park,7024,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6331,KS0650200,Rolla,448,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6392,KS0820000,Rooks,2024,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6092,KS0080600,Rose Hill,3924,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6430,KS0890200,Rossville,1003,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6395,KS0830000,Rush,2116,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6398,KS0840100,Russell,4373,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6397,KS0840000,Russell,2520,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6333,KS0660100,Sabetha,2541,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6496,KSDI05200,Sac and Fox Tribal,86,7,"Cities under 2,500",0,2,0,0,0,0,0
+2006,Kansas,KS,6400,KS0850100,Salina,46281,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6399,KS0850000,Saline,7572,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6221,KS0410200,Satanta,1187,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6402,KS0860000,Scott,1133,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6403,KS0860100,Scott City,3499,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6348,KS0700600,Scranton,717,7,"Cities under 2,500",0,8,0,8,0,0,0
+2006,Kansas,KS,6438,KS0891000,Securities Office Investigation Section,0,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6098,KS0100100,Sedan,1278,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6215,KS0400400,Sedgwick,1656,7,"Cities under 2,500",0,10,0,11,0,0,0
+2006,Kansas,KS,6404,KS0870000,Sedgwick,41745,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6334,KS0660200,Seneca,2083,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6425,KS0880000,Seward,3038,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6477,KS1000100,Sharon Springs,738,7,"Cities under 2,500",0,0,0,0,1,0,0
+2006,Kansas,KS,6428,KS0890000,Shawnee,47272,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6248,KS0460900,Shawnee,58035,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6259,KS0462500,Shawnee Mission Public Schools,0,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6445,KS0900000,Sheridan,2609,8D,"Non-MSA counties under 10,000",0,9,0,9,0,0,0
+2006,Kansas,KS,6447,KS0910000,Sherman,1679,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6431,KS0890300,Silver Lake,1362,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6449,KS0920000,Smith,2413,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6450,KS0920100,Smith Center,1737,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6148,KS0210500,Solomon,1063,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6466,KS0960800,South Haven,371,7,"Cities under 2,500",0,0,0,0,1,0,1
+2006,Kansas,KS,6375,KS0780200,South Hutchinson,2499,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6182,KS0290300,Spearville,864,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6253,KS0461700,Spring Hill,4526,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6451,KS0930000,Stafford,1724,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6452,KS0930100,Stafford,1075,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6455,KS0940000,Stanton,2261,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6384,KS0800200,Sterling,2594,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6456,KS0950000,Stevens,1780,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6107,KS0120100,St. Francis,1386,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6365,KS0750400,St. George,498,7,"Cities under 2,500",0,7,0,7,0,0,0
+2006,Kansas,KS,6453,KS0930200,St. John,1224,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6363,KS0750100,St. Marys,2269,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6394,KS0820200,Stockton,1463,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6220,KS0410100,Sublette,1593,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6458,KS0960000,Sumner,10012,9C,"MSA counties from 10,000 thru 24,999",0,11,1,12,0,0,1
+2006,Kansas,KS,6467,KS0970000,Thomas,2576,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6276,KS0520200,Tonganoxie,3801,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6429,KS0890100,Topeka,122807,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2006,Kansas,KS,6437,KS0890900,Topeka Fire Department Arson Investigation,0,7,"Cities under 2,500",0,9,0,9,0,0,0
+2006,Kansas,KS,6090,KS0080400,Towanda,1365,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6469,KS0980000,Trego,1286,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6202,KS0360100,Tribune,727,7,"Cities under 2,500",0,0,0,0,1,0,0
+2006,Kansas,KS,6152,KS0220200,Troy,1024,7,"Cities under 2,500",0,1,0,1,0,0,0
+2006,Kansas,KS,6130,KS0180400,Udall,771,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6197,KS0340100,Ulysses,5690,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6444,KS0892000,Unified School District: Auburn-Washburn,0,7,"Cities under 2,500",0,2,0,2,0,0,0
+2006,Kansas,KS,6095,KS0081000,Unified School District: Bluestem,0,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6423,KS0872400,Unified School District: Goddard,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6422,KS0872300,Unified School District: Maize,0,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6436,KS0890800,Unified School District: Topeka,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6157,KS0230200,University of Kansas: Main Campus,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6490,KS1050400,University of Kansas: Medical Center,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6408,KS0870500,Valley Center,5547,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6230,KS0440200,Valley Falls,1218,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6168,KS0260300,Victoria,1172,7,"Cities under 2,500",0,0,0,0,0,0,0
+2006,Kansas,KS,6471,KS0990000,Wabaunsee,4701,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6470,KS0980100,Wa Keeney,1786,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6112,KS0140200,Wakefield,880,7,"Cities under 2,500",0,11,0,11,0,0,0
+2006,Kansas,KS,6476,KS1000000,Wallace,1584,8D,"Non-MSA counties under 10,000",0,10,0,10,0,0,0
+2006,Kansas,KS,6218,KS0400700,Walton,297,7,"Cities under 2,500",0,2,0,2,0,0,0
+2006,Kansas,KS,6364,KS0750200,Wamego,4273,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6442,KS0891800,Washburn University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6479,KS1010100,Washington,1153,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6478,KS1010000,Washington,6051,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6311,KS0590400,Waterville,632,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6153,KS0220300,Wathena,1299,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6121,KS0160400,Waverly,560,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6104,KS0110400,Weir,757,7,"Cities under 2,500",0,4,0,4,0,0,0
+2006,Kansas,KS,6459,KS0960100,Wellington,8155,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6185,KS0300200,Wellsville,1643,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6105,KS0110700,West Mineral,236,7,"Cities under 2,500",0,7,0,7,0,0,0
+2006,Kansas,KS,6250,KS0461100,Westwood,1493,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6257,KS0462300,Westwood Hills,368,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6328,KS0640200,White City,503,7,"Cities under 2,500",0,0,0,0,1,1,1
+2006,Kansas,KS,6407,KS0870300,Wichita,357372,1C,"Cities from 250,000 thru 499,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6480,KS1020000,Wichita,2325,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6409,KS0870600,Wichita State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2006,Kansas,KS,6481,KS1030000,Wilson,4760,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6172,KS0270200,Wilson,772,7,"Cities under 2,500",0,5,0,5,0,0,0
+2006,Kansas,KS,6235,KS0440700,Winchester,586,7,"Cities under 2,500",0,10,0,10,0,0,0
+2006,Kansas,KS,6128,KS0180200,Winfield,11945,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2006,Kansas,KS,6484,KS1040000,Woodson,2093,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6486,KS1050000,Wyandotte,54,9D,"MSA counties under 10,000",0,4,0,4,0,0,0
+2006,Kansas,KS,6491,KS1050500,Wyandotte County Parks and Recreation,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2006,Kansas,KS,6485,KS1040100,Yates Center,1504,7,"Cities under 2,500",1,12,1,12,0,1,1
